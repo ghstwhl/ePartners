@@ -130,3 +130,5 @@ void loop() {
 ```
 
 ### Test Result
+
+| ![alt text](assets/Arduino_Uno.gif 'Uno R3') |
