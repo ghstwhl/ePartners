@@ -57,10 +57,9 @@
 
 ## Test Environment
 
-    - Hardware
+-   Hardware
 
     | ![alt text](Pictures/arduino_uno.png 'Uno R3') |
+    | ---------------------------------------------- |
 
-| --------------------------------------------------------------------- |
-
-    - Software
+    -   Software
