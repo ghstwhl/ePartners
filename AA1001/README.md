@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
--   [Feature](#feature)
+-   [Features](#feature)
 -   [Description](#description)
 -   [Component](#component)
 -   [Connections](#connections)
@@ -15,6 +15,7 @@
 
 ## Features
 
+|-- | -- |
 | Microcontroller | ATmega328P |
 | Operationg Volatage | 5V |
 | Input Voltage(recommended) | 7-12V |  
