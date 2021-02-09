@@ -50,8 +50,8 @@
 
 ## Schematic
 
-| ![alt text](D:\Assets\AA1001\arduino_uno_scheamtic_ch340.png 'Uno Schematic') |
-| ----------------------------------------------------------------------------- |
+| ![alt text](assets/arduino_uno_schematic_ch340.png 'Uno Schematic') |
+| ------------------------------------------------------------------- |
 
 ---
 
@@ -59,12 +59,12 @@
 
 -   Hardware
 
-    | ![alt text](Pictures/arduino_uno.png 'Uno R3') |
-    | ---------------------------------------------- |
+    | ![alt text](assets/arduino_uno.png 'Uno R3') |
+    | -------------------------------------------- |
 
 -   Software
 
-    | ![alt text](Pictures/arduino_uno.png 'Uno R3') |
+    | ![alt text](assets/software_1.png 'Uno R3')    |
     | ---------------------------------------------- |
-    | ![alt text](Pictures/arduino_uno.png 'Uno R3') |
+    | ![alt text](assets/software_2.png 'Uno R3')    |
     | ---------------------------------------------- |
