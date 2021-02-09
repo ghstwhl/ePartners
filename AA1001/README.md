@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
--   [Features](#feature)
+-   [Features](#features)
 -   [Description](#description)
 -   [Schematic](#schematic)
 -   [Test Environment](#test-environment)
@@ -38,7 +38,7 @@
 | ISCP Header                | 6 pins                                                |
 | Reset Button               | Red one                                               |
 
---
+---
 
 ## Description
 
