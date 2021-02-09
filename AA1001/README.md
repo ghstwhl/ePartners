@@ -50,8 +50,8 @@
 
 ## Schematic
 
-| ![alt text](http://bit.ly/uno-schematic 'Uno Schematic') |
-| -------------------------------------------------------- |
+| ![alt text](D:\Assets\AA1001\arduino_uno_scheamtic_ch340.png 'Uno Schematic') |
+| ----------------------------------------------------------------------------- |
 
 ---
 
