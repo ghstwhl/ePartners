@@ -133,3 +133,10 @@ void loop() {
 
 | ![alt text](assets/Arduino_Uno.gif 'Uno R3') |
 | -------------------------------------------- |
+
+## Troubleshooting
+
+| ![alt text](assets/trouble_1.png 'Port blocked') |
+| ------------------------------------------------ |
+
+| If the 'port' button is unactivated, you need to install the [CH340 Driver](Drivers/)
