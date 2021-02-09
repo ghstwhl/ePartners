@@ -90,18 +90,25 @@
 | -------------------------------------------- |
 | Run the Arduino IDE                          |
 
-| ![alt text](assets/software_11.png 'Uno R3')                                              |
-| ----------------------------------------------------------------------------------------- |
-| ![alt text](assets/software_12.png 'Uno R3')                                              |
-| ----------------------------------------------                                            |
-| ![alt text](assets/software_13.png 'Uno R3')                                              |
-| ----------------------------------------------                                            |
+| ![alt text](assets/software_11.png 'Uno R3') |
+| -------------------------------------------- |
+| Default page                                 |
+
+| ![alt text](assets/software_12.png 'Uno R3') |
+| -------------------------------------------- |
+| Choose a blink example                       |
+
+| ![alt text](assets/software_13.png 'Uno R3') |
+| Choose the "Arduino Uno" Board type & Port, if not selected |
 | If the 'Port' button is unactivated, See the [Troubleshooting](#troubleshooting) section. |
 
-| ![alt text](assets/software_14.png 'Uno R3')   |
-| ---------------------------------------------- |
-| ![alt text](assets/software_15.png 'Uno R3')   |
-| ---------------------------------------------- |
+| ![alt text](assets/software_14.png 'Uno R3')                        |
+| ------------------------------------------------------------------- |
+| Click the 'upload' button. Compile will be processed automatically. |
+
+| ![alt text](assets/software_15.png 'Uno R3') |
+| -------------------------------------------- |
+| Check the 'Done uploading' message.          |
 
 ### Test Code
 
@@ -120,3 +127,5 @@ void loop() {
   delay(1000);                       // wait for a second
 }
 ```
+
+### Test Result
