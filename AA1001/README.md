@@ -59,12 +59,12 @@
 
 ### Hardware
 
-    | ![alt text](assets/arduino_uno.png 'Uno R3') |
+-   | ![alt text](assets/arduino_uno.png 'Uno R3') |
     | -------------------------------------------- |
 
 ### Software
 
-    | ![alt text](assets/software_1.png 'Uno R3')    |
+-   | ![alt text](assets/software_1.png 'Uno R3')    |
     | ---------------------------------------------- |
     | ![alt text](assets/software_2.png 'Uno R3')    |
     | ---------------------------------------------- |
