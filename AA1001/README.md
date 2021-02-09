@@ -52,3 +52,15 @@
 
 | ![alt text](Pictures/arduino_uno_scheamtic_ch340.png 'Uno Schematic') |
 | --------------------------------------------------------------------- |
+
+---
+
+## Test Environment
+
+    - Hardware
+
+    | ![alt text](Pictures/arduino_uno.png 'Uno R3') |
+
+| --------------------------------------------------------------------- |
+
+    - Software
