@@ -136,7 +136,7 @@ void loop() {
 
 ## Troubleshooting
 
-| ![alt text](assets/trouble_1.png 'Port blocked')                                                    |
-| --------------------------------------------------------------------------------------------------- |
-| If the 'port' button is unactivated, you need to install the CH340 Driver [here.](Drivers/)         |
-| For more information, please visit [here.](https://sparks.gogo.co.nz/ch340.html){:target="\_blank"} |
+| ![alt text](assets/trouble_1.png 'Port blocked')                                                  |
+| ------------------------------------------------------------------------------------------------- |
+| If the 'port' button is unactivated, you need to install the CH340 Driver [here.](Drivers/)       |
+| For more information, please visit [here.](https://sparks.gogo.co.nz/ch340.html target="\_blank") |
