@@ -4,8 +4,10 @@
 
 -   [Features](#feature)
 -   [Description](#description)
--   [Component](#component)
--   [Connections](#connections)
+-   [Schematic](#schematic)
+-   [Test Environment](#test-environment)
+    -   [Hardware](#hardware)
+    -   [Software](#software)
 -   [Test Code](#test-code)
     -   [Test result](#test-result)
 -   [Troubleshooting](#troubleshooting)
@@ -27,4 +29,19 @@
 | Flash Memory               | 32 KB (ATmega328P) of which 0.5 KB used by bootloader |
 | SRAM                       | 2 KB (ATmega328P)                                     |
 | EEPROM                     | 1 KB (ATmega328P)                                     |
-| Clock Speed                | 16 MHz                                                |
+| Clock Speed                | 16 MHz (ceramic resonator)                            |
+| Length                     | 68.66 mm                                              |
+| Width                      | 53.4 mm                                               |
+| Weight                     | 25g                                                   |
+| USB Connector              | Type B                                                |
+| Power Jack                 | AC-to-DC adaptor                                      |
+| ISCP Header                |                                                       |
+| Reset Button               |                                                       |
+
+--
+
+## Description
+
+-   This Arduino Uno is a microcontroller board based on the CH340.
+-   It contains everything needed to support the microcontroller; simply connect it to a computer with a USB cable or power it with an AC-to-DC adapter or battery to get started.
+-   The Uno differs from all preceding boards in that it does not use the FTDI USB-to-serial driver chip. Instead, it features the CH340 programmed as a USB-to-serial converter
