@@ -88,6 +88,7 @@
 
 | ![alt text](assets/software_10.png 'Uno R3')   |
 | ---------------------------------------------- |
+| Run the Arduino IDE                            |
 | ![alt text](assets/software_11.png 'Uno R3')   |
 | ---------------------------------------------- |
 | ![alt text](assets/software_12.png 'Uno R3')   |
