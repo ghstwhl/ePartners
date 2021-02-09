@@ -136,7 +136,6 @@ void loop() {
 
 ## Troubleshooting
 
-| ![alt text](assets/trouble_1.png 'Port blocked') |
-| ------------------------------------------------ |
-
-| If the 'port' button is unactivated, you need to install the CH340 Driver [here.](Drivers/)
+| ![alt text](assets/trouble_1.png 'Port blocked')                                            |
+| ------------------------------------------------------------------------------------------- |
+| If the 'port' button is unactivated, you need to install the CH340 Driver [here.](Drivers/) |
