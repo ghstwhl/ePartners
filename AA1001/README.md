@@ -45,3 +45,10 @@
 -   This Arduino Uno is a microcontroller board based on the CH340.
 -   It contains everything needed to support the microcontroller; simply connect it to a computer with a USB cable or power it with an AC-to-DC adapter or battery to get started.
 -   The Uno differs from all preceding boards in that it does not use the FTDI USB-to-serial driver chip. Instead, it features the CH340 programmed as a USB-to-serial converter
+
+---
+
+## Schematic
+
+| ![alt text](Pictures/arduino_uno_scheamtic_ch340.png 'Uno Schematic') |
+| --------------------------------------------------------------------- |
