@@ -62,4 +62,9 @@
     | ![alt text](Pictures/arduino_uno.png 'Uno R3') |
     | ---------------------------------------------- |
 
-    -   Software
+-   Software
+
+    | ![alt text](Pictures/arduino_uno.png 'Uno R3') |
+    | ---------------------------------------------- |
+    | ![alt text](Pictures/arduino_uno.png 'Uno R3') |
+    | ---------------------------------------------- |
