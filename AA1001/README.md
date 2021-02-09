@@ -86,15 +86,18 @@
 
 ## Test
 
-| ![alt text](assets/software_10.png 'Uno R3')   |
-| ---------------------------------------------- |
-| Run the Arduino IDE                            |
-| ![alt text](assets/software_11.png 'Uno R3')   |
-| ---------------------------------------------- |
-| ![alt text](assets/software_12.png 'Uno R3')   |
-| ---------------------------------------------- |
-| ![alt text](assets/software_13.png 'Uno R3')   |
-| ---------------------------------------------- |
+| ![alt text](assets/software_10.png 'Uno R3') |
+| -------------------------------------------- |
+| Run the Arduino IDE                          |
+
+| ![alt text](assets/software_11.png 'Uno R3')                                              |
+| ----------------------------------------------------------------------------------------- |
+| ![alt text](assets/software_12.png 'Uno R3')                                              |
+| ----------------------------------------------                                            |
+| ![alt text](assets/software_13.png 'Uno R3')                                              |
+| ----------------------------------------------                                            |
+| If the 'Port' button is unactivated, See the [Troubleshooting](#troubleshooting) section. |
+
 | ![alt text](assets/software_14.png 'Uno R3')   |
 | ---------------------------------------------- |
 | ![alt text](assets/software_15.png 'Uno R3')   |
