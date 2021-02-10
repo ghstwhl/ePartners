@@ -65,65 +65,65 @@
 
 ### Software
 
-| ![alt text](assets/software_1.png 'Uno R3')   |
-| --------------------------------------------- |
-| Go to Arduino [Home](https://www.arduino.cc/) |
+| ![alt text](assets/software_1.png 'Mega2560 R3') |
+| ------------------------------------------------ |
+| Go to Arduino [Home](https://www.arduino.cc/)    |
 
-| ![alt text](assets/software_2.png 'Uno R3') |
-| ------------------------------------------- |
-| Choose a appropriate file for your OS       |
+| ![alt text](assets/software_2.png 'Mega2560 R3') |
+| ------------------------------------------------ |
+| Choose a appropriate file for your OS            |
 
-| ![alt text](assets/software_3.png 'Uno R3')                               |
+| ![alt text](assets/software_3.png 'Mega2560 R3')                          |
 | ------------------------------------------------------------------------- |
 | You can just download the file or contribute & download if you would like |
 
-| ![alt text](assets/software_4.png 'Uno R3') |
-| ------------------------------------------- |
-| Run the downloaded file                     |
+| ![alt text](assets/software_4.png 'Mega2560 R3') |
+| ------------------------------------------------ |
+| Run the downloaded file                          |
 
-| ![alt text](assets/software_5.png 'Uno R3') |
-| ------------------------------------------- |
+| ![alt text](assets/software_5.png 'Mega2560 R3') |
+| ------------------------------------------------ |
 
-| ![alt text](assets/software_6.png 'Uno R3') |
-| ------------------------------------------- |
+| ![alt text](assets/software_6.png 'Mega2560 R3') |
+| ------------------------------------------------ |
 
-| ![alt text](assets/software_7.png 'Uno R3') |
-| ------------------------------------------- |
+| ![alt text](assets/software_7.png 'Mega2560 R3') |
+| ------------------------------------------------ |
 
-| ![alt text](assets/software_8.png 'Uno R3') |
-| ------------------------------------------- |
+| ![alt text](assets/software_8.png 'Mega2560 R3') |
+| ------------------------------------------------ |
 
-| ![alt text](assets/software_9.png 'Uno R3') |
-| ------------------------------------------- |
+| ![alt text](assets/software_9.png 'Mega2560 R3') |
+| ------------------------------------------------ |
 
 ---
 
 ## Test
 
-| ![alt text](assets/software_10.png 'Uno R3') |
-| -------------------------------------------- |
-| Run the Arduino IDE                          |
+| ![alt text](assets/software_10.png 'Mega2560 R3') |
+| ------------------------------------------------- |
+| Run the Arduino IDE                               |
 
-| ![alt text](assets/software_11.png 'Uno R3') |
-| -------------------------------------------- |
-| Default page                                 |
+| ![alt text](assets/software_11.png 'Mega2560 R3') |
+| ------------------------------------------------- |
+| Default page                                      |
 
-| ![alt text](assets/software_12.png 'Uno R3') |
-| -------------------------------------------- |
-| Choose a blink example                       |
+| ![alt text](assets/software_12.png 'Mega2560 R3') |
+| ------------------------------------------------- |
+| Choose a blink example                            |
 
-| ![alt text](assets/software_13.png 'Uno R3')                                              |
+| ![alt text](assets/software_13.png 'Mega2560 R3')                                         |
 | ----------------------------------------------------------------------------------------- |
 | Choose the "Arduino Uno" Board type & Port, if not selected                               |
 | If the 'Port' button is unactivated, See the [Troubleshooting](#troubleshooting) section. |
 
-| ![alt text](assets/software_14.png 'Uno R3')                        |
+| ![alt text](assets/software_14.png 'Mega2560 R3')                   |
 | ------------------------------------------------------------------- |
 | Click the 'upload' button. Compile will be processed automatically. |
 
-| ![alt text](assets/software_15.png 'Uno R3') |
-| -------------------------------------------- |
-| Check the 'Done uploading' message.          |
+| ![alt text](assets/software_15.png 'Mega2560 R3') |
+| ------------------------------------------------- |
+| Check the 'Done uploading' message.               |
 
 ### Test Code
 
