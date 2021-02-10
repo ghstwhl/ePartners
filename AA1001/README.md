@@ -158,6 +158,7 @@ void loop() {
 | ------------------------------------------------ |
 | Click the 'Install'                              |
 
-| ![alt text](assets/trouble_7.png 'Port blocked') |
-| ------------------------------------------------ |
-| Then you will see this message!                  |
+| ![alt text](assets/trouble_7.png 'Port blocked')                                |
+| ------------------------------------------------------------------------------- |
+| Then you will see this message! Restart the Arduino IDE                         |
+| If you fail to install, connect the Arduino to the PC and then retry to install |
