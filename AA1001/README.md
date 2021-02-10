@@ -71,12 +71,15 @@
 
 | ![alt text](assets/software_2.png 'Uno R3') |
 | ------------------------------------------- |
+| Choose a appropriate file for your OS       |
 
-| ![alt text](assets/software_3.png 'Uno R3') |
-| ------------------------------------------- |
+| ![alt text](assets/software_3.png 'Uno R3')                               |
+| ------------------------------------------------------------------------- |
+| You can just download the file or contribute & download if you would like |
 
 | ![alt text](assets/software_4.png 'Uno R3') |
 | ------------------------------------------- |
+| Run the downloaded file                     |
 
 | ![alt text](assets/software_5.png 'Uno R3') |
 | ------------------------------------------- |
