@@ -185,4 +185,4 @@ void loop() {
 
 -   [Arduino Home](https://www.arduino.cc/)
 -   [Datasheet](http://bit.ly/ATmega328-Datasheet)
--   [Arduino on VScode](https://maker.pro/arduino/tutorial/how-to-use-visual-studio-code-for-arduino)
+-   [Arduino on Visual Studio code](https://maker.pro/arduino/tutorial/how-to-use-visual-studio-code-for-arduino)
