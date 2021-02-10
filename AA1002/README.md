@@ -60,8 +60,8 @@
 
 ### Hardware
 
-| ![alt text](assets/arduino_uno.png 'Uno R3') |
-| -------------------------------------------- |
+| ![alt text](assets/arduino_mega.png 'Mega2560 R3') |
+| -------------------------------------------------- |
 
 ### Software
 
