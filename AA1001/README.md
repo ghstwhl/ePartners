@@ -2,17 +2,18 @@
 
 ## Table of Contents
 
--   [Features](#features)
--   [Description](#description)
--   [Schematic](#schematic)
--   [Test Environment](#test-environment)
-    -   [Hardware](#hardware)
-    -   [Software](#software)
--   [Test](#test)
-    -   [Test Code](#test-code)
-    -   [Test result](#test-result)
--   [Troubleshooting](#troubleshooting)
--   [References](#references)
+- [Arduino UNO R3 MEGA328P CH340 Development Board](#arduino-uno-r3-mega328p-ch340-development-board)
+  - [Table of Contents](#table-of-contents)
+  - [Features](#features)
+  - [Description](#description)
+  - [Schematic](#schematic)
+  - [Test Environment](#test-environment)
+    - [Hardware](#hardware)
+    - [Software](#software)
+  - [Test](#test)
+    - [Test Code](#test-code)
+    - [Test Result](#test-result)
+  - [Troubleshooting](#troubleshooting)
 
 ---
 
@@ -136,7 +137,7 @@ void loop() {
 
 ## Troubleshooting
 
-| ![alt text](assets/trouble_1.png 'Port blocked')                                                            |
-| ----------------------------------------------------------------------------------------------------------- |
-| If the 'port' button is unactivated, you need to install the CH340 Driver [here.](Drivers/)                 |
-| For more information, please visit <a href="https://sparks.gogo.co.nz/ch340.html" target="_blank">here.</a> |
+| ![alt text](assets/trouble_1.png 'Port blocked')                                                        |
+| ------------------------------------------------------------------------------------------------------- |
+| If the 'port' button is unactivated, you need to install the CH340 Driver [here.](Drivers/)             |
+| For more information, please visit [here.]({{https://sparks.gogo.co.nz/ch340.html}}/pages/Target-Blank) |
