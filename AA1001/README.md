@@ -14,6 +14,7 @@
     - [Test Code](#test-code)
     - [Test Result](#test-result)
   - [Troubleshooting for Windows](#troubleshooting-for-windows)
+  - [References](#references)
 
 ---
 
@@ -66,24 +67,36 @@
 
 ### Software
 
-| ![alt text](assets/software_1.png 'Uno R3')    |
-| ---------------------------------------------- |
-| ![alt text](assets/software_2.png 'Uno R3')    |
-| ---------------------------------------------- |
-| ![alt text](assets/software_3.png 'Uno R3')    |
-| ---------------------------------------------- |
-| ![alt text](assets/software_4.png 'Uno R3')    |
-| ---------------------------------------------- |
-| ![alt text](assets/software_5.png 'Uno R3')    |
-| ---------------------------------------------- |
-| ![alt text](assets/software_6.png 'Uno R3')    |
-| ---------------------------------------------- |
-| ![alt text](assets/software_7.png 'Uno R3')    |
-| ---------------------------------------------- |
-| ![alt text](assets/software_8.png 'Uno R3')    |
-| ---------------------------------------------- |
-| ![alt text](assets/software_9.png 'Uno R3')    |
-| ---------------------------------------------- |
+| ![alt text](assets/software_1.png 'Uno R3') |
+| ------------------------------------------- |
+
+| Go to Arduino [Home](https://www.arduino.cc/)
+
+| ![alt text](assets/software_2.png 'Uno R3') |
+| ------------------------------------------- |
+
+| ![alt text](assets/software_3.png 'Uno R3') |
+| ------------------------------------------- |
+
+| ![alt text](assets/software_4.png 'Uno R3') |
+| ------------------------------------------- |
+
+| ![alt text](assets/software_5.png 'Uno R3') |
+| ------------------------------------------- |
+
+| ![alt text](assets/software_6.png 'Uno R3') |
+| ------------------------------------------- |
+
+| ![alt text](assets/software_7.png 'Uno R3') |
+| ------------------------------------------- |
+
+| ![alt text](assets/software_8.png 'Uno R3') |
+| ------------------------------------------- |
+
+| ![alt text](assets/software_9.png 'Uno R3') |
+| ------------------------------------------- |
+
+---
 
 ## Test
 
@@ -135,6 +148,8 @@ void loop() {
 | ![alt text](assets/Arduino_Uno.gif 'Uno R3') |
 | -------------------------------------------- |
 
+---
+
 ## Troubleshooting for Windows
 
 | ![alt text](assets/trouble_1.png 'Port blocked')                                            |
@@ -162,3 +177,10 @@ void loop() {
 | ------------------------------------------------------------------------------- |
 | Then you will see this message! Restart the Arduino IDE                         |
 | If you fail to install, connect the Arduino to the PC and then retry to install |
+
+---
+
+## References
+
+-   [Arduino Home](https://www.arduino.cc/)
+-   [Arduino on VScode](https://maker.pro/arduino/tutorial/how-to-use-visual-studio-code-for-arduino)
