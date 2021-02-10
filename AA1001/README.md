@@ -13,7 +13,7 @@
   - [Test](#test)
     - [Test Code](#test-code)
     - [Test Result](#test-result)
-  - [Troubleshooting](#troubleshooting)
+  - [Troubleshooting for Windows](#troubleshooting-for-windows)
 
 ---
 
@@ -135,7 +135,7 @@ void loop() {
 | ![alt text](assets/Arduino_Uno.gif 'Uno R3') |
 | -------------------------------------------- |
 
-## Troubleshooting
+## Troubleshooting for Windows
 
 | ![alt text](assets/trouble_1.png 'Port blocked')                                            |
 | ------------------------------------------------------------------------------------------- |
@@ -144,3 +144,20 @@ void loop() {
 
 | ![alt text](assets/trouble_2.png 'Port blocked') |
 | ------------------------------------------------ |
+| After downloading, Extract the Zip file          |
+
+| ![alt text](assets/trouble_3.png 'Port blocked') |
+| ------------------------------------------------ |
+| Click the 'Extract'                              |
+
+| ![alt text](assets/trouble_4.png 'Port blocked')       |
+| ------------------------------------------------------ |
+| You will see an app, just run it to install the driver |
+
+| ![alt text](assets/trouble_6.png 'Port blocked') |
+| ------------------------------------------------ |
+| Click the 'Install'                              |
+
+| ![alt text](assets/trouble_7.png 'Port blocked') |
+| ------------------------------------------------ |
+| Then you will see this message!                  |
