@@ -2,19 +2,17 @@
 
 ## Table of Contents
 
-- [Arduino UNO R3 MEGA328P CH340 Development Board](#arduino-uno-r3-mega328p-ch340-development-board)
-  - [Table of Contents](#table-of-contents)
-  - [Features](#features)
-  - [Description](#description)
-  - [Schematic](#schematic)
-  - [Test Environment](#test-environment)
-    - [Hardware](#hardware)
-    - [Software](#software)
-  - [Test](#test)
-    - [Test Code](#test-code)
-    - [Test Result](#test-result)
-  - [Troubleshooting for Windows](#troubleshooting-for-windows)
-  - [References](#references)
+-   [Features](#features)
+-   [Description](#description)
+-   [Schematic](#schematic)
+-   [Test Environment](#test-environment)
+    -   [Hardware](#hardware)
+    -   [Software](#software)
+-   [Test](#test)
+    -   [Test Code](#test-code)
+    -   [Test Result](#test-result)
+-   [Troubleshooting for Windows](#troubleshooting-for-windows)
+-   [References](#references)
 
 ---
 
