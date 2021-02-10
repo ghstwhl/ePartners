@@ -65,10 +65,9 @@
 
 ### Software
 
-| ![alt text](assets/software_1.png 'Uno R3') |
-| ------------------------------------------- |
-
-| Go to Arduino [Home](https://www.arduino.cc/)
+| ![alt text](assets/software_1.png 'Uno R3')   |
+| --------------------------------------------- |
+| Go to Arduino [Home](https://www.arduino.cc/) |
 
 | ![alt text](assets/software_2.png 'Uno R3') |
 | ------------------------------------------- |
