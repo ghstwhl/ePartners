@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
--   [Features & Technical specs](#features)
+-   [Features & Technical specs](#features-&-technical-specs)
 -   [Description](#description)
 -   [Schematic](#schematic)
 -   [Test Environment](#test-environment)
