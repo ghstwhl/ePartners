@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
--   [Features & Technical specs](#features)
+-   [Features](#features)
 -   [Description](#description)
 -   [Schematic](#schematic)
 -   [Test Environment](#test-environment)
@@ -16,43 +16,43 @@
 
 ---
 
-## Features & Technical specs
+## Features
 
-| Features                   |                                                       |
-| -------------------------- | ----------------------------------------------------- |
-| Microcontroller            | ATmega328P                                            |
-| Operationg Volatage        | 5V                                                    |
-| Input Voltage(recommended) | 7-12V                                                 |
-| Digital I/O Pins           | 14 pins (of which 6 provide PWM output)               |
-| Analog Input Pins          | 6 pins                                                |
-| DC Current per I/O Pin     | 40mA                                                  |
-| DC Current per 3.3V Pin    | 50mA                                                  |
-| Flash Memory               | 32 KB (ATmega328P) of which 0.5 KB used by bootloader |
-| SRAM                       | 2 KB (ATmega328P)                                     |
-| EEPROM                     | 1 KB (ATmega328P)                                     |
-| Clock Speed                | 16 MHz (ceramic resonator)                            |
-| Length                     | 68.66 mm                                              |
-| Width                      | 53.4 mm                                               |
-| Weight                     | 25g                                                   |
-| USB Connector              | Type B                                                |
-| Power Jack                 | AC-to-DC adaptor                                      |
-| ISCP Header                | 6 pins                                                |
-| Reset Button               | Red one                                               |
+| Features                   |                                          |
+| -------------------------- | ---------------------------------------- |
+| Microcontroller            | ATmega2560                               |
+| Operationg Volatage        | 5V                                       |
+| Input Voltage(recommended) | 7-12V                                    |
+| Digital I/O Pins           | 54 pins (of which 15 provide PWM output) |
+| Analog Input Pins          | 16 pins                                  |
+| DC Current per I/O Pin     | 20mA                                     |
+| DC Current per 3.3V Pin    | 50mA                                     |
+| Flash Memory               | 256 KB of which 8 KB used by bootloader  |
+| SRAM                       | 8 KB                                     |
+| EEPROM                     | 4 KB                                     |
+| Clock Speed                | 16 MHz (ceramic resonator)               |
+| LED_BUILTIN                | Digital pin 13                           |
+| Length                     | 101.52 mm                                |
+| Width                      | 53.3 mm                                  |
+| Weight                     | 37g                                      |
+| USB Connector              | Type B                                   |
+| Power Jack                 | AC-to-DC adaptor                         |
+| ISCP Header                | 6 pins                                   |
+| Reset Button               | tact button (Red)                        |
 
 ---
 
 ## Description
 
--   This Arduino Uno is a microcontroller board based on the CH340.
--   It contains everything needed to support the microcontroller; simply connect it to a computer with a USB cable or power it with an AC-to-DC adapter or battery to get started.
--   The Uno differs from all preceding boards in that it does not use the FTDI USB-to-serial driver chip. Instead, it features the CH340 programmed as a USB-to-serial converter
+-   It's 100% compatible with the same functionality
+-   CH340G replace the Atmega16U2(USB Chip), faster and cheaper.
 
 ---
 
 ## Schematic
 
-| ![alt text](assets/arduino_uno_schematic_ch340.png 'Uno Schematic') |
-| ------------------------------------------------------------------- |
+| ![alt text](assets/Arduino-mega2560_R3-schematic.png 'Mega Schematic') |
+| ---------------------------------------------------------------------- |
 
 ---
 

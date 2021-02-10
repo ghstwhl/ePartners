@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
--   [Features & Technical specs](#features-&-technical-specs)
+-   [Features](#features)
 -   [Description](#description)
 -   [Schematic](#schematic)
 -   [Test Environment](#test-environment)
@@ -16,7 +16,7 @@
 
 ---
 
-## Features & Technical specs
+## Features
 
 | Features                   |                                                       |
 | -------------------------- | ----------------------------------------------------- |
@@ -31,6 +31,7 @@
 | SRAM                       | 2 KB (ATmega328P)                                     |
 | EEPROM                     | 1 KB (ATmega328P)                                     |
 | Clock Speed                | 16 MHz (ceramic resonator)                            |
+| LED_BUILTIN                | Digital pin 13                                        |
 | Length                     | 68.66 mm                                              |
 | Width                      | 53.4 mm                                               |
 | Weight                     | 25g                                                   |
