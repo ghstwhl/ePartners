@@ -30,14 +30,14 @@
 | Flash Memory               | 256 KB of which 8 KB used by bootloader  |
 | SRAM                       | 8 KB                                     |
 | EEPROM                     | 4 KB                                     |
-| Clock Speed                | 16 MHz (ceramic resonator)               |
+| Clock Speed                | 16 MHz                                   |
 | LED_BUILTIN                | Digital pin 13                           |
 | Length                     | 101.52 mm                                |
 | Width                      | 53.3 mm                                  |
 | Weight                     | 37g                                      |
 | USB Connector              | Type B                                   |
 | Power Jack                 | AC-to-DC adaptor                         |
-| ISCP Header                | 6 pins                                   |
+| ICSP Header                | 6 pins                                   |
 | Reset Button               | tact button (Red)                        |
 
 ---

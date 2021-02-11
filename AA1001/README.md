@@ -30,15 +30,15 @@
 | Flash Memory               | 32 KB (ATmega328P) of which 0.5 KB used by bootloader |
 | SRAM                       | 2 KB (ATmega328P)                                     |
 | EEPROM                     | 1 KB (ATmega328P)                                     |
-| Clock Speed                | 16 MHz (ceramic resonator)                            |
+| Clock Speed                | 16 MHz                                                |
 | LED_BUILTIN                | Digital pin 13                                        |
 | Length                     | 68.66 mm                                              |
 | Width                      | 53.4 mm                                               |
 | Weight                     | 25g                                                   |
 | USB Connector              | Type B                                                |
 | Power Jack                 | AC-to-DC adaptor                                      |
-| ISCP Header                | 6 pins                                                |
-| Reset Button               | Red one                                               |
+| ICSP Header                | 6 pins                                                |
+| Reset Button               | tact button (Red)                                     |
 
 ---
 
