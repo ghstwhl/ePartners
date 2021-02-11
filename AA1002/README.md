@@ -44,8 +44,9 @@
 
 ## Description
 
--   It's 100% compatible with the same functionality
--   CH340G replace the Atmega16U2(USB Chip), faster and cheaper.
+It's 100% compatible with the same functionality
+CH340G replace the Atmega16U2(USB Chip), faster and cheaper.
+The Mega 2560 board is compatible with most shields designed for the Uno and the former boards Duemilanove or Diecimila.
 
 ---
 
@@ -182,6 +183,6 @@ void loop() {
 
 ## References
 
--   [Arduino Home](https://www.arduino.cc/)
--   [Datasheet](http://ww1.microchip.com/downloads/en/devicedoc/atmel-2549-8-bit-avr-microcontroller-atmega640-1280-1281-2560-2561_datasheet.pdf)
+-   [Getting Started](https://www.arduino.cc/en/Guide/ArduinoMega2560)
+-   [Datasheet](http://bit.ly/Arduino-Mega2560-datasheet)
 -   [Arduino on Visual Studio code](https://maker.pro/arduino/tutorial/how-to-use-visual-studio-code-for-arduino)

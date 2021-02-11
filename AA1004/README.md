@@ -35,7 +35,7 @@
 | Length                     | 68.6 mm                                             |
 | Width                      | 53.3 mm                                             |
 | Weight                     | 20g                                                 |
-| USB Connector              | Type B                                              |
+| USB Connector              | Type Micro                                          |
 | Power Jack                 | AC-to-DC adaptor                                    |
 | ICSP Header                | 6 pins                                              |
 | Reset Button               | tact button (Red)                                   |
@@ -44,8 +44,9 @@
 
 ## Description
 
--   It's 100% compatible with the same functionality
--   CH340G replace the Atmega16U2(USB Chip), faster and cheaper.
+The Leonardo differs from all preceding boards in that the ATmega32u4 has built-in USB communication, eliminating the need for a secondary processor.
+This allows the Leonardo to appear to a connected computer as a mouse and keyboard, in addition to a virtual (CDC) serial / COM port.
+It also has other implications for the behavior of the board.
 
 ---
 
@@ -60,8 +61,8 @@
 
 ### Hardware
 
-| ![alt text](assets/arduino_mega.png 'Leonardo') |
-| ----------------------------------------------- |
+| ![alt text](assets/arduino_leonardo.png 'Leonardo') |
+| --------------------------------------------------- |
 
 ### Software
 
@@ -182,6 +183,6 @@ void loop() {
 
 ## References
 
--   [Arduino Home](https://www.arduino.cc/)
+-   [Getting Started](https://www.arduino.cc/en/Guide/ArduinoLeonardoMicro)
 -   [Datasheet](http://bit.ly/atmega16u4-32u4_datasheet)
 -   [Arduino on Visual Studio code](https://maker.pro/arduino/tutorial/how-to-use-visual-studio-code-for-arduino)
