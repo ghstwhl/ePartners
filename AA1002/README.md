@@ -115,7 +115,7 @@ The Mega 2560 board is compatible with most shields designed for the Uno and the
 
 | ![alt text](assets/software_13.png 'Mega2560 R3')                                         |
 | ----------------------------------------------------------------------------------------- |
-| Choose the "Arduino Uno" Board type & Port, if not selected                               |
+| Choose the "Arduino Mega or Mega2560" Board type & Port, if not selected                  |
 | If the 'Port' button is unactivated, See the [Troubleshooting](#troubleshooting) section. |
 
 | ![alt text](assets/software_14.png 'Mega2560 R3')                   |

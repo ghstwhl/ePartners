@@ -11,7 +11,6 @@
 -   [Test](#test)
     -   [Test Code](#test-code)
     -   [Test Result](#test-result)
--   [Troubleshooting for Windows](#troubleshooting-for-windows)
 -   [References](#references)
 
 ---
@@ -113,10 +112,9 @@ It also has other implications for the behavior of the board.
 | ---------------------------------------------- |
 | Choose a blink example                         |
 
-| ![alt text](assets/software_13.png 'Leonardo')                                            |
-| ----------------------------------------------------------------------------------------- |
-| Choose the "Arduino Uno" Board type & Port, if not selected                               |
-| If the 'Port' button is unactivated, See the [Troubleshooting](#troubleshooting) section. |
+| ![alt text](assets/software_13.png 'Leonardo')              |
+| ----------------------------------------------------------- |
+| Choose the "Arduino Uno" Board type & Port, if not selected |
 
 | ![alt text](assets/software_14.png 'Leonardo')                      |
 | ------------------------------------------------------------------- |
@@ -148,36 +146,6 @@ void loop() {
 
 | ![alt text](assets/arduino_mega_blink.gif 'Leonardo') |
 | ----------------------------------------------------- |
-
----
-
-## Troubleshooting for Windows
-
-| ![alt text](assets/trouble_1.png 'Port blocked')                                            |
-| ------------------------------------------------------------------------------------------- |
-| If the 'port' button is unactivated, you need to install the CH340 Driver [here.](Drivers/) |
-| For more information, please visit [here.](https://sparks.gogo.co.nz/ch340.html)            |
-
-| ![alt text](assets/trouble_2.png 'Port blocked') |
-| ------------------------------------------------ |
-| After downloading, Extract the Zip file          |
-
-| ![alt text](assets/trouble_3.png 'Port blocked') |
-| ------------------------------------------------ |
-| Click the 'Extract'                              |
-
-| ![alt text](assets/trouble_4.png 'Port blocked')       |
-| ------------------------------------------------------ |
-| You will see an app, just run it to install the driver |
-
-| ![alt text](assets/trouble_6.png 'Port blocked') |
-| ------------------------------------------------ |
-| Click the 'Install'                              |
-
-| ![alt text](assets/trouble_7.png 'Port blocked')                                |
-| ------------------------------------------------------------------------------- |
-| Then you will see this message! Restart the Arduino IDE                         |
-| If you fail to install, connect the Arduino to the PC and then retry to install |
 
 ---
 
