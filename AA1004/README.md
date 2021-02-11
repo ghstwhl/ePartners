@@ -61,7 +61,7 @@ It also has other implications for the behavior of the board.
 
 ### Hardware
 
-| ![alt text](assets/arduino_leonardo.png 'Leonardo') |
+| ![alt text](assets/arduino-leonardo.png 'Leonardo') |
 | --------------------------------------------------- |
 
 ### Software
