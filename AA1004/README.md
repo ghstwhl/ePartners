@@ -31,6 +31,7 @@
 | SRAM                       | 2.5 KB (ATmega32u4)                                 |
 | EEPROM                     | 1 KB (ATmega32u4)                                   |
 | Clock Speed                | 16 MHz                                              |
+| LED_BUILTIN                | Digital pin 13                                      |
 | Length                     | 68.6 mm                                             |
 | Width                      | 53.3 mm                                             |
 | Weight                     | 20g                                                 |
@@ -144,8 +145,8 @@ void loop() {
 
 ### Test Result
 
-| ![alt text](assets/arduino_mega_blink.gif 'Leonardo') |
-| ----------------------------------------------------- |
+| ![alt text](assets/arduino_leonardo_blink.gif 'Leonardo') |
+| --------------------------------------------------------- |
 
 ---
 
