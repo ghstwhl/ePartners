@@ -155,3 +155,5 @@ void loop() {
 -   [Getting Started](https://www.arduino.cc/en/Guide/ArduinoLeonardoMicro)
 -   [Datasheet](http://bit.ly/atmega16u4-32u4_datasheet)
 -   [Arduino on Visual Studio code](https://maker.pro/arduino/tutorial/how-to-use-visual-studio-code-for-arduino)
+
+| ![alt text](https://lh3.googleusercontent.com/O46-8glyh3iiiPEyJqj25KvNWSmrzv7LQjBvVj_YRbBNoXmmS20TGmHBGqMzVeaRvIQnmn-0EqTIqqEi1pxYa0_ZPeRfVJ9r2QlEwcPcZTZoJXAhCBP6KMESnvlyM-z4ZgfrWQzZpcfrPwu_srq0kxssquz-zeinlRCMLlqjx2sxcxnn7oKVlVJ3bnLRbYMePbatXEdwM6ybT4cv_pO6iHcFwitQZcVKovJOFgH9Hnx3WlYuaWSMcnouwXFpqZYF4u7U7-lwi9MfJ6Vg-F9g1CzKiRnfRN40daPrL7ZgJ412EZNtfl0VwoTZzaH4SvFM-sx8RqnuS1izMXzafhIyPVpfhdw-Fk-fIds3Bkl1OU4umXyVKRSbuLJpafrY5npXE0L5keGhc9bxKWAlXlrQvVmaBdr3qbr-22taRtKcryTe6V1sqJZk4POd9pgxkaftaUlFK4EdVnGloVPME0x4DDeG-Kzos2npc2oIHuFua_RTzLDyim-qbJ4VF4CCq6J1DNB_lQphmuyqO6fn7GMWnUoG_KUpsJfuNtDoOrIy5qxto2TzSBgfhP--MeMQGJ48HZAtbpO8XlVSJb0aWD7EWkniEf9QLh3F0c4EgUiQlkYJXZ8EfONWYDy2oiihaFKPefdXFb51ftP5qS7F2_GV77OMfogX5kNwxU_kEqK_WaZKj1Nr9681fNgZ9eK0XQ=w300-h226-no?authuser=0 'leo') |
