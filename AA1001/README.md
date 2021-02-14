@@ -52,8 +52,8 @@ The Uno differs from all preceding boards in that it does not use the FTDI USB-t
 
 ## Schematic
 
-| ![alt text](assets/arduino_uno_schematic_ch340.png 'Uno Schematic') |
-| ------------------------------------------------------------------- |
+| ![alt text](http://bit.ly/aa1001-schematic 'Uno Schematic') |
+| ----------------------------------------------------------- |
 
 ---
 
