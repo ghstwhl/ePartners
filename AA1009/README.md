@@ -53,8 +53,8 @@ The Uno differs from all preceding boards in that it does not use the FTDI USB-t
 
 ## Schematic
 
-| ![alt text](http://bit.ly/aa1009-schematic 'Leonardo Schematic') |
-| ---------------------------------------------------------------- |
+| ![alt text](http://bit.ly/aa1009-schematic 'Uno R3 Schematic') |
+| -------------------------------------------------------------- |
 
 ---
 
@@ -62,8 +62,8 @@ The Uno differs from all preceding boards in that it does not use the FTDI USB-t
 
 ### Hardware
 
-| ![alt text](http://bit.ly/aa1009-uno 'Leonardo') |
-| ------------------------------------------------ |
+| ![alt text](http://bit.ly/aa1009-uno 'Uno R3') |
+| ---------------------------------------------- |
 
 ### Software
 
