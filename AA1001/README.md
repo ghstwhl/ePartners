@@ -1,4 +1,4 @@
-# Arduino UNO R3 MEGA328P CH340 Development Board
+# Arduino UNO R3 ATMEGA328P (CH340 driver) Development Board
 
 ## Table of Contents
 
@@ -21,6 +21,7 @@
 | Features                   |                                                       |
 | -------------------------- | ----------------------------------------------------- |
 | Microcontroller            | ATmega328P                                            |
+| USB Driver                 | CH340                                                 |
 | Operationg Volatage        | 5V                                                    |
 | Input Voltage(recommended) | 7-12V                                                 |
 | Digital I/O Pins           | 14 pins (of which 6 provide PWM output)               |
@@ -44,9 +45,9 @@
 
 ## Description
 
-This Arduino Uno is a microcontroller board based on the CH340.
+This Arduino Uno is a microcontroller board based on the ATMEGA 328P & CH340 Driver.
 It contains everything needed to support the microcontroller; simply connect it to a computer with a USB cable or power it with an AC-to-DC adapter or battery to get started.
-The Uno differs from all preceding boards in that it does not use the FTDI USB-to-serial driver chip. Instead, it features the CH340 programmed as a USB-to-serial converter
+The Uno differs from all preceding boards in that it does not use the FTDI USB-to-serial driver chip. Instead, it features the CH340 programmed as a USB-to-serial converter.
 
 ---
 
@@ -188,5 +189,6 @@ void loop() {
 ## References
 
 -   [Arduino Home](https://www.arduino.cc/en/Guide/ArduinoUno)
--   [Datasheet](http://bit.ly/ATmega328-Datasheet)
+-   [Datasheet ATMEGA328P](http://bit.ly/ATmega328-Datasheet)
+-   [Datasheet CH340](http://bit.ly/ch340-datasheet)
 -   [Arduino on Visual Studio code](https://maker.pro/arduino/tutorial/how-to-use-visual-studio-code-for-arduino)

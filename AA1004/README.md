@@ -156,5 +156,5 @@ void loop() {
 ## References
 
 -   [Getting Started](https://www.arduino.cc/en/Guide/ArduinoLeonardoMicro)
--   [Datasheet](http://bit.ly/atmega16u4-32u4_datasheet)
+-   [Datasheet](http://bit.ly/atmega16u2-32u2_datasheet)
 -   [Arduino on Visual Studio code](https://maker.pro/arduino/tutorial/how-to-use-visual-studio-code-for-arduino)
