@@ -147,8 +147,8 @@ void loop() {
 
 ### Test Result
 
-| ![alt text](assets/arduino_mega_blink.gif 'Mega2560 R3') |
-| -------------------------------------------------------- |
+| ![alt text](test/AA1002_blink.gif 'Mega2560 R3') |
+| ------------------------------------------------ |
 
 ---
 
