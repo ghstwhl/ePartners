@@ -83,17 +83,11 @@ The Uno differs from all preceding boards in that it does not use the FTDI USB-t
 | ------------------------------------------------- |
 | Run the downloaded file                           |
 
-| ![alt text](http://bit.ly/ep_software_5 'Uno R3') |
-| ------------------------------------------------- |
+| ![alt text](http://bit.ly/ep_software_5 'Uno R3') | ![alt text](http://bit.ly/ep_software_6 'Uno R3') |
+| ------------------------------------------------- | ------------------------------------------------- |
 
-| ![alt text](http://bit.ly/ep_software_6 'Uno R3') |
-| ------------------------------------------------- |
-
-| ![alt text](http://bit.ly/ep_software_7 'Uno R3') |
-| ------------------------------------------------- |
-
-| ![alt text](http://bit.ly/ep_software_8 'Uno R3') |
-| ------------------------------------------------- |
+| ![alt text](http://bit.ly/ep_software_7 'Uno R3') | ![alt text](http://bit.ly/ep_software_8 'Uno R3') |
+| ------------------------------------------------- | ------------------------------------------------- |
 
 | ![alt text](http://bit.ly/ep_software_9 'Uno R3') |
 | ------------------------------------------------- |

@@ -82,17 +82,11 @@ The Mega 2560 board is compatible with most shields designed for the Uno and the
 | --------------------------------------------------- |
 | Run the downloaded file                             |
 
-| ![alt text](http://bit.ly/ep_software_5 'Mega2560') |
-| --------------------------------------------------- |
+| ![alt text](http://bit.ly/ep_software_5 'Mega2560') | ![alt text](http://bit.ly/ep_software_6 'Mega2560') |
+| --------------------------------------------------- | --------------------------------------------------- |
 
-| ![alt text](http://bit.ly/ep_software_6 'Mega2560') |
-| --------------------------------------------------- |
-
-| ![alt text](http://bit.ly/ep_software_7 'Mega2560') |
-| --------------------------------------------------- |
-
-| ![alt text](http://bit.ly/ep_software_8 'Mega2560') |
-| --------------------------------------------------- |
+| ![alt text](http://bit.ly/ep_software_7 'Mega2560') | ![alt text](http://bit.ly/ep_software_8 'Mega2560') |
+| --------------------------------------------------- | --------------------------------------------------- |
 
 | ![alt text](http://bit.ly/ep_software_9 'Mega2560') |
 | --------------------------------------------------- |

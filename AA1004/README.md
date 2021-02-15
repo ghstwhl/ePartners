@@ -82,17 +82,11 @@ It also has other implications for the behavior of the board.
 | --------------------------------------------------- |
 | Run the downloaded file                             |
 
-| ![alt text](http://bit.ly/ep_software_5 'Leonardo') |
-| --------------------------------------------------- |
+| ![alt text](http://bit.ly/ep_software_5 'Leonardo') | ![alt text](http://bit.ly/ep_software_6 'Leonardo') |
+| --------------------------------------------------- | --------------------------------------------------- |
 
-| ![alt text](http://bit.ly/ep_software_6 'Leonardo') |
-| --------------------------------------------------- |
-
-| ![alt text](http://bit.ly/ep_software_7 'Leonardo') |
-| --------------------------------------------------- |
-
-| ![alt text](http://bit.ly/ep_software_8 'Leonardo') |
-| --------------------------------------------------- |
+| ![alt text](http://bit.ly/ep_software_7 'Leonardo') | ![alt text](http://bit.ly/ep_software_8 'Leonardo') |
+| --------------------------------------------------- | --------------------------------------------------- |
 
 | ![alt text](http://bit.ly/ep_software_9 'Leonardo') |
 | --------------------------------------------------- |
