@@ -44,6 +44,10 @@
 
 This board was developed for applications and installations where space is premium and projects are made as permanent set ups. Small, available in 3.3 V and 5 V versions, powered by ATmega328/328P.
 
+Atmega328P and Atmega328 are the same every sense architecturally. So you can just drop in a 328p in place of a 328 and vice versa.
+Atmega328P just consumes lower power than Atmega328. Look up the numbers in the datasheet. This means that the 328P is manufactured in a finer process than the 328.
+The chip signatures of 328P and 328 are different. So if any program is reading these signatures to make a decision (like avrdude in arduino), then you will have to watch out as the software could complain saying that the wrong chip was used.
+
 ---
 
 ## Schematic
