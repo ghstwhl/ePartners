@@ -61,69 +61,71 @@ It also has other implications for the behavior of the board.
 
 ### Hardware
 
-| ![alt text](assets/arduino-leonardo.png 'Leonardo') |
-| --------------------------------------------------- |
+| ![alt text](http://bit.ly/aa1004-schematic 'Leonardo') |
+| ------------------------------------------------------ |
 
 ### Software
 
-| ![alt text](assets/software_1.png 'Leonardo') |
-| --------------------------------------------- |
-| Go to Arduino [Home](https://www.arduino.cc/) |
+| ![alt text](http://bit.ly/ep_software_1 'Leonardo') |
+| --------------------------------------------------- |
+| Go to Arduino [Home](https://www.arduino.cc/)       |
 
-| ![alt text](assets/software_2.png 'Leonardo') |
-| --------------------------------------------- |
-| Choose a appropriate file for your OS         |
+| ![alt text](http://bit.ly/ep_software_2 'Leonardo') |
+| --------------------------------------------------- |
+| Choose a appropriate file for your OS               |
 
-| ![alt text](assets/software_3.png 'Leonardo')                             |
+| ![alt text](http://bit.ly/ep_software_3 'Leonardo')                       |
 | ------------------------------------------------------------------------- |
 | You can just download the file or contribute & download if you would like |
 
-| ![alt text](assets/software_4.png 'Leonardo') |
-| --------------------------------------------- |
-| Run the downloaded file                       |
+| ![alt text](http://bit.ly/ep_software_4 'Leonardo') |
+| --------------------------------------------------- |
+| Run the downloaded file                             |
 
-| ![alt text](assets/software_5.png 'Leonardo') |
-| --------------------------------------------- |
+| ![alt text](http://bit.ly/ep_software_5 'Leonardo') |
+| --------------------------------------------------- |
 
-| ![alt text](assets/software_6.png 'Leonardo') |
-| --------------------------------------------- |
+| ![alt text](http://bit.ly/ep_software_6 'Leonardo') |
+| --------------------------------------------------- |
 
-| ![alt text](assets/software_7.png 'Leonardo') |
-| --------------------------------------------- |
+| ![alt text](http://bit.ly/ep_software_7 'Leonardo') |
+| --------------------------------------------------- |
 
-| ![alt text](assets/software_8.png 'Leonardo') |
-| --------------------------------------------- |
+| ![alt text](http://bit.ly/ep_software_8 'Leonardo') |
+| --------------------------------------------------- |
 
-| ![alt text](assets/software_9.png 'Leonardo') |
-| --------------------------------------------- |
+| ![alt text](http://bit.ly/ep_software_9 'Leonardo') |
+| --------------------------------------------------- |
+| Click the 'close' button to complete                |
 
 ---
 
 ## Test
 
-| ![alt text](assets/software_10.png 'Leonardo') |
-| ---------------------------------------------- |
-| Run the Arduino IDE                            |
+| ![alt text](https://bit.ly/ep_software_10 'Leonardo') |
+| ----------------------------------------------------- |
+| Run the Arduino IDE                                   |
 
-| ![alt text](assets/software_11.png 'Leonardo') |
-| ---------------------------------------------- |
-| Default page                                   |
+| ![alt text](http://bit.ly/ep_software_11 'Leonardo') |
+| ---------------------------------------------------- |
+| Default page                                         |
 
-| ![alt text](assets/software_12.png 'Leonardo') |
-| ---------------------------------------------- |
-| Choose a blink example                         |
+| ![alt text](http://bit.ly/ep_software_12 'Leonardo') |
+| ---------------------------------------------------- |
+| Choose a blink example                               |
 
-| ![alt text](assets/software_13.png 'Leonardo')              |
-| ----------------------------------------------------------- |
-| Choose the "Arduino Uno" Board type & Port, if not selected |
+| ![alt text](http://bit.ly/aa1004-board 'Leonardo')                                        |
+| ----------------------------------------------------------------------------------------- |
+| Choose the "Arduino Uno" Board type & Port, if not selected                               |
+| If the 'Port' button is unactivated, See the [Troubleshooting](#troubleshooting) section. |
 
-| ![alt text](assets/software_14.png 'Leonardo')                      |
+| ![alt text](http://bit.ly/uno-upload 'Leonardo')                    |
 | ------------------------------------------------------------------- |
 | Click the 'upload' button. Compile will be processed automatically. |
 
-| ![alt text](assets/software_15.png 'Leonardo') |
-| ---------------------------------------------- |
-| Check the 'Done uploading' message.            |
+| ![alt text](http://bit.ly/upload-done 'Leonardo') |
+| ------------------------------------------------- |
+| Check the 'Done uploading' message.               |
 
 ### Test Code
 
@@ -147,6 +149,7 @@ void loop() {
 
 | ![alt text](assets/arduino_leonardo_blink.gif 'Leonardo') |
 | --------------------------------------------------------- |
+| Plese see the LED with 'L' sign on the board              |
 
 ---
 

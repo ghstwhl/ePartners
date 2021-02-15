@@ -149,8 +149,9 @@ void loop() {
 
 ### Test Result
 
-| ![alt text](test/AA1001_blink.gif 'Uno R3') |
-| ------------------------------------------- |
+| ![alt text](test/AA1001_blink.gif 'Uno R3')  |
+| -------------------------------------------- |
+| Plese see the LED with 'L' sign on the board |
 
 ---
 

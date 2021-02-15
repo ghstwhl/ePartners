@@ -66,66 +66,66 @@ The Mega 2560 board is compatible with most shields designed for the Uno and the
 
 ### Software
 
-| ![alt text](http://bit.ly/ep_software_1 'Uno R3') |
-| ------------------------------------------------- |
-| Go to Arduino [Home](https://www.arduino.cc/)     |
+| ![alt text](http://bit.ly/ep_software_1 'Mega2560') |
+| --------------------------------------------------- |
+| Go to Arduino [Home](https://www.arduino.cc/)       |
 
-| ![alt text](http://bit.ly/ep_software_2 'Uno R3') |
-| ------------------------------------------------- |
-| Choose a appropriate file for your OS             |
+| ![alt text](http://bit.ly/ep_software_2 'Mega2560') |
+| --------------------------------------------------- |
+| Choose a appropriate file for your OS               |
 
-| ![alt text](http://bit.ly/ep_software_3 'Uno R3')                         |
+| ![alt text](http://bit.ly/ep_software_3 'Mega2560')                       |
 | ------------------------------------------------------------------------- |
 | You can just download the file or contribute & download if you would like |
 
-| ![alt text](http://bit.ly/ep_software_4 'Uno R3') |
-| ------------------------------------------------- |
-| Run the downloaded file                           |
+| ![alt text](http://bit.ly/ep_software_4 'Mega2560') |
+| --------------------------------------------------- |
+| Run the downloaded file                             |
 
-| ![alt text](http://bit.ly/ep_software_5 'Uno R3') |
-| ------------------------------------------------- |
+| ![alt text](http://bit.ly/ep_software_5 'Mega2560') |
+| --------------------------------------------------- |
 
-| ![alt text](http://bit.ly/ep_software_6 'Uno R3') |
-| ------------------------------------------------- |
+| ![alt text](http://bit.ly/ep_software_6 'Mega2560') |
+| --------------------------------------------------- |
 
-| ![alt text](http://bit.ly/ep_software_7 'Uno R3') |
-| ------------------------------------------------- |
+| ![alt text](http://bit.ly/ep_software_7 'Mega2560') |
+| --------------------------------------------------- |
 
-| ![alt text](http://bit.ly/ep_software_8 'Uno R3') |
-| ------------------------------------------------- |
+| ![alt text](http://bit.ly/ep_software_8 'Mega2560') |
+| --------------------------------------------------- |
 
-| ![alt text](http://bit.ly/ep_software_9 'Uno R3') |
-| ------------------------------------------------- |
-| Click the 'close' button to complete              |
+| ![alt text](http://bit.ly/ep_software_9 'Mega2560') |
+| --------------------------------------------------- |
+| Click the 'close' button to complete                |
 
 ---
 
 ## Test
 
-| ![alt text](https://bit.ly/ep_software_10 'Uno R3') |
-| --------------------------------------------------- |
-| Run the Arduino IDE                                 |
+| ![alt text](https://bit.ly/ep_software_10 'Mega2560') |
+| ----------------------------------------------------- |
+| Run the Arduino IDE                                   |
 
-| ![alt text](http://bit.ly/ep_software_11 'Uno R3') |
-| -------------------------------------------------- |
-| Default page                                       |
+| ![alt text](http://bit.ly/ep_software_11 'Mega2560') |
+| ---------------------------------------------------- |
+| Default page                                         |
 
-| ![alt text](http://bit.ly/ep_software_12 'Uno R3') |
-| -------------------------------------------------- |
-| Choose a blink example                             |
+| ![alt text](http://bit.ly/ep_software_12 'Mega2560') |
+| ---------------------------------------------------- |
+| Choose a blink example                               |
 
-| ![alt text](http://bit.ly/aa1002-board 'Uno R3')                                          |
+| ![alt text](http://bit.ly/aa1002-board 'Mega2560')                                        |
 | ----------------------------------------------------------------------------------------- |
 | Choose the "Arduino Uno" Board type & Port, if not selected                               |
 | If the 'Port' button is unactivated, See the [Troubleshooting](#troubleshooting) section. |
 
-| ![alt text](http://bit.ly/uno-upload 'Uno R3')                      |
+| ![alt text](http://bit.ly/uno-upload 'Mega2560')                    |
 | ------------------------------------------------------------------- |
 | Click the 'upload' button. Compile will be processed automatically. |
 
-| ![alt text](http://bit.ly/upload-done 'Uno R3') |
-| ----------------------------------------------- |
-| Check the 'Done uploading' message.             |
+| ![alt text](http://bit.ly/upload-done 'Mega2560') |
+| ------------------------------------------------- |
+| Check the 'Done uploading' message.               |
 
 ### Test Code
 
@@ -149,6 +149,7 @@ void loop() {
 
 | ![alt text](test/AA1002_blink.gif 'Mega2560 R3') |
 | ------------------------------------------------ |
+| Plese see the LED with 'L' sign on the board     |
 
 ---
 
