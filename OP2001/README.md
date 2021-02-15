@@ -112,6 +112,8 @@ The chip signatures of 328P and 328 are different. So if any program is reading 
 | RX       | TX             |
 | TX       | RX             |
 
+### Blink Test
+
 | ![alt text](https://bit.ly/ep_software_10 'Pro mini') |
 | ----------------------------------------------------- |
 | Run the Arduino IDE                                   |
