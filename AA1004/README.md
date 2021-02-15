@@ -147,9 +147,9 @@ void loop() {
 
 ### Test Result
 
-| ![alt text](assets/arduino_leonardo_blink.gif 'Leonardo') |
-| --------------------------------------------------------- |
-| Plese see the LED with 'L' sign on the board              |
+| ![alt text](test/AA1004_blink.gif 'Leonardo') |
+| --------------------------------------------- |
+| Plese see the LED with 'L' sign on the board  |
 
 ---
 
