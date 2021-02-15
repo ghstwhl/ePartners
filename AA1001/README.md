@@ -61,41 +61,42 @@ The Uno differs from all preceding boards in that it does not use the FTDI USB-t
 
 ### Hardware
 
-| ![alt text](assets/arduino_uno.png 'Uno R3') |
-| -------------------------------------------- |
+| ![alt text](http://bit.ly/aa1001-compatible 'Uno R3') |
+| ----------------------------------------------------- |
 
 ### Software
 
-| ![alt text](assets/software_1.png 'Uno R3')   |
-| --------------------------------------------- |
-| Go to Arduino [Home](https://www.arduino.cc/) |
+| ![alt text](http://bit.ly/ep_software_1 'Uno R3') |
+| ------------------------------------------------- |
+| Go to Arduino [Home](https://www.arduino.cc/)     |
 
-| ![alt text](assets/software_2.png 'Uno R3') |
-| ------------------------------------------- |
-| Choose a appropriate file for your OS       |
+| ![alt text](http://bit.ly/ep_software_2 'Uno R3') |
+| ------------------------------------------------- |
+| Choose a appropriate file for your OS             |
 
-| ![alt text](assets/software_3.png 'Uno R3')                               |
+| ![alt text](http://bit.ly/ep_software_3 'Uno R3')                         |
 | ------------------------------------------------------------------------- |
 | You can just download the file or contribute & download if you would like |
 
-| ![alt text](assets/software_4.png 'Uno R3') |
-| ------------------------------------------- |
-| Run the downloaded file                     |
+| ![alt text](http://bit.ly/ep_software_4 'Uno R3') |
+| ------------------------------------------------- |
+| Run the downloaded file                           |
 
-| ![alt text](assets/software_5.png 'Uno R3') |
-| ------------------------------------------- |
+| ![alt text](http://bit.ly/ep_software_5 'Uno R3') |
+| ------------------------------------------------- |
 
-| ![alt text](assets/software_6.png 'Uno R3') |
-| ------------------------------------------- |
+| ![alt text](http://bit.ly/ep_software_6 'Uno R3') |
+| ------------------------------------------------- |
 
-| ![alt text](assets/software_7.png 'Uno R3') |
-| ------------------------------------------- |
+| ![alt text](http://bit.ly/ep_software_7 'Uno R3') |
+| ------------------------------------------------- |
 
-| ![alt text](assets/software_8.png 'Uno R3') |
-| ------------------------------------------- |
+| ![alt text](http://bit.ly/ep_software_8 'Uno R3') |
+| ------------------------------------------------- |
 
-| ![alt text](assets/software_9.png 'Uno R3') |
-| ------------------------------------------- |
+| ![alt text](http://bit.ly/ep_software_9 'Uno R3') |
+| ------------------------------------------------- |
+| Click the 'close' button to complete              |
 
 ---
 
