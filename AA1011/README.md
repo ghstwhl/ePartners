@@ -80,17 +80,11 @@ The Arduino Nano is a small, complete, and breadboard-friendly board based on th
 | ----------------------------------------------- |
 | Run the downloaded file                         |
 
-| ![alt text](http://bit.ly/ep_software_5 'Nano') |
-| ----------------------------------------------- |
+| ![alt text](http://bit.ly/ep_software_5 'Nano') | ![alt text](http://bit.ly/ep_software_6 'Nano') |
+| ----------------------------------------------- | ----------------------------------------------- |
 
-| ![alt text](http://bit.ly/ep_software_6 'Nano') |
-| ----------------------------------------------- |
-
-| ![alt text](http://bit.ly/ep_software_7 'Nano') |
-| ----------------------------------------------- |
-
-| ![alt text](http://bit.ly/ep_software_8 'Nano') |
-| ----------------------------------------------- |
+| ![alt text](http://bit.ly/ep_software_7 'Nano') | ![alt text](http://bit.ly/ep_software_8 'Nano') |
+| ----------------------------------------------- | ----------------------------------------------- |
 
 | ![alt text](http://bit.ly/ep_software_9 'Nano') |
 | ----------------------------------------------- |
