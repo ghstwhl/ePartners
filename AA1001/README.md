@@ -149,8 +149,8 @@ void loop() {
 
 ### Test Result
 
-| ![alt text](http://bit.ly/uno-1-blink 'Uno R3') |
-| ----------------------------------------------- |
+| ![alt text](test/AA1001_blink.gif 'Uno R3') |
+| ------------------------------------------- |
 
 ---
 
