@@ -24,7 +24,7 @@
 | Input Voltage(recommended) | 7-12V                                               |
 | Digital I/O Pins           | 20 pins                                             |
 | PWM Channels               | 7 pins                                              |
-| Analog Input Channels      | 12 pins                                             |
+| Analog Pins                | 12 pins                                             |
 | DC Current per I/O Pin     | 40mA                                                |
 | DC Current per 3.3V Pin    | 50mA                                                |
 | Flash Memory               | 32 KB (ATmega32u4) of which 4 KB used by bootloader |
@@ -110,7 +110,7 @@ It also has other implications for the behavior of the board.
 
 | ![alt text](http://bit.ly/aa1004-board 'Leonardo')                                        |
 | ----------------------------------------------------------------------------------------- |
-| Choose the "Arduino Uno" Board type & Port, if not selected                               |
+| Choose the "Arduino Leonardo" Board type & Port, if not selected                          |
 | If the 'Port' button is unactivated, See the [Troubleshooting](#troubleshooting) section. |
 
 | ![alt text](http://bit.ly/uno-upload 'Leonardo')                    |

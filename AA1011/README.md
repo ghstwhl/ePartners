@@ -26,7 +26,7 @@
 | Input Voltage(recommended) | 7-12V                                               |
 | Digital I/O Pins           | 14 pins (TX, RX, D2~D13)                            |
 | PWM Channels               | 6 pins (D3, D5, D6, D9, D10, D11)                   |
-| Analog Input Channels      | 2 pins (A0~A7)                                      |
+| Analog Pins                | 8 pins (A0~A7)                                      |
 | DC Current per I/O Pin     | 40mA                                                |
 | Flash Memory               | 32 KB (ATmega328P) of which 2 KB used by bootloader |
 | SRAM                       | 2 KB                                                |
@@ -108,7 +108,7 @@ The Arduino Nano is a small, complete, and breadboard-friendly board based on th
 
 | ![alt text](http://bit.ly/aa1011-board 'Nano')                                            |
 | ----------------------------------------------------------------------------------------- |
-| Choose the "Arduino Uno" Board type & Port, if not selected                               |
+| Choose the "Arduino Nano" Board type & "ATmega328P" Processor, if not selected            |
 | If the 'Port' button is unactivated, See the [Troubleshooting](#troubleshooting) section. |
 
 | ![alt text](http://bit.ly/uno-upload 'Nano')                        |

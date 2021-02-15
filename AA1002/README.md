@@ -24,7 +24,7 @@
 | Operationg Volatage        | 5V                                       |
 | Input Voltage(recommended) | 7-12V                                    |
 | Digital I/O Pins           | 54 pins (of which 15 provide PWM output) |
-| Analog Input Pins          | 16 pins                                  |
+| Analog Pins                | 16 pins                                  |
 | DC Current per I/O Pin     | 20mA                                     |
 | DC Current per 3.3V Pin    | 50mA                                     |
 | Flash Memory               | 256 KB of which 8 KB used by bootloader  |
@@ -45,7 +45,7 @@
 ## Description
 
 It's 100% compatible with the same functionality
-CH340G replace the Atmega16U2(USB Chip), faster and cheaper.
+CH340G replace the Atmega16U2(USB Driver), faster and cheaper.
 The Mega 2560 board is compatible with most shields designed for the Uno and the former boards Duemilanove or Diecimila.
 
 ---
@@ -110,7 +110,7 @@ The Mega 2560 board is compatible with most shields designed for the Uno and the
 
 | ![alt text](http://bit.ly/aa1002-board 'Mega2560')                                        |
 | ----------------------------------------------------------------------------------------- |
-| Choose the "Arduino Uno" Board type & Port, if not selected                               |
+| Choose the "Arduino Mega or Mega2560" Board type & Port, if not selected                  |
 | If the 'Port' button is unactivated, See the [Troubleshooting](#troubleshooting) section. |
 
 | ![alt text](http://bit.ly/uno-upload 'Mega2560')                    |

@@ -25,7 +25,7 @@
 | Input Voltage(recommended) | 7-12V                                                 |
 | Digital I/O Pins           | 14 pins(of which 6 provide PWM output)                |
 | PWM Channels               | 6 pins                                                |
-| Analog Input Channels      | 6 pins                                                |
+| Analog Pins                | 6 pins                                                |
 | DC Current per I/O Pin     | 20mA                                                  |
 | DC Current per 3.3V Pin    | 50mA                                                  |
 | Flash Memory               | 32 KB (ATmega328P) of which 0.5 KB used by bootloader |
