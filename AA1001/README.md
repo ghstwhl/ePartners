@@ -102,30 +102,30 @@ The Uno differs from all preceding boards in that it does not use the FTDI USB-t
 
 ## Test
 
-| ![alt text](assets/software_10.png 'Uno R3') |
-| -------------------------------------------- |
-| Run the Arduino IDE                          |
+| ![alt text](https://bit.ly/ep_software_10 'Uno R3') |
+| --------------------------------------------------- |
+| Run the Arduino IDE                                 |
 
-| ![alt text](assets/software_11.png 'Uno R3') |
-| -------------------------------------------- |
-| Default page                                 |
+| ![alt text](http://bit.ly/ep_software_11 'Uno R3') |
+| -------------------------------------------------- |
+| Default page                                       |
 
-| ![alt text](assets/software_12.png 'Uno R3') |
-| -------------------------------------------- |
-| Choose a blink example                       |
+| ![alt text](http://bit.ly/ep_software_12 'Uno R3') |
+| -------------------------------------------------- |
+| Choose a blink example                             |
 
-| ![alt text](assets/software_13.png 'Uno R3')                                              |
+| ![alt text](http://bit.ly/uno-board 'Uno R3')                                             |
 | ----------------------------------------------------------------------------------------- |
 | Choose the "Arduino Uno" Board type & Port, if not selected                               |
 | If the 'Port' button is unactivated, See the [Troubleshooting](#troubleshooting) section. |
 
-| ![alt text](assets/software_14.png 'Uno R3')                        |
+| ![alt text](http://bit.ly/uno-upload 'Uno R3')                      |
 | ------------------------------------------------------------------- |
 | Click the 'upload' button. Compile will be processed automatically. |
 
-| ![alt text](assets/software_15.png 'Uno R3') |
-| -------------------------------------------- |
-| Check the 'Done uploading' message.          |
+| ![alt text](http://bit.ly/upload-done 'Uno R3') |
+| ----------------------------------------------- |
+| Check the 'Done uploading' message.             |
 
 ### Test Code
 
@@ -147,35 +147,35 @@ void loop() {
 
 ### Test Result
 
-| ![alt text](assets/Arduino_Uno.gif 'Uno R3') |
-| -------------------------------------------- |
+| ![alt text](http://bit.ly/uno-1-blink 'Uno R3') |
+| ----------------------------------------------- |
 
 ---
 
 ## Troubleshooting for Windows
 
-| ![alt text](assets/trouble_1.png 'Port blocked')                                            |
+| ![alt text](http://bit.ly/trouble-1 'Port blocked')                                         |
 | ------------------------------------------------------------------------------------------- |
 | If the 'port' button is unactivated, you need to install the CH340 Driver [here.](Drivers/) |
 | For more information, please visit [here.](https://sparks.gogo.co.nz/ch340.html)            |
 
-| ![alt text](assets/trouble_2.png 'Port blocked') |
-| ------------------------------------------------ |
-| After downloading, Extract the Zip file          |
+| ![alt text](http://bit.ly/trouble-2 'Port blocked') |
+| --------------------------------------------------- |
+| After downloading, Extract the Zip file             |
 
-| ![alt text](assets/trouble_3.png 'Port blocked') |
-| ------------------------------------------------ |
-| Click the 'Extract'                              |
+| ![alt text](http://bit.ly/trouble-3 'Port blocked') |
+| --------------------------------------------------- |
+| Click the 'Extract'                                 |
 
-| ![alt text](assets/trouble_4.png 'Port blocked')       |
+| ![alt text](http://bit.ly/trouble-4 'Port blocked')    |
 | ------------------------------------------------------ |
 | You will see an app, just run it to install the driver |
 
-| ![alt text](assets/trouble_6.png 'Port blocked') |
-| ------------------------------------------------ |
-| Click the 'Install'                              |
+| ![alt text](http://bit.ly/trouble-5 'Port blocked') |
+| --------------------------------------------------- |
+| Click the 'Install'                                 |
 
-| ![alt text](assets/trouble_7.png 'Port blocked')                                |
+| ![alt text](http://bit.ly/trouble-6 'Port blocked')                             |
 | ------------------------------------------------------------------------------- |
 | Then you will see this message! Restart the Arduino IDE                         |
 | If you fail to install, connect the Arduino to the PC and then retry to install |
