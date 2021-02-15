@@ -69,7 +69,7 @@ The chip signatures of 328P and 328 are different. So if any program is reading 
 
 | ![alt text](https://bit.ly/2LQ30Rw 'USB to TTL Converter') |
 | ---------------------------------------------------------- |
-| FTDI USB to TTL Adapter                                    |
+| FTDI FT232RL USB to TTL Serial Converter 5V and 3.3V       |
 
 ### Software
 
@@ -105,12 +105,12 @@ The chip signatures of 328P and 328 are different. So if any program is reading 
 
 ### Connection
 
-| Pro Mini | FTDI Adapter |
-| -------- | ------------ |
-| GND      | GND          |
-| VCC      | VCC          |
-| RX       | TX           |
-| TX       | RX           |
+| Pro Mini | FTDI Converter |
+| -------- | -------------- |
+| GND      | GND            |
+| VCC      | VCC            |
+| RX       | TX             |
+| TX       | RX             |
 
 | ![alt text](https://bit.ly/ep_software_10 'Pro mini') |
 | ----------------------------------------------------- |
