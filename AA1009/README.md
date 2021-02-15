@@ -150,7 +150,7 @@ void loop() {
 
 ## References
 
--   [Getting Started](https://www.arduino.cc/en/Guide/ArduinoLeonardoMicro)
+-   [Getting Started](https://www.arduino.cc/en/Guide/ArduinoUno))
 -   [Datasheet ATMEGA328P](http://bit.ly/atmega-328p)
 -   [Datasheet ATMEGA16U2](http://bit.ly/atmega16u2-32u2_datasheet)
 -   [Arduino on Visual Studio code](https://maker.pro/arduino/tutorial/how-to-use-visual-studio-code-for-arduino)

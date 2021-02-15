@@ -177,7 +177,7 @@ void loop() {
 
 ## References
 
--   [Getting Started](https://www.arduino.cc/en/Guide/ArduinoLeonardoMicro)
+-   [Getting Started](https://www.arduino.cc/en/Guide/ArduinoNano)
 -   [Datasheet ATMEGA328P](http://bit.ly/atmega-328p)
 -   [Datasheet CH340](http://bit.ly/ch340-datasheet)
 -   [Arduino on Visual Studio code](https://maker.pro/arduino/tutorial/how-to-use-visual-studio-code-for-arduino)

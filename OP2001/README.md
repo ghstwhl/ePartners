@@ -169,13 +169,14 @@ void loop() {
 
 | ![alt text](https://bit.ly/3am5Gjj 'Pro mini Troubleshoot')                                              |
 | -------------------------------------------------------------------------------------------------------- |
-| If you encounter the error while you upload the code or 'Uploading' doesn't proceed,                     |
+| If you encounter an error while you upload the code or 'Uploading' doesn't proceed,                      |
 | Please try uploading again and then press the 'reset' button as soon as you see the 'Uploading' message. |
 
 ---
 
 ## References
 
--   [Getting Started](https://www.arduino.cc/en/Guide/ArduinoLeonardoMicro)
+-   [Getting Started](https://www.arduino.cc/en/Guide/ArduinoProMini)
 -   [Datasheet ATMEGA328P](http://bit.ly/atmega-328p)
 -   [Arduino on Visual Studio code](https://maker.pro/arduino/tutorial/how-to-use-visual-studio-code-for-arduino)
+-   [Arduino Pro mini tutorial](https://youtu.be/mSw9Wpd4P8Y)

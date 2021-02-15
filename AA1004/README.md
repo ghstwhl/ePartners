@@ -35,7 +35,7 @@
 | Length                     | 68.6 mm                                             |
 | Width                      | 53.3 mm                                             |
 | Weight                     | 20g                                                 |
-| USB Connector              | Type Micro                                          |
+| USB Connector              | Type Micro B                                        |
 | Power Jack                 | AC-to-DC adaptor                                    |
 | ICSP Header                | 6 pins                                              |
 | Reset Button               | tact button (Red)                                   |
@@ -108,10 +108,9 @@ It also has other implications for the behavior of the board.
 | ---------------------------------------------------- |
 | Choose a blink example                               |
 
-| ![alt text](http://bit.ly/aa1004-board 'Leonardo')                                        |
-| ----------------------------------------------------------------------------------------- |
-| Choose the "Arduino Leonardo" Board type & Port, if not selected                          |
-| If the 'Port' button is unactivated, See the [Troubleshooting](#troubleshooting) section. |
+| ![alt text](http://bit.ly/aa1004-board 'Leonardo')               |
+| ---------------------------------------------------------------- |
+| Choose the "Arduino Leonardo" Board type & Port, if not selected |
 
 | ![alt text](http://bit.ly/uno-upload 'Leonardo')                    |
 | ------------------------------------------------------------------- |
@@ -144,6 +143,14 @@ void loop() {
 | ![alt text](test/AA1004_blink.gif 'Leonardo') |
 | --------------------------------------------- |
 | Plese see the LED with 'L' sign on the board  |
+
+---
+
+## Troubleshooting
+
+If the connection is disconnected while you upload the code, please check the power voltage on the board.
+
+The USB cable has better connect to the PC or power supply directly.
 
 ---
 
