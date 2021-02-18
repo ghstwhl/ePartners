@@ -47,9 +47,11 @@ This is a brief guide to getting started with the Pro Micro Arduino Board (Atmeg
 
 ---
 
-## Test Environment
+## Tutorials
 
-### Hardware
+### Test Environment
+
+#### Hardware
 
 | ![alt text](https://bit.ly/2Zv0ofj 'Pro Micro') |
 | ----------------------------------------------- |
@@ -85,9 +87,9 @@ This is a brief guide to getting started with the Pro Micro Arduino Board (Atmeg
 
 ---
 
-## Test
+### Test
 
-### Connection
+#### Connection
 
 | Pro Micro | FTDI Converter |
 | --------- | -------------- |
@@ -96,7 +98,7 @@ This is a brief guide to getting started with the Pro Micro Arduino Board (Atmeg
 | RX        | TX             |
 | TX        | RX             |
 
-### Blink Test
+#### Blink Test
 
 | ![alt text](https://bit.ly/ep_software_10 'Pro Micro') |
 | ------------------------------------------------------ |
@@ -122,7 +124,7 @@ This is a brief guide to getting started with the Pro Micro Arduino Board (Atmeg
 | -------------------------------------------------- |
 | Check the 'Done uploading' message.                |
 
-### Test Code
+#### Test Code
 
 ```c++
 int RXLED = 17; // The RX LED has a defined Arduino pin
@@ -146,7 +148,7 @@ void loop() {
 }
 ```
 
-### Test Result
+#### Test Result
 
 | ![alt text](test/NN1010_blink.gif 'Pro Micro') |
 | ---------------------------------------------- |

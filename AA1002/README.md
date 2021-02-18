@@ -58,14 +58,16 @@ The Mega 2560 board is compatible with most shields designed for the Uno and the
 
 ---
 
-## Test Environment
+## Tutorials
 
-### Hardware
+### Test Environment
+
+#### Hardware
 
 | ![alt text](http://bit.ly/aa1002-mega 'Mega2560 R3') |
 | ---------------------------------------------------- |
 
-### Software
+#### Software
 
 | ![alt text](http://bit.ly/ep_software_1 'Mega2560') |
 | --------------------------------------------------- |
@@ -95,7 +97,7 @@ The Mega 2560 board is compatible with most shields designed for the Uno and the
 
 ---
 
-## Test
+### Test
 
 | ![alt text](https://bit.ly/ep_software_10 'Mega2560') |
 | ----------------------------------------------------- |
@@ -122,7 +124,7 @@ The Mega 2560 board is compatible with most shields designed for the Uno and the
 | ------------------------------------------------- |
 | Check the 'Done uploading' message.               |
 
-### Test Code
+#### Test Code
 
 ```c++
 // the setup function runs once when you press reset or power the board
@@ -140,7 +142,7 @@ void loop() {
 }
 ```
 
-### Test Result
+#### Test Result
 
 | ![alt text](test/AA1002_blink.gif 'Mega2560 R3') |
 | ------------------------------------------------ |

@@ -58,14 +58,16 @@ It also has other implications for the behavior of the board.
 
 ---
 
-## Test Environment
+## Tutorials
 
-### Hardware
+### Test Environment
+
+#### Hardware
 
 | ![alt text](http://bit.ly/aa1004-schematic 'Leonardo') |
 | ------------------------------------------------------ |
 
-### Software
+#### Software
 
 | ![alt text](http://bit.ly/ep_software_1 'Leonardo') |
 | --------------------------------------------------- |
@@ -95,7 +97,7 @@ It also has other implications for the behavior of the board.
 
 ---
 
-## Test
+### Test
 
 | ![alt text](https://bit.ly/ep_software_10 'Leonardo') |
 | ----------------------------------------------------- |
@@ -121,7 +123,7 @@ It also has other implications for the behavior of the board.
 | ------------------------------------------------- |
 | Check the 'Done uploading' message.               |
 
-### Test Code
+#### Test Code
 
 ```c++
 // the setup function runs once when you press reset or power the board
@@ -139,7 +141,7 @@ void loop() {
 }
 ```
 
-### Test Result
+#### Test Result
 
 | ![alt text](test/AA1004_blink.gif 'Leonardo') |
 | --------------------------------------------- |

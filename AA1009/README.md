@@ -59,14 +59,16 @@ The Uno differs from all preceding boards in that it does not use the FTDI USB-t
 
 ---
 
-## Test Environment
+## Tutorials
 
-### Hardware
+### Test Environment
+
+#### Hardware
 
 | ![alt text](http://bit.ly/aa1009-uno 'Uno R3') |
 | ---------------------------------------------- |
 
-### Software
+#### Software
 
 | ![alt text](http://bit.ly/ep_software_1 'Uno R3') |
 | ------------------------------------------------- |
@@ -96,7 +98,7 @@ The Uno differs from all preceding boards in that it does not use the FTDI USB-t
 
 ---
 
-## Test
+### Test
 
 | ![alt text](https://bit.ly/ep_software_10 'Uno R3') |
 | --------------------------------------------------- |
@@ -123,7 +125,7 @@ The Uno differs from all preceding boards in that it does not use the FTDI USB-t
 | ----------------------------------------------- |
 | Check the 'Done uploading' message.             |
 
-### Test Code
+#### Test Code
 
 ```c++
 // the setup function runs once when you press reset or power the board
@@ -141,7 +143,7 @@ void loop() {
 }
 ```
 
-### Test Result
+#### Test Result
 
 | ![alt text](test/AA1009_blink.gif 'Uno R3')  |
 | -------------------------------------------- |

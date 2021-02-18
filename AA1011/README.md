@@ -56,14 +56,16 @@ The Arduino Nano is a small, complete, and breadboard-friendly board based on th
 
 ---
 
-## Test Environment
+## Tutorials
 
-### Hardware
+### Test Environment
+
+#### Hardware
 
 | ![alt text](http://bit.ly/aa1011 'Nano') |
 | ---------------------------------------- |
 
-### Software
+#### Software
 
 | ![alt text](http://bit.ly/ep_software_1 'Nano') |
 | ----------------------------------------------- |
@@ -93,7 +95,7 @@ The Arduino Nano is a small, complete, and breadboard-friendly board based on th
 
 ---
 
-## Test
+### Test
 
 | ![alt text](https://bit.ly/ep_software_10 'Nano') |
 | ------------------------------------------------- |
@@ -120,7 +122,7 @@ The Arduino Nano is a small, complete, and breadboard-friendly board based on th
 | --------------------------------------------- |
 | Check the 'Done uploading' message.           |
 
-### Test Code
+#### Test Code
 
 ```c++
 // the setup function runs once when you press reset or power the board
@@ -138,7 +140,7 @@ void loop() {
 }
 ```
 
-### Test Result
+#### Test Result
 
 | ![alt text](test/AA1011_blink.gif 'Nano')    |
 | -------------------------------------------- |
