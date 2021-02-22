@@ -3,9 +3,10 @@
 ## Table of Contents
 
 -   [Description](#description)
+-   [Tips](#tips)
 -   [Features](#features)
--   [Schematic](#schematic) **..Coming soon..**
--   [Tutorials](#tutorials) **..Coming soon..**
+-   [Schematic](#schematic)
+-   [Tutorials](#tutorials)
     -   [Test-environment](#test-environment)
         -   [Hardware](#hardware)
         -   [Software](#software) **..Coming soon..**
@@ -23,6 +24,15 @@ This WiFi relay based on AI-Thinker ESP-01/ 01S WiFi module, we use the GPIO0 of
 
 ---
 
+## Tips
+
+-   Mobile phone equipped with WiFi module;
+-   Mobile phone and WiFI module equipped with the same router, through the mobile phone APP to control the relay; this mode, the transmission distance depends on the signal router.
+-   ESP8266 module has a timeout mechanism, when the phone for some time (the default 180S) did not give instructions to the module, the module will kick off the phone, the computer can send AT + CIPSTO = time to modify this time (Time range 0-7200), such as: AT + CIPSTO = 3600.
+-   When the module on the WIFI module is unplugged, USB to TTL module RX, TX, GND pins were connected to the module RX, TX, GND pin, IN +, IN- 5V power supply, then the module can be used as a USB Relays to use, scalability.
+
+---
+
 ## Features (Specification)
 
 | Features                        |                                                                                                     |
@@ -33,14 +43,22 @@ This WiFi relay based on AI-Thinker ESP-01/ 01S WiFi module, we use the GPIO0 of
 | Serial communication parameters | 9600,8,1,0,                                                                                         |
 | Transmission distance           | the maximum transmission distance is 400m(open environment, mobile phone equipped with WiFi module) |
 | Load                            | 10A/ 250VAC, 10A/ 30VDC, 10A/ 30VDC, 10A/ 28VDC                                                     |
-| Size                            | 45 \* 28mm                                                                                          |
+| Size                            | 37 \* 25mm                                                                                          |
 
 ---
 
 ## Schematic
 
-![alt text]()
+![alt text](https://bit.ly/3qLI11A 'ESP8266 Relay')
+
+---
+
+## Tutorials
+
+### Hardware
+
+---
 
 ## References
 
-**[Instructions](https://bit.ly/ES0201-ESP01-Adapter)**
+**[Instructions](https://www.instructables.com/ESP0101S-RELAY-MODULE-TUTORIAL/)**
