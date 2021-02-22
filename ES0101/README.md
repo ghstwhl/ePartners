@@ -111,6 +111,14 @@ application, with the lowest cost, and minimal space requirement.
     | ------------------------------------------------------------------------- |
     | search 'esp' or 'esp8266' by 'esp community' and then click the 'install' |
 
+    | ![alt text](https://bit.ly/3qO1YVi 'ESP8266') |
+    | --------------------------------------------- |
+    | Choose the ESP8266 board                      |
+
+    | ![alt text](https://bit.ly/3qNTc9V 'ESP8266') |
+    | --------------------------------------------- |
+    | Check the status of the board                 |
+
 3. Add a library to use ESP wifi function
 
     - <b>Download the library [here](library/)</b>
