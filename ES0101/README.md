@@ -84,7 +84,7 @@ application, with the lowest cost, and minimal space requirement.
 
 ## Tutorials
 
-**Coming soon..**(: style="color: red")
+**Coming soon..**{: style="color: red"}
 
 <!-- ### Hardware
 
