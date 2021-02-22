@@ -88,10 +88,9 @@ application, with the lowest cost, and minimal space requirement.
 
 ### Install the Add-on to the Arduino IDE
 
-| Installing ESP8266 Add-on to Arduino IDE      |
-| :-------------------------------------------- |
-| ![alt text](https://bit.ly/3aG93BV 'ESP8266') |
-| ![alt text](https://bit.ly/2ZzqopM 'ESP8266') |
+| Installing ESP8266 Add-on to Arduino IDE      |                                               |
+| :-------------------------------------------- | --------------------------------------------- |
+| ![alt text](https://bit.ly/3aG93BV 'ESP8266') | ![alt text](https://bit.ly/2ZzqopM 'ESP8266') |
 
 | ![alt text](https://bit.ly/2P1ZViz 'ESP8266')                   |
 | --------------------------------------------------------------- |
