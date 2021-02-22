@@ -121,7 +121,7 @@ application, with the lowest cost, and minimal space requirement.
 
 3. Add a library to use ESP wifi function
 
-    - <b>Download the library [here](library/)</b>
+    - <b>Download the library [here](libraries/)</b>
 
     | ![alt text](https://bit.ly/2NQwa3L 'ESP8266') | ![alt text](https://bit.ly/3dBNIeB 'ESP8266') |
     | --------------------------------------------- | --------------------------------------------- |
