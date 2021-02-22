@@ -103,8 +103,6 @@ application, with the lowest cost, and minimal space requirement.
 | -------------------------------------------- | ------------------------------------------------------------------------- |
 | select the 'board manager'                   | search 'esp' or 'esp8266' by 'esp community' and then click the 'install' |
 
--   Install the library
-
 ---
 
 ```c++
