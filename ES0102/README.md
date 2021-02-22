@@ -2,13 +2,12 @@
 
 ## Table of Contents
 
--   [Description](#description) **..Coming soon..**
--   [Features](#features) **..Coming soon..**
-    <!-- -   [Pin Decription](#pin-description) **..Coming soon..** -->
-    <!-- -   [Schematic](#schematic) **..Coming soon..** -->
+-   [Description](#description)
+-   [Features](#features)
+-   [Schematic](#schematic) **..Coming soon..**
 -   [Tutorials](#tutorials) **..Coming soon..**
-    -   [Test-environment](#test-environment) **..Coming soon..**
-        -   [Hardware](#hardware) **..Coming soon..**
+    -   [Test-environment](#test-environment)
+        -   [Hardware](#hardware)
         -   [Software](#software) **..Coming soon..**
     -   [Test](#test) **..Coming soon..**
         -   [Test Code](#test-code) **..Coming soon..**
@@ -26,14 +25,17 @@ This WiFi relay based on AI-Thinker ESP-01/ 01S WiFi module, we use the GPIO0 of
 
 ## Features (Specification)
 
-|                       |                |
-| --------------------- | -------------- |
-| Working voltage       | DC 5V-12V      |
-| Working current       | &#x2265; 250mA |
-| Communication         |                |
-| Transmission distance |                |
-| Load                  |                |
-| Size                  |                |
+| Features                        |                                                                                                     |
+| ------------------------------- | --------------------------------------------------------------------------------------------------- |
+| Working voltage                 | DC 5V-12V                                                                                           |
+| Working current                 | &#x2265; 250mA                                                                                      |
+| Communication                   | ESP01 or ESP01S Wifi Module                                                                         |
+| Serial communication parameters | 9600,8,1,0,                                                                                         |
+| Transmission distance           | the maximum transmission distance is 400m(open environment, mobile phone equipped with WiFi module) |
+| Load                            | 10A/ 250VAC, 10A/ 30VDC, 10A/ 30VDC, 10A/ 28VDC                                                     |
+| Size                            | 45 \* 28mm                                                                                          |
+
+---
 
 ## References
 
