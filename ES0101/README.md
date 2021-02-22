@@ -1,4 +1,4 @@
-# ESP-01s Tutorial (Wifi Connection)
+# ESP8266-01s Tutorial (Wifi Connection)
 
 ## Table of Contents
 
@@ -84,7 +84,7 @@ application, with the lowest cost, and minimal space requirement.
 
 ## Tutorials
 
-<span style="color: red; font-size: 24px; font-weight: bold">Coming soon..</span>
+**Coming soon..**
 
 <!-- ### Hardware
 
