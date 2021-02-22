@@ -90,18 +90,20 @@ application, with the lowest cost, and minimal space requirement.
 
 ### Software
 
-| ![alt text](https://bit.ly/3aG93BV 'ESP8266') | ![alt text](https://bit.ly/2ZzqopM 'ESP8266') |
-| --------------------------------------------- | --------------------------------------------- |
-| click the 'file' tab                          | select 'preferences'                          |
+1.  | ![alt text](https://bit.ly/3aG93BV 'ESP8266') | ![alt text](https://bit.ly/2ZzqopM 'ESP8266') |
+    | --------------------------------------------- | --------------------------------------------- |
+    | click the 'file' tab                          | select 'preferences'                          |
 
-| ![alt text](https://bit.ly/2P1ZViz 'ESP8266')                   |
-| --------------------------------------------------------------- |
-| Copy & paste below url as above picture                         |
-| http://arduino.esp8266.com/stable/package_esp8266com_index.json |
+2.  | ![alt text](https://bit.ly/2P1ZViz 'ESP8266')                   |
+    | --------------------------------------------------------------- |
+    | Copy & paste below url as above picture                         |
+    | http://arduino.esp8266.com/stable/package_esp8266com_index.json |
 
-| ![alt text](http://bit.ly/2Mi598Y 'ESP8266') | ![alt text](https://bit.ly/3ujZrUZ 'ESP8266')                             |
-| -------------------------------------------- | ------------------------------------------------------------------------- |
-| select the 'board manager'                   | search 'esp' or 'esp8266' by 'esp community' and then click the 'install' |
+3.  | ![alt text](http://bit.ly/2Mi598Y 'ESP8266') | ![alt text](https://bit.ly/3ujZrUZ 'ESP8266')                             |
+    | -------------------------------------------- | ------------------------------------------------------------------------- |
+    | select the 'board manager'                   | search 'esp' or 'esp8266' by 'esp community' and then click the 'install' |
+
+4.
 
 ---
 
@@ -233,13 +235,7 @@ void loop() {
 
 ## Troubleshooting
 
-| 1. Installing ESP8266 Add-on to Arduino IDE   |
-| :-------------------------------------------- |
-| ![alt text](Pictures/ESP8266_1.png 'ESP8266') |
-| ![alt text](Pictures/ESP8266_2.png 'ESP8266') |
-| ![alt text](Pictures/ESP8266_3.png 'ESP8266') |
-
-| 2. If you cannot upload the code, check your COM port in the <b>Device manager</b>. |
+| 1. If you cannot upload the code, check your COM port in the <b>Device manager</b>. |
 | :---------------------------------------------------------------------------------- |
 | ![alt text](Pictures/check_port.png 'COM port')                                     |
 
