@@ -20,4 +20,4 @@
 
 ## References
 
--   [Instructions](https://bit.ly/ES0201-ESP01-Adapter)
+**[Instructions](https://bit.ly/ES0201-ESP01-Adapter)**
