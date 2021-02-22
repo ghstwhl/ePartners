@@ -103,9 +103,13 @@ application, with the lowest cost, and minimal space requirement.
 
 -   Install the ESP8266 Boards
 
-| ![alt text](https://bit.ly/37B0hmA 'ESP8266') | ![alt text](https://bit.ly/3bkRNRy 'ESP8266')                             |
-| --------------------------------------------- | ------------------------------------------------------------------------- |
-| select the 'board manager'                    | search 'esp' or 'esp8266' by 'esp community' and then click the 'install' |
+| ![alt text](https://bit.ly/37B0hmA 'ESP8266') |
+| --------------------------------------------- |
+| select the 'board manager'                    |
+
+| ![alt text](https://bit.ly/3bkRNRy 'ESP8266')                             |
+| ------------------------------------------------------------------------- |
+| search 'esp' or 'esp8266' by 'esp community' and then click the 'install' |
 
 ---
 
