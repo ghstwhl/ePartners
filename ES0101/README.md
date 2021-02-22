@@ -90,8 +90,6 @@ application, with the lowest cost, and minimal space requirement.
 
 ### Software
 
--   Install the Add-on to the Arduino IDE
-
 | ![alt text](https://bit.ly/3aG93BV 'ESP8266') | ![alt text](https://bit.ly/2ZzqopM 'ESP8266') |
 | --------------------------------------------- | --------------------------------------------- |
 | click the 'file' tab                          | select 'preferences'                          |
@@ -101,11 +99,11 @@ application, with the lowest cost, and minimal space requirement.
 | Copy & paste below url as above picture                         |
 | http://arduino.esp8266.com/stable/package_esp8266com_index.json |
 
--   Install the ESP8266 Boards
-
 | ![alt text](http://bit.ly/2Mi598Y 'ESP8266') | ![alt text](https://bit.ly/3ujZrUZ 'ESP8266')                             |
 | -------------------------------------------- | ------------------------------------------------------------------------- |
 | select the 'board manager'                   | search 'esp' or 'esp8266' by 'esp community' and then click the 'install' |
+
+-   Install the library
 
 ---
 
