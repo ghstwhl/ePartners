@@ -92,7 +92,10 @@ application, with the lowest cost, and minimal space requirement.
 | :-------------------------------------------- |
 | ![alt text](https://bit.ly/3aG93BV 'ESP8266') |
 | ![alt text](https://bit.ly/2ZzqopM 'ESP8266') |
-| ![alt text](https://bit.ly/2P1ZViz 'ESP8266') |
+
+| ![alt text](https://bit.ly/2P1ZViz 'ESP8266')                   |
+| --------------------------------------------------------------- |
+| http://arduino.esp8266.com/stable/package_esp8266com_index.json |
 
 ```c++
 #include <ESP8266WiFi.h>
