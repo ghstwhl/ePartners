@@ -84,9 +84,15 @@ application, with the lowest cost, and minimal space requirement.
 
 ---
 
-## Test Code
+## Tutorials
 
--   To test the following example with Arduino IDE, you need to install the ESP8266 add-on. If you haven't installed the ESP8266 add-on, please follow the troubleshooting section.
+### Install the Add-on to the Arduino IDE
+
+| Installing ESP8266 Add-on to Arduino IDE      |
+| :-------------------------------------------- |
+| ![alt text](https://bit.ly/3aG93BV 'ESP8266') |
+| ![alt text](https://bit.ly/2ZzqopM 'ESP8266') |
+| ![alt text](https://bit.ly/2P1ZViz 'ESP8266') |
 
 ```c++
 #include <ESP8266WiFi.h>
@@ -222,9 +228,9 @@ void loop() {
 | ![alt text](Pictures/ESP8266_2.png 'ESP8266') |
 | ![alt text](Pictures/ESP8266_3.png 'ESP8266') |
 
-| 2. If you cannot upload the code, check you COM port in the <b>Device manager</b>. |
-| :--------------------------------------------------------------------------------- |
-| ![alt text](Pictures/check_port.png 'COM port')                                    |
+| 2. If you cannot upload the code, check your COM port in the <b>Device manager</b>. |
+| :---------------------------------------------------------------------------------- |
+| ![alt text](Pictures/check_port.png 'COM port')                                     |
 
 3. EN pin (or CHPD pin) must be connected to 3.3V
 4. Before the code is upload to ESP-01s, GPIO 0 pin must be connected to GND.
