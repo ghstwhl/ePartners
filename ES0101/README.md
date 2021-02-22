@@ -107,7 +107,7 @@ application, with the lowest cost, and minimal space requirement.
 | --------------------------------------------- |
 | select the 'board manager'                    |
 
-| ![alt text](https://bit.ly/3bkRNRy 'ESP8266')                             |
+| ![alt text](https://bit.ly/3ujZrUZ 'ESP8266')                             |
 | ------------------------------------------------------------------------- |
 | search 'esp' or 'esp8266' by 'esp community' and then click the 'install' |
 
