@@ -86,7 +86,11 @@ application, with the lowest cost, and minimal space requirement.
 
 ## Tutorials
 
-### Install the Add-on to the Arduino IDE
+### Hardware
+
+### Software
+
+-   Install the Add-on to the Arduino IDE
 
 | ![alt text](https://bit.ly/3aG93BV 'ESP8266') | ![alt text](https://bit.ly/2ZzqopM 'ESP8266') |
 | --------------------------------------------- | --------------------------------------------- |
@@ -97,11 +101,13 @@ application, with the lowest cost, and minimal space requirement.
 | Copy & paste below url as above picture                         |
 | http://arduino.esp8266.com/stable/package_esp8266com_index.json |
 
-### Install the ESP8266 Boards
+-   Install the ESP8266 Boards
 
 | ![alt text](https://bit.ly/37B0hmA 'ESP8266') | ![alt text](https://bit.ly/3bkRNRy 'ESP8266')                             |
 | --------------------------------------------- | ------------------------------------------------------------------------- |
 | select the 'board manager'                    | search 'esp' or 'esp8266' by 'esp community' and then click the 'install' |
+
+---
 
 ```c++
 #include <ESP8266WiFi.h>
