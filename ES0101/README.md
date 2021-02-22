@@ -90,20 +90,27 @@ application, with the lowest cost, and minimal space requirement.
 
 ### Software
 
-1.  | ![alt text](https://bit.ly/3aG93BV 'ESP8266') | ![alt text](https://bit.ly/2ZzqopM 'ESP8266') |
+1. Set ESP add-on to the Arduino IDE
+
+    | ![alt text](https://bit.ly/3aG93BV 'ESP8266') | ![alt text](https://bit.ly/2ZzqopM 'ESP8266') |
     | --------------------------------------------- | --------------------------------------------- |
     | click the 'file' tab                          | select 'preferences'                          |
 
-2.  | ![alt text](https://bit.ly/2P1ZViz 'ESP8266')                   |
+    | ![alt text](https://bit.ly/2P1ZViz 'ESP8266')                   |
     | --------------------------------------------------------------- |
     | Copy & paste below url as above picture                         |
     | http://arduino.esp8266.com/stable/package_esp8266com_index.json |
 
-3.  | ![alt text](http://bit.ly/2Mi598Y 'ESP8266') | ![alt text](https://bit.ly/3ujZrUZ 'ESP8266')                             |
+2. Installing the ESP board on the Arudino IDE
+
+    | ![alt text](http://bit.ly/2Mi598Y 'ESP8266') | ![alt text](https://bit.ly/3ujZrUZ 'ESP8266')                             |
     | -------------------------------------------- | ------------------------------------------------------------------------- |
     | select the 'board manager'                   | search 'esp' or 'esp8266' by 'esp community' and then click the 'install' |
 
-4.
+3. Add a library to use ESP wifi function
+
+    |     |     |
+    | --- | --- |
 
 ---
 
