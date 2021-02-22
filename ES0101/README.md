@@ -84,7 +84,7 @@ application, with the lowest cost, and minimal space requirement.
 
 ## Tutorials
 
-<span style="color: red; font-size: 24x;">**Coming soon..**</span>
+**Coming soon..**(: style="color: red")
 
 <!-- ### Hardware
 
