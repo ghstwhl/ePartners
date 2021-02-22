@@ -6,7 +6,7 @@
 -   [Features](#features)
 -   [Pin Decription](#pin-description)
 -   [Schematic](#schematic)
--   [Tutorials](#tutorials)
+-   [Tutorials](#tutorials) ..Coming soon..
     -   [Test-environment](#test-environment)
         -   [Hardware](#hardware)
         -   [Software](#software)
@@ -77,7 +77,7 @@ application, with the lowest cost, and minimal space requirement.
 
 ## Schematic
 
-| ![alt text](https://bit.ly/3dAbJ5W 'ESP01-S') |
+| ![alt text](https://bit.ly/3bvqJPJ 'ESP01-S') |
 | --------------------------------------------- |
 
 ---
