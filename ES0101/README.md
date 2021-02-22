@@ -82,11 +82,11 @@ application, with the lowest cost, and minimal space requirement.
 
 ---
 
----
-
 ## Tutorials
 
-### Hardware
+## Coming soon..
+
+<!-- ### Hardware
 
 ### Software
 
@@ -125,11 +125,11 @@ application, with the lowest cost, and minimal space requirement.
 
     | ![alt text](https://bit.ly/2NQwa3L 'ESP8266') | ![alt text](https://bit.ly/3dBNIeB 'ESP8266') |
     | --------------------------------------------- | --------------------------------------------- |
-    | Add the library to your IDE                   | Find your download folder                     |
+    | Add the library to your IDE                   | Find your download folder                     | -->
 
----
+<!-- --- -->
 
-```c++
+<!-- ```c++
 #include <ESP8266WiFi.h>
 
 const char* ssid = "Type your WIFI ssid";//type your ssid
@@ -235,11 +235,11 @@ void loop() {
   Serial.println("");
 
 }
-```
+``` -->
 
----
+<!-- --- -->
 
-## Test result
+<!-- ## Test result
 
 | ![alt text](Pictures/Connection_3.JPG 'test_result')                                                                   |
 | ---------------------------------------------------------------------------------------------------------------------- |
@@ -263,12 +263,15 @@ void loop() {
 
 3. EN pin (or CHPD pin) must be connected to 3.3V
 4. Before the code is upload to ESP-01s, GPIO 0 pin must be connected to GND.
-5. After uploading the code, GPIO 0 pin must be disconnected from GND.
+5. After uploading the code, GPIO 0 pin must be disconnected from GND. -->
 
----
+<!-- --- -->
 
 ## References
 
 -   Datasheet
-    -   [ESP-01(s)]http://www.microchip.ua/wireless/esp01.pdf
+    -   [ESP-01(s)](http://www.microchip.ua/wireless/esp01.pdf)
     -   [PL2303 USB to TTL Adapter](https://www.mpja.com/download/pl2303hxreva_v1.6.pdf)
+-   References
+    -   [Arduino core for ESP8266 WiFi chip](https://github.com/esp8266/Arduino)
+    -   [ESP8266 docs](https://arduino-esp8266.readthedocs.io/en/latest/esp8266wifi/readme.html)
