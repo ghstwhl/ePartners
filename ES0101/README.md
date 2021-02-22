@@ -99,9 +99,9 @@ application, with the lowest cost, and minimal space requirement.
 
 ### Install the ESP8266 Boards
 
-| https://bit.ly/3k8EzLQ | https://bit.ly/3dx6JPh |
-| ---------------------- | ---------------------- |
-|                        |                        |
+| ![alt text](https://bit.ly/3k8EzLQ 'ESP8266') | ![alt text](https://bit.ly/3dx6JPh 'ESP8266') |
+| --------------------------------------------- | --------------------------------------------- |
+|                                               |                                               |
 
 ```c++
 #include <ESP8266WiFi.h>
