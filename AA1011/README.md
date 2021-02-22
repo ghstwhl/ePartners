@@ -1,128 +1,134 @@
-# Arduino Nano V3.0 ATmega328P Controller(CH340G Driver) Development Board
+# Arduino UNO R3 ATMEGA 328P (ATMEGA16U2 driver) Board (MAC, Windows, Linux)
 
 ## Table of Contents
 
 -   [Features](#features)
 -   [Description](#description)
 -   [Schematic](#schematic)
--   [Tutorials](#tutorials)
-    -   [Test Environment](#test-environment)
-        -   [Hardware](#hardware)
-        -   [Software](#software)
-    -   [Test](#test)
-        -   [Test Code](#test-code)
-        -   [Test Result](#test-result)
--   [Troubleshooting for Windows](#troubleshooting-for-windows)
+-   [Test Environment](#test-environment)
+    -   [Hardware](#hardware)
+    -   [Software](#software)
+-   [Test](#test)
+    -   [Test Code](#test-code)
+    -   [Test Result](#test-result)
 -   [References](#references)
 
 ---
 
 ## Features
 
-| Features                   |                                                     |
-| -------------------------- | --------------------------------------------------- |
-| Microcontroller            | ATmega328P                                          |
-| USB Driver                 | CH340G                                              |
-| Operationg Volatage        | 5V                                                  |
-| Input Voltage(recommended) | 7-12V                                               |
-| Digital I/O Pins           | 14 pins (TX, RX, D2~D13)                            |
-| PWM Channels               | 6 pins (D3, D5, D6, D9, D10, D11)                   |
-| Analog Pins                | 8 pins (A0~A7)                                      |
-| DC Current per I/O Pin     | 40mA                                                |
-| Flash Memory               | 32 KB (ATmega328P) of which 2 KB used by bootloader |
-| SRAM                       | 2 KB                                                |
-| EEPROM                     | 1 KB                                                |
-| Clock Speed                | 16 MHz                                              |
-| LED_BUILTIN                | Digital pin 13                                      |
-| Length                     | 45 mm                                               |
-| Width                      | 18 mm                                               |
-| Weight                     | 7g                                                  |
-| USB Connector              | Type Mini-B                                         |
-| ICSP Header                | 6 pins                                              |
-| Reset Button               | tact button (White)                                 |
+| Features                   |                                                       |
+| -------------------------- | ----------------------------------------------------- |
+| Microcontroller            | ATmega328P                                            |
+| USB Driver                 | ATMEGA16U2                                            |
+| Operationg Volatage        | 5V                                                    |
+| Input Voltage(recommended) | 7-12V                                                 |
+| Digital I/O Pins           | 14 pins(of which 6 provide PWM output)                |
+| PWM Channels               | 6 pins                                                |
+| Analog Input Channels      | 6 pins                                                |
+| DC Current per I/O Pin     | 20mA                                                  |
+| DC Current per 3.3V Pin    | 50mA                                                  |
+| Flash Memory               | 32 KB (ATmega328P) of which 0.5 KB used by bootloader |
+| SRAM                       | 2 KB (ATmega328P)                                     |
+| EEPROM                     | 1 KB (ATmega328P)                                     |
+| Clock Speed                | 16 MHz                                                |
+| LED_BUILTIN                | Digital pin 13                                        |
+| Length                     | 68.6 mm                                               |
+| Width                      | 53.4 mm                                               |
+| Weight                     | 25g                                                   |
+| USB Connector              | Type B                                                |
+| Power Jack                 | AC-to-DC adaptor                                      |
+| ICSP Header                | 6 pins                                                |
+| Reset Button               | tact button (Red)                                     |
 
 ---
 
 ## Description
 
-The Arduino Nano is a small, complete, and breadboard-friendly board based on the ATmega328 (Arduino Nano 3.x). It has more or less the same functionality of the Arduino Duemilanove, but in a different package. It lacks only a DC power jack, and works with a Mini-B USB cable instead of a standard one.
+This Arduino Uno is a microcontroller board based on the ATMEGA 328P & ATMEGA 16U2 Driver.
+It contains everything needed to support the microcontroller; simply connect it to a computer with a USB cable or power it with an AC-to-DC adapter or battery to get started.
+The Uno differs from all preceding boards in that it does not use the FTDI USB-to-serial driver chip. Instead, it features the ATMEGA 16U2 programmed as a USB-to-serial converter.
 
 ---
 
 ## Schematic
 
-| ![alt text](http://bit.ly/aa1011-schematic 'Nano Schematic') |
-| ------------------------------------------------------------ |
+| ![alt text](http://bit.ly/aa1009-schematic 'Leonardo Schematic') |
+| ---------------------------------------------------------------- |
 
 ---
 
-## Tutorials
+## Test Environment
 
-### Test Environment
+### Hardware
 
-#### Hardware
+| ![alt text](http://bit.ly/aa1009-uno 'Leonardo') |
+| ------------------------------------------------ |
 
-| ![alt text](http://bit.ly/aa1011 'Nano') |
-| ---------------------------------------- |
+### Software
 
-#### Software
+| ![alt text](http://bit.ly/ep_software_1 'Uno R3') |
+| ------------------------------------------------- |
+| Go to Arduino [Home](https://www.arduino.cc/)     |
 
-| ![alt text](http://bit.ly/ep_software_1 'Nano') |
-| ----------------------------------------------- |
-| Go to Arduino [Home](https://www.arduino.cc/)   |
+| ![alt text](http://bit.ly/ep_software_2 'Uno R3') |
+| ------------------------------------------------- |
+| Choose a appropriate file for your OS             |
 
-| ![alt text](http://bit.ly/ep_software_2 'Nano') |
-| ----------------------------------------------- |
-| Choose a appropriate file for your OS           |
-
-| ![alt text](http://bit.ly/ep_software_3 'Nano')                           |
+| ![alt text](http://bit.ly/ep_software_3 'Uno R3')                         |
 | ------------------------------------------------------------------------- |
 | You can just download the file or contribute & download if you would like |
 
-| ![alt text](http://bit.ly/ep_software_4 'Nano') |
-| ----------------------------------------------- |
-| Run the downloaded file                         |
+| ![alt text](http://bit.ly/ep_software_4 'Uno R3') |
+| ------------------------------------------------- |
+| Run the downloaded file                           |
 
-| ![alt text](http://bit.ly/ep_software_5 'Nano') | ![alt text](http://bit.ly/ep_software_6 'Nano') |
-| ----------------------------------------------- | ----------------------------------------------- |
+| ![alt text](http://bit.ly/ep_software_5 'Uno R3') |
+| ------------------------------------------------- |
 
-| ![alt text](http://bit.ly/ep_software_7 'Nano') | ![alt text](http://bit.ly/ep_software_8 'Nano') |
-| ----------------------------------------------- | ----------------------------------------------- |
+| ![alt text](http://bit.ly/ep_software_6 'Uno R3') |
+| ------------------------------------------------- |
 
-| ![alt text](http://bit.ly/ep_software_9 'Nano') |
-| ----------------------------------------------- |
-| Click the 'close' button to complete            |
+| ![alt text](http://bit.ly/ep_software_7 'Uno R3') |
+| ------------------------------------------------- |
+
+| ![alt text](http://bit.ly/ep_software_8 'Uno R3') |
+| ------------------------------------------------- |
+
+| ![alt text](http://bit.ly/ep_software_9 'Uno R3') |
+| ------------------------------------------------- |
+| Click the 'close' button to complete              |
 
 ---
 
-### Test
+## Test
 
-| ![alt text](https://bit.ly/ep_software_10 'Nano') |
-| ------------------------------------------------- |
-| Run the Arduino IDE                               |
+| ![alt text](https://bit.ly/ep_software_10 'Uno R3') |
+| --------------------------------------------------- |
+| Run the Arduino IDE                                 |
 
-| ![alt text](http://bit.ly/ep_software_11 'Nano') |
-| ------------------------------------------------ |
-| Default page                                     |
+| ![alt text](http://bit.ly/ep_software_11 'Uno R3') |
+| -------------------------------------------------- |
+| Default page                                       |
 
-| ![alt text](http://bit.ly/ep_software_12 'Nano') |
-| ------------------------------------------------ |
-| Choose a blink example                           |
+| ![alt text](http://bit.ly/ep_software_12 'Uno R3') |
+| -------------------------------------------------- |
+| Choose a blink example                             |
 
-| ![alt text](http://bit.ly/aa1011-board 'Nano')                                            |
+| ![alt text](http://bit.ly/aa1009-board 'Uno R3')                                          |
 | ----------------------------------------------------------------------------------------- |
-| Choose the "Arduino Nano" Board type & "ATmega328P" Processor, if not selected            |
+| Choose the "Arduino Uno" Board type & Port, if not selected                               |
 | If the 'Port' button is unactivated, See the [Troubleshooting](#troubleshooting) section. |
 
-| ![alt text](http://bit.ly/uno-upload 'Nano')                        |
+| ![alt text](http://bit.ly/uno-upload 'Uno R3')                      |
 | ------------------------------------------------------------------- |
 | Click the 'upload' button. Compile will be processed automatically. |
 
-| ![alt text](http://bit.ly/upload-done 'Nano') |
-| --------------------------------------------- |
-| Check the 'Done uploading' message.           |
+| ![alt text](http://bit.ly/upload-done 'Uno R3') |
+| ----------------------------------------------- |
+| Check the 'Done uploading' message.             |
 
-#### Test Code
+### Test Code
 
 ```c++
 // the setup function runs once when you press reset or power the board
@@ -140,47 +146,17 @@ void loop() {
 }
 ```
 
-#### Test Result
+### Test Result
 
-| ![alt text](test/AA1011_blink.gif 'Nano')    |
+| ![alt text](test/AA1009_blink.gif 'Uno R3')  |
 | -------------------------------------------- |
 | Plese see the LED with 'L' sign on the board |
 
 ---
 
-## Troubleshooting for Windows
-
-| ![alt text](http://bit.ly/trouble-1 'Port blocked')                                         |
-| ------------------------------------------------------------------------------------------- |
-| If the 'port' button is unactivated, you need to install the CH340 Driver [here.](Drivers/) |
-| For more information, please visit [here.](https://sparks.gogo.co.nz/ch340.html)            |
-
-| ![alt text](http://bit.ly/trouble-2 'Port blocked') |
-| --------------------------------------------------- |
-| After downloading, Extract the Zip file             |
-
-| ![alt text](http://bit.ly/trouble-3 'Port blocked') |
-| --------------------------------------------------- |
-| Click the 'Extract'                                 |
-
-| ![alt text](http://bit.ly/trouble-4 'Port blocked')    |
-| ------------------------------------------------------ |
-| You will see an app, just run it to install the driver |
-
-| ![alt text](http://bit.ly/trouble-5 'Port blocked') |
-| --------------------------------------------------- |
-| Click the 'Install'                                 |
-
-| ![alt text](http://bit.ly/trouble-6 'Port blocked')                             |
-| ------------------------------------------------------------------------------- |
-| Then you will see this message! Restart the Arduino IDE                         |
-| If you fail to install, connect the Arduino to the PC and then retry to install |
-
----
-
 ## References
 
--   [Getting Started](https://www.arduino.cc/en/Guide/ArduinoNano)
+-   [Getting Started](https://www.arduino.cc/en/Guide/ArduinoLeonardoMicro)
 -   [Datasheet ATMEGA328P](http://bit.ly/atmega-328p)
--   [Datasheet CH340](http://bit.ly/ch340-datasheet)
+-   [Datasheet ATMEGA16U2](http://bit.ly/atmega16u2-32u2_datasheet)
 -   [Arduino on Visual Studio code](https://maker.pro/arduino/tutorial/how-to-use-visual-studio-code-for-arduino)

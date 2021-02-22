@@ -2,80 +2,85 @@
 
 ## Table of Contents
 
--   [Intro](#intro)
--   [Component](#component)
--   [Connections](#connections)
--   [Test Code](#test-code)
-    -   [Test result](#test-result)
--   [Troubleshooting](#troubleshooting)
+-   [Description](#description)
+-   [Features](#features)
+-   [Pin Decription](#pin-description)
+-   [Schematic](#schematic)
+-   [Tutorials](#tutorials)
+    -   [Test-environment](#test-environment)
+        -   [Hardware](#hardware)
+        -   [Software](#software)
+    -   [Test](#test)
+        -   [Test Code](#test-code)
+        -   [Test Result](#test-result)
+-   [Troubleshooting for Windows](#troubleshooting-for-windows)
 -   [References](#references)
 
 ---
 
-## Intro
+## Description
 
-This is ESP01-s tutorial with connection and simple working test.
-The test includes connection to WIFI and controlling 2 LEDs.
-
-This page will be updated soon.
+ESP-01 WiFi module is developed by
+encapsulates Tensilica L106 integrates industry
+Clock speed support 80 MHz, 160 MHz, supports the RTOS, integrated Wi
+The module supports standard IEEE802.11
+add modules to an existing device networking, or building a separate network controller.
+ESP8266 is high integration wireless SOCs, designed for space and power constrained mobile platform
+It provides unsurpassed ability to embed Wi
+application, with the lowest cost, and minimal space requirement.
 
 ---
 
-## Component
+## Feature
 
--   Please click the link with 'Ctrl' key or 'CMD' key, if you would like to open the link in a new tab!
+| Features                                                                                   |
+| ------------------------------------------------------------------------------------------ |
+| 802.11 b/g/n                                                                               |
+| Integrated low power 32-bit MCU                                                            |
+| Integrated 10-bit ADC                                                                      |
+| Integrated TCP/IP protocol stack                                                           |
+| Integrated TR switch, balun, LNA, power amplifier and matching network                     |
+| Integrated PLL, regulators, and power management units                                     |
+| Supports antenna diversity                                                                 |
+| Wi-Fi 2.4 GHz, support WPA/WPA2                                                            |
+| Support STA/AP/STA+AP operation modes                                                      |
+| Support Smart Link Function for both Android and iOS devices                               |
+| SDIO 2.0, (H) SPI, UART, I2C, I2S, IRDA, PWM, GPIO                                         |
+| STBC, 1x1 MIMO, 2x1 MIMO                                                                   |
+| A-MPDU & A-MSDU aggregation and 0.4s guard interval                                        |
+| Deep sleep power <10uA, Power down leakage current < 5uA                                   |
+| Wake up and transmit packets in < 2ms                                                      |
+| Standby power consumption of < 1.0mW (DTIM3)                                               |
+| +20dBm output power in 802.11b mode                                                        |
+| Operating temperature range -40C ~ 125C                                                    |
+| 1MB Flash Memory                                                                           |
+| Can be used as Station or Access Point or both combined                                    |
+| Supports serial communication hence compatible with many development platform like Arduino |
+| Can be programmed using Arduino IDE or AT-commands or Lua Script                           |
 
-| ![alt text](Pictures/ES0102.png 'ESP-01s')                                          |
-| ----------------------------------------------------------------------------------- |
-| [ESP-01s](https://www.trademe.co.nz/Browse/Listing.aspx?id=2741117322&bof=Vpo9gmFT) |
+---
 
-| ![alt text](Pictures/SC0003.png 'PL2303') |
-| ----------------------------------------- |
+## Pin Description
 
+| NO. | Pin Name | Alternate Name | Normally used for                                      |
+| --- | -------- | -------------- | ------------------------------------------------------ |
+| 1   | GND      | -              | Connected to the ground of the circuit                 |
+| 2   | TX       | GPIO-1         | Connected to RX pin of programmer/uC to upload program |
+| 3   | GPIO-2   | -              | General purpose Input/Output pin                       |
+| 4   | CH_EN    | -              | Chip Enable - Active high                              |
+| 5   | GPIO-0   | Flash          | General purpose Input/Output pin                       |
+| 6   | Reset    | -              | Resets the module                                      |
+| 7   | RX       | GPIO-3         | General purpose Input/Output pin                       |
+| 8   | VCC      | -              | Connect to +3.3V only                                  |
 
-[PL2303 USB to TTL Adapter](https://www.trademe.co.nz/Browse/Listing.aspx?id=2746950880&bof=BF6PYkto)
+---
 
-| ![alt text](Pictures/NP1022.png '5mm LED Green') |
-| ------------------------------------------------ |
+## Schematic
 
-
-[5mm LED Green](https://www.trademe.co.nz/Browse/Listing.aspx?id=2746946823&bof=PelvUgYY)
-
-| ![alt text](Pictures/NP1025.png '5mm LED White') |
-| ------------------------------------------------ |
-
-
-[5mm LED White](https://www.trademe.co.nz/Browse/Listing.aspx?id=2746946645&bof=Jup8NVFL)
-
-| ![alt text](Pictures/RS2721.png 'Resistor - 200 Ohm') |
-| ----------------------------------------------------- |
-
-
-[Resistor - 200 Ohm](https://www.trademe.co.nz/Browse/Listing.aspx?id=2743360863&bof=Q9u7yWWy)
-
-| ![alt text](Pictures/BB1005.png 'Breadboard') |
+| ![alt text](https://bit.ly/3dAbJ5W 'ESP01-S') |
 | --------------------------------------------- |
 
-
-[Breadboard](https://www.trademe.co.nz/Browse/Listing.aspx?id=2746168815&bof=VpNbpqcQ)
-
 ---
-
-## Connections
-
-| ESP-01s | PL2303 | LEDs        |
-| ------- | ------ | ----------- |
-| 3.3V    | 3.3V   |             |
-| RX      | TX     |             |
-| TX      | RX     |             |
-| GND     | GND    | GND         |
-| GPIO2   |        | Green LED + |
-| GPIO0   |        | White LED + |
-
-| After updating the code, you will see follows. |
-| ---------------------------------------------- |
-| ![alt text](Pictures/get_ip.png 'getip')       |
-| ![alt text](Pictures/web_page.png 'webpage')   |
 
 ---
 
