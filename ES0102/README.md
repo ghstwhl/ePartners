@@ -65,4 +65,5 @@ This WiFi relay based on AI-Thinker ESP-01/ 01S WiFi module, we use the GPIO0 of
 
 ## References
 
-**[Instructions](https://www.instructables.com/ESP0101S-RELAY-MODULE-TUTORIAL/)**
+**[Instructions I](https://www.instructables.com/ESP0101S-RELAY-MODULE-TUTORIAL/)**
+**[Instructions II](https://acoptex.com/project/304/basics-project-021e-esp8266-esp-01-wi-fi-module-5v-relay-modules-webserver-at-acoptexcom/)**

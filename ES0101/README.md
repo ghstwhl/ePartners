@@ -270,7 +270,7 @@ void loop() {
 ## References
 
 -   Datasheet
-    -   [ESP-01(s)](http://www.microchip.ua/wireless/esp01.pdf)
+    -   [ESP-01(s)](https://drive.google.com/file/d/1P2JFYlRoFeIERfMuQFkpXTKrc3vIfln8/view?usp=sharing)
     -   [PL2303 USB to TTL Adapter](https://www.mpja.com/download/pl2303hxreva_v1.6.pdf)
 -   References
     -   [Arduino core for ESP8266 WiFi chip](https://github.com/esp8266/Arduino)
