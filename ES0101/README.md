@@ -103,7 +103,7 @@ application, with the lowest cost, and minimal space requirement.
 
 2. Installing the ESP board on the Arudino IDE
 
-    | ![alt text](https://bit.ly/3qJPXQN 'ESP8266') | ![alt text](https://bit.ly/3ujZrUZ 'ESP8266')                             |
+    | ![alt text](https://bit.ly/3qJPXQN 'ESP8266') | ![alt text](http://bit.ly/3aDr6sn 'ESP8266')                              |
     | --------------------------------------------- | ------------------------------------------------------------------------- |
     | select the 'board manager'                    | search 'esp' or 'esp8266' by 'esp community' and then click the 'install' |
 
