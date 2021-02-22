@@ -26,14 +26,14 @@ This WiFi relay based on AI-Thinker ESP-01/ 01S WiFi module, we use the GPIO0 of
 
 ## Features (Specification)
 
-|                       |               |
-| --------------------- | ------------- |
-| Working voltage       | DC 5V-12V     |
-| Working current       | &#x2265 250mA |
-| Communication         |               |
-| Transmission distance |               |
-| Load                  |               |
-| Size                  |               |
+|                       |                |
+| --------------------- | -------------- |
+| Working voltage       | DC 5V-12V      |
+| Working current       | &#x2265; 250mA |
+| Communication         |                |
+| Transmission distance |                |
+| Load                  |                |
+| Size                  |                |
 
 ## References
 
