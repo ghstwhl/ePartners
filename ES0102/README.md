@@ -57,6 +57,10 @@ This WiFi relay based on AI-Thinker ESP-01/ 01S WiFi module, we use the GPIO0 of
 
 ### Hardware
 
+| ![alt text](https://bit.ly/37z7aVF 'ESP8266-01s') | ![alt text](https://bit.ly/3kbv66F 'ESP8266 Relay') | ![alt text](https://bit.ly/2MgbaD5 'FTDI Converter') |
+| ------------------------------------------------- | --------------------------------------------------- | ---------------------------------------------------- |
+| ESP8266-01S WiFi Module                           | Relay Shield for ESP-01/ESP-01S                     | USB to TTL Converter                                 |
+
 ---
 
 ## References
