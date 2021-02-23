@@ -82,7 +82,7 @@ This WiFi relay based on AI-Thinker ESP-01/ 01S WiFi module, we use the GPIO0 of
 
 -   **Software**
 
-**Coming Soon..** (You can see the instructions in the 'references' section)
+**Coming Soon..** (You can see the instructions in the '[References](#references)' section)
 
 ---
 
