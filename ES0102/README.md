@@ -63,14 +63,13 @@ This WiFi relay based on AI-Thinker ESP-01/ 01S WiFi module, we use the GPIO0 of
 
 **Hardware Installation**
 
-|     |               |
 | --- | ------------- |
-| 1.  | RX -> TX      |
-| 2.  | TX -> RX      |
-| 3.  | VCC -> VCC    |
-| 4.  | CH_EN -> VCC  |
-| 5.  | GPIO-0 -> GND |
-| 6.  | GND -> GND    |
+| 1. | RX -> TX |
+| 2. | TX -> RX |
+| 3. | VCC -> VCC |
+| 4. | CH_EN -> VCC |
+| 5. | GPIO-0 -> GND |
+| 6. | GND -> GND |
 
 ---
 
