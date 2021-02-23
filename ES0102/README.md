@@ -1,4 +1,4 @@
-# ESP8266 - CH340 USB to ESP-01 / ESP-01S Wifi Module Adapter
+# Relay Shield for ESP8266 ESP-01 ESP-01S
 
 ## Table of Contents
 
