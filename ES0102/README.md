@@ -63,24 +63,30 @@ This WiFi relay based on AI-Thinker ESP-01/ 01S WiFi module, we use the GPIO0 of
 | ------------------------------------------------- | --------------------------------------------------- | ---------------------------------------------------- |
 | ESP8266-01S WiFi Module                           | Relay Shield for ESP-01/ESP-01S                     | USB to TTL Converter                                 |
 
+**Hardware Installation**
+
 <table>
-<tr><th><b>Hardware Installation</b></th><th></th><th>Test</th></tr>
+<tr><th>No.</th><th>Connection</th><th>Test</th></tr>
 <tr>
 <td>
-| No. | Connection    |
-| --- | ------------- |
-| 1.  | RX -> TX      |
-| 2.  | TX -> RX      |
-| 3.  | VCC -> VCC    |
-| 4.  | CH_EN -> VCC  |
-| 5.  | GPIO-0 -> GND |
-| 6.  | GND -> GND    |
+| 1.  |
+| 2.  | 
+| 3.  | 
+| 4.  | 
+| 5.  | 
+| 6.  | 
 </td>
 <td>
+ | RX -> TX      |
+ | TX -> RX      |
+ | VCC -> VCC    |
+ | CH_EN -> VCC  |
+ | GPIO-0 -> GND |
+ | GND -> GND    |
+</td>
 | ![alt text](https://bit.ly/3pQQxLy 'ESP8266 Relay')                    |
 | ---------------------------------------------------------------------- |
 | Source: https://www.instructables.com/ESP0101S-RELAY-MODULE-TUTORIAL/s |
-</td>
 </tr>
 </table>
 
