@@ -1,4 +1,4 @@
-# ESP8266 ESP-01 Serial WiFi Adapter Module 3.3V 5V Compatible Serial Module
+# ESP8266 ESP-01 Serial WiFi Adapter Module 3.3V 5V Compatible
 
 ## Table of Contents
 
