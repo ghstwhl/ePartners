@@ -77,7 +77,6 @@
     | ![alt text](https://bit.ly/3sqeo6s 'ESP8266 NodeMCU') | ![alt text](https://bit.ly/3aQAjO3 'ESP8266 NodeMCU') | ![alt text](https://bit.ly/37GNDCv 'ESP8266 NodeMCU') |
     | ----------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------- |
     | ![alt text](https://bit.ly/2P4dmOR 'ESP8266 NodeMCU') | ![alt text](https://bit.ly/3qSn8So 'ESP8266 NodeMCU') | ![alt text](https://bit.ly/2ZLBVT5 'ESP8266 NodeMCU') |
-    | ----------------------------------------------------- |
     | ![alt text](https://bit.ly/3spBg5X 'ESP8266 NodeMCU') |
 
 ## References
