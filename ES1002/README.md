@@ -212,8 +212,8 @@ void loop() {
 | ----------------------------------------------------- | --------------------------------------------------------- |
 | If the code uploaded correctly, you will see this     | You can check IP address of NodeMCU in the Serial monitor |
 
-| ![alt text](https://bit.ly/2O21I6w 'ESP8266 NodeMCU') | ![alt text](https://bit.ly/37MCQH5 'ESP8266 NodeMCU') |
-| ----------------------------------------------------- | ----------------------------------------------------- |
+| ![alt text](https://bit.ly/2O21I6w 'ESP8266 NodeMCU') | ![alt text](https://lh3.googleusercontent.com/pw/ACtC-3f7SsOb_QUgxXDGBdo3oQhjbSsiIVeGSGFd9oN8EqqQz7CxdqbhTGcmiiD5y7_wGy07boDOmJ-2PX6lyy2PXZukVvVfhNAam23jB9iG3L5AX3ar3fNaPQ8wn3Vy2TI3InhT2FJDOsRtKUZESe4en_zT=w628-h384-no 'ESP8266 NodeMCU') |
+| ----------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 ---
 
