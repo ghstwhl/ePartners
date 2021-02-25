@@ -212,12 +212,18 @@ void loop() {
 | ----------------------------------------------------- | --------------------------------------------------------- |
 | If the code uploaded correctly, you will see this     | You can check IP address of NodeMCU in the Serial monitor |
 
-| ![alt text](https://bit.ly/37IY60m 'ESP8266 NodeMCU') | ![alt text](https://bit.ly/37MCQH5 'ESP8266 NodeMCU') |
+| ![alt text](https://bit.ly/2O21I6w 'ESP8266 NodeMCU') | ![alt text](https://bit.ly/37MCQH5 'ESP8266 NodeMCU') |
 | ----------------------------------------------------- | ----------------------------------------------------- |
+
+---
+
+## Troubleshooting **Coming soon..**
+
+---
 
 ## References
 
 -   [ESP8266 Official](https://www.espressif.com/en/products/modules/esp8266)
 -   [NodeMCU Docs](https://nodemcu.readthedocs.io/en/release/)
 -   [Tutorial Video](https://youtu.be/G6CqvhXpBKM)
--   [Tutorial Guide](https://www.instructables.com/Get-Started-with-ESP8266-Using-AT-Commands-NodeMCU/)
+-   [Tutorial ESP8266 Using AT commands](https://www.instructables.com/Get-Started-with-ESP8266-Using-AT-Commands-NodeMCU/)
