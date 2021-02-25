@@ -81,7 +81,7 @@
 
 -   **Add a library for testing**
 
-**Firstly, download the library [here](libraries/)**
+**Firstly, download the library [here](libraries/ESP8266WiFi.zip)**
 
 | ![alt text](https://bit.ly/3aRl2N5 'ESP8266 NodeMCU') | ![alt text](https://bit.ly/3pRTU4K 'ESP8266 NodeMCU') | ![alt text](https://bit.ly/37IfGSo 'ESP8266 NodeMCU') |
 | ----------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------- |
