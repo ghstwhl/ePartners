@@ -207,7 +207,9 @@ void loop() {
 #### Test Result (Comming soon..)
 
 **Temporary**
+
 | ![alt text](https://bit.ly/37IY60m 'ESP8266 NodeMCU') | ![alt text](https://bit.ly/37MCQH5 'ESP8266 NodeMCU') |
+| ----------------------------------------------------- | ----------------------------------------------------- |
 
 ## References
 
