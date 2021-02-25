@@ -81,4 +81,7 @@
 
 ## References
 
+-   [ESP8266 Official](https://www.espressif.com/en/products/modules/esp8266)
 -   [NodeMCU Docs](https://nodemcu.readthedocs.io/en/release/)
+-   [Tutorial Video](https://youtu.be/G6CqvhXpBKM)
+-   [Tutorial Guide](https://www.instructables.com/Get-Started-with-ESP8266-Using-AT-Commands-NodeMCU/)
