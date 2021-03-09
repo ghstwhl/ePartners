@@ -1,17 +1,19 @@
 # ESP32-CAM Tutorial
 
 ## Table of Contents
-- [Intro](#intro)
-- [Component](#component)
-- [Connections](#connections)
-- [Test Code](#test-code)
-  - [Test result](#test-result)
-- [Troubleshooting](#troubleshooting)
-- [References](#references)
-    
+
+-   [Intro](#intro)
+-   [Component](#component)
+-   [Connections](#connections)
+-   [Test Code](#test-code)
+    -   [Test result](#test-result)
+-   [Troubleshooting](#troubleshooting)
+-   [References](#references)
+
 ---
 
 ## Intro
+
 This is ESP32-CAM tutorial with connection and simple working test.
 This tutorial is referring to ["randomnerdtutorials.com"](https://randomnerdtutorials.com/esp32-cam-video-streaming-web-server-camera-home-assistant/)
 
@@ -20,48 +22,54 @@ If you need more information, please visit to the linked site.
 ---
 
 ## Component
-* Please click the link with 'Ctrl' key or 'CMD' key, if you would like to open the link in a new tab!
 
-| ![alt text](Pictures/ES2003.png "ESP32-CAM") |
-| -- |
-|[ESP32-CAM](https://www.trademe.co.nz/Browse/Listing.aspx?id=2741280031&bof=YoAxdEG3)|
+-   Please click the link with 'Ctrl' key or 'CMD' key, if you would like to open the link in a new tab!
 
-| ![alt text](Pictures/SC0002.png "FTDI Programmer") |
-| -- |
+| ![alt text](Pictures/ES2003.png 'ESP32-CAM')                                          |
+| ------------------------------------------------------------------------------------- |
+| [ESP32-CAM](https://www.trademe.co.nz/Browse/Listing.aspx?id=2741280031&bof=YoAxdEG3) |
+
+| ![alt text](Pictures/SC0002.png 'FTDI Programmer') |
+| -------------------------------------------------- |
+
 [FTDI Programmer](https://www.trademe.co.nz/Browse/Listing.aspx?id=2739557382&bof=O9m4ksvQ)
 
 ---
 
 ## Connections
+
 ### ESP32-CAM pinout
-| ![alt text](Pictures/pinout.png "ESP32-CAM Pinout") |
-| -- |
+
+| ![alt text](Pictures/pinout.png 'ESP32-CAM Pinout')                  |
+| -------------------------------------------------------------------- |
 | Source: https://randomnerdtutorials.com/esp32-cam-ai-thinker-pinout/ |
 
-
 ### Connection Image
-| ![alt text](Pictures/connection.png "Circuit connection") |
-| -- |
+
+| ![alt text](Pictures/connection.png 'Circuit connection')                                           |
+| --------------------------------------------------------------------------------------------------- |
 | Source: https://randomnerdtutorials.com/esp32-cam-video-streaming-web-server-camera-home-assistant/ |
-| * Please check the output voltage before connecting |
+| \* Please check the output voltage before connecting                                                |
 
 ---
 
 ## Test Code
-* To test the following example with Arduino IDE, you need to install the ESP32 add-on. If you haven't installed the ESP32 add-on, please follow one of the next tutorials.
-- [Installing the ESP32 Board in Arduino IDE (Windows instructions)](https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-windows-instructions/)
-- [Installing the ESP32 Board in Arduino IDE (Mac and Linux instructions)](https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-mac-and-linux-instructions/)
+
+-   To test the following example with Arduino IDE, you need to install the ESP32 add-on. If you haven't installed the ESP32 add-on, please follow one of the next tutorials.
+
+*   [Installing the ESP32 Board in Arduino IDE (Windows instructions)](https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-windows-instructions/)
+*   [Installing the ESP32 Board in Arduino IDE (Mac and Linux instructions)](https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-mac-and-linux-instructions/)
 
 ```c++
 /*********
   Rui Santos
   Complete project details at https://RandomNerdTutorials.com/esp32-cam-video-streaming-web-server-camera-home-assistant/
-  
-  IMPORTANT!!! 
+
+  IMPORTANT!!!
    - Select Board "AI Thinker ESP32-CAM"
    - GPIO 0 must be connected to GND to upload a sketch
    - After connecting GPIO 0 to GND, press the ESP32-CAM on-board RESET button to put your board in flashing mode
-  
+
   Permission is hereby granted, free of charge, to any person obtaining a copy
   of this software and associated documentation files.
 
@@ -99,7 +107,7 @@ const char* password = "REPLACE_WITH_YOUR_PASSWORD";
   #define XCLK_GPIO_NUM    21
   #define SIOD_GPIO_NUM    26
   #define SIOC_GPIO_NUM    27
-  
+
   #define Y9_GPIO_NUM      35
   #define Y8_GPIO_NUM      34
   #define Y7_GPIO_NUM      39
@@ -118,7 +126,7 @@ const char* password = "REPLACE_WITH_YOUR_PASSWORD";
   #define XCLK_GPIO_NUM     27
   #define SIOD_GPIO_NUM     25
   #define SIOC_GPIO_NUM     23
-  
+
   #define Y9_GPIO_NUM       19
   #define Y8_GPIO_NUM       36
   #define Y7_GPIO_NUM       18
@@ -137,7 +145,7 @@ const char* password = "REPLACE_WITH_YOUR_PASSWORD";
   #define XCLK_GPIO_NUM     27
   #define SIOD_GPIO_NUM     25
   #define SIOC_GPIO_NUM     23
-  
+
   #define Y9_GPIO_NUM       19
   #define Y8_GPIO_NUM       36
   #define Y7_GPIO_NUM       18
@@ -156,7 +164,7 @@ const char* password = "REPLACE_WITH_YOUR_PASSWORD";
   #define XCLK_GPIO_NUM      0
   #define SIOD_GPIO_NUM     26
   #define SIOC_GPIO_NUM     27
-  
+
   #define Y9_GPIO_NUM       35
   #define Y8_GPIO_NUM       34
   #define Y7_GPIO_NUM       39
@@ -247,7 +255,7 @@ void startCameraServer(){
     .handler   = stream_handler,
     .user_ctx  = NULL
   };
-  
+
   //Serial.printf("Starting web server on port: '%d'\n", config.server_port);
   if (httpd_start(&stream_httpd, &config) == ESP_OK) {
     httpd_register_uri_handler(stream_httpd, &index_uri);
@@ -256,10 +264,10 @@ void startCameraServer(){
 
 void setup() {
   WRITE_PERI_REG(RTC_CNTL_BROWN_OUT_REG, 0); //disable brownout detector
- 
+
   Serial.begin(115200);
   Serial.setDebugOutput(false);
-  
+
   camera_config_t config;
   config.ledc_channel = LEDC_CHANNEL_0;
   config.ledc_timer = LEDC_TIMER_0;
@@ -280,8 +288,8 @@ void setup() {
   config.pin_pwdn = PWDN_GPIO_NUM;
   config.pin_reset = RESET_GPIO_NUM;
   config.xclk_freq_hz = 20000000;
-  config.pixel_format = PIXFORMAT_JPEG; 
-  
+  config.pixel_format = PIXFORMAT_JPEG;
+
   if(psramFound()){
     config.frame_size = FRAMESIZE_UXGA;
     config.jpeg_quality = 10;
@@ -291,7 +299,7 @@ void setup() {
     config.jpeg_quality = 12;
     config.fb_count = 1;
   }
-  
+
   // Camera init
   esp_err_t err = esp_camera_init(&config);
   if (err != ESP_OK) {
@@ -306,10 +314,10 @@ void setup() {
   }
   Serial.println("");
   Serial.println("WiFi connected");
-  
+
   Serial.print("Camera Stream Ready! Go to: http://");
   Serial.print(WiFi.localIP());
-  
+
   // Start streaming web server
   startCameraServer();
 }
@@ -318,16 +326,17 @@ void loop() {
   delay(1);
 }
 ```
+
 | Source: https://randomnerdtutorials.com/esp32-cam-video-streaming-web-server-camera-home-assistant/ |
-| -- |
-| * You need to change SSID & Password on the code with your Wireless Router information. |
+| --------------------------------------------------------------------------------------------------- |
+| \* You need to change SSID & Password on the code with your Wireless Router information.            |
 
 ---
 
 ## Test result
 
-| ![alt text](Pictures/ready.png "test_result")|
-| -- |
+| ![alt text](Pictures/ready.png 'test_result') |
+| --------------------------------------------- |
 
 ---
 
@@ -356,6 +365,9 @@ void loop() {
 ---
 
 ## References
-- [Tutorials](https://randomnerdtutorials.com/esp32-cam-video-streaming-web-server-camera-home-assistant/)
 
-- [Troubleshooting](https://randomnerdtutorials.com/esp32-cam-troubleshooting-guide/)
+-   [Tutorials](https://randomnerdtutorials.com/esp32-cam-video-streaming-web-server-camera-home-assistant/)
+
+-   [Troubleshooting](https://randomnerdtutorials.com/esp32-cam-troubleshooting-guide/)
+
+-   [ESPTOOLS](https://github.com/espressif/esptool)
