@@ -1,4 +1,4 @@
-# ESP32 Development Board WiFi+Bluetooth Ultra-Low Power Consumption Dual Core
+# ESP32 38P Development Board WiFi+Bluetooth Ultra-Low Power Consumption Dual Core
 
 ## Table of Contents
 
