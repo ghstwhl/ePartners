@@ -10,7 +10,7 @@
 -   [Test](#test)
     -   [Test Code](#test-code)
     -   [Test Result](#test-result)
--   [Troubleshooting for Windows](#troubleshooting-for-windows)
+-   [Troubleshooting](#troubleshooting)
 -   [References](#references)
 
 ---
@@ -48,3 +48,9 @@
 ---
 
 ## References
+
+-   [ESP32 Tutorials I](https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-windows-instructions/)
+
+-   [ESP32 Tutorials II](http://esp32.net/)
+
+-   [ESP32 Tutorials with Arduino](https://www.dfrobot.com/blog-964.html)
