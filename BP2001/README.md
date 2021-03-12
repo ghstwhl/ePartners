@@ -31,8 +31,6 @@
 
 ### Test Environment
 
----
-
 #### Hardware
 
 ---
