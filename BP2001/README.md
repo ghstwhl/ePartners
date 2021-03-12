@@ -1,4 +1,4 @@
-# Arduino UNO R3 ATMEGA328P (CH340 driver) Development Board
+# ESP32 Development Board WiFi+Bluetooth Ultra-Low Power Consumption Dual Core
 
 ## Table of Contents
 
