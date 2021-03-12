@@ -4,14 +4,12 @@
 
 -   [Features](#features)
 -   [Description](#description)
--   [Schematic](#schematic)
--   [Tutorials](#tutorials)
-    -   [Test-environment](#test-environment)
-        -   [Hardware](#hardware)
-        -   [Software](#software)
-    -   [Test](#test)
-        -   [Test Code](#test-code)
-        -   [Test Result](#test-result)
+-   [Test-environment](#test-environment)
+    -   [Hardware](#hardware)
+    -   [Software](#software)
+-   [Test](#test)
+    -   [Test Code](#test-code)
+    -   [Test Result](#test-result)
 -   [Troubleshooting for Windows](#troubleshooting-for-windows)
 -   [References](#references)
 
@@ -25,23 +23,19 @@
 
 ---
 
-## Tutorials
+## Test Environment
+
+### Hardware
 
 ---
 
-### Test Environment
-
-#### Hardware
+### Software
 
 ---
 
-#### Software
+## Test
 
----
-
-### Test
-
-#### Test Code
+### Test Code
 
 ```c++
 
@@ -49,7 +43,7 @@
 
 ---
 
-#### Test Result
+### Test Result
 
 ---
 
