@@ -45,21 +45,30 @@ ESP32 is a series of low-cost, low-power system on a chip microcontrollers with 
 
 ---
 
-### Software
+### Software (Windows version)
+
+    - Arduino IDE ([Latest version should be installed](https://www.arduino.cc/en/software))
+    - ESP32 Add-on in Arduino IDE [(Please see here)](http://bit.ly/2UnFLxy)
+    - Add ESP32 board in Arduino IDE [(Please see here)](http://bit.ly/3tmXwxF)
+    - If you use Mac or Linux, [(Please see here)](http://bit.ly/3tmXwxF)
 
 ---
 
 ## Test
 
-### Test Code
+-   Open the following example under <b>File > Examples > WiFi(ESP32) > WiFiScan</b>
 
----
+![alt text](https://bit.ly/2Ozqcoy 'example')
 
 ### Test Result
 
----
+-   The result of test should be like below (result may differ)
+
+![alt text](https://bit.ly/3ls1xyk 'result')
 
 ## Troubleshooting
+
+    - If you encounter an error, please see the troubleshooting section [here](http://bit.ly/3tmXwxF)
 
 ---
 
