@@ -93,3 +93,5 @@ ESP32 is a series of low-cost, low-power system on a chip microcontrollers with 
 
 -   Data sheet
     -   [ESP32 series data sheet](https://www.mouser.com/datasheet/2/891/esp-wroom-32_datasheet_en-1223836.pdf)
+
+to be updated..
