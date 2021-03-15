@@ -17,42 +17,17 @@ ESP32 is a series of low-cost, low-power system on a chip microcontrollers with 
 
 ## Features
 
-| Features              | Details                                                                  |
-| --------------------- | ------------------------------------------------------------------------ |
-| Processors            | CPU Xtensa dual-core 32-bit LX6 microprocessor                           |
-|                       | Operating at 160 or 240 MHz                                              |
-|                       | Performing at up to 600 [DMIPS](https://en.wikipedia.org/wiki/Dhrystone) |
-|                       | Ultra low power(ULP) co-processor                                        |
-| Memory                | 520 KiB SRAM                                                             |
-| Wireless Connectivity | Wi-Fi: 802.11 b/g/n                                                      |
-|                       | Bluetooth: v4.2 BR/DER and BLE (shares the radio with Wi-Fi)             |
-| Peripheral interfaces | 12-bit SAR ADC up to 18 channels                                         |
-|                       | 2 x 8-bit DACs                                                           |
-|                       | 10 x touch sensors (capacitive sensing GPIOs)                            |
-|                       | 4 x SPI                                                                  |
-|                       | 2 x I<sup>2</sup>S interfaces                                            |
-|                       | 2 x I^2C interfaces                                                      |
-|                       | 3 x UART                                                                 |
-|                       | SD/SDIO/CE-ATA/MMC/eMMC host controller                                  |
-|                       | SDIO/SPI slave controller                                                |
-|                       | Ethernet MAC interface with dedicated DMA                                |
-|                       | IEEE 1588 Precision Time Protocol support                                |
-|                       | CAN(Controller Area Network) bus 2.0                                     |
-|                       | Infrared remote controller (TX/RX, up to 8 channels)                     |
-|                       | Motor PWM                                                                |
-|                       | LED PWM (up to 16 channels)                                              |
-|                       | Hall effect sensor                                                       |
-|                       | Ultra low power analog pre-amplifier                                     |
-| Security              | IEEE 802.11 standard security reatures all supported                     |
-|                       | WFA, WPA/SPA2 and WAPI                                                   |
-|                       | Secure boot                                                              |
-|                       | Flash encryption                                                         |
-|                       | 1024-bit OTP, up to 768-bit for customers                                |
-| Power Management      | Internal low-dropout regulator                                           |
-|                       | Individual power domain for RTC                                          |
-|                       | 5 μA deep sleep current                                                  |
-|                       | Wake up from GPIO interrupt, timer, ADC measurements                     |
-|                       | capacitive touch sensor interrupt                                        |
+| Features        | Details                                                                                                                                                                                                                                                                                                                                                                |
+| --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Architecture    | 32 bits                                                                                                                                                                                                                                                                                                                                                                |
+| Number of cores | 2(dual core)                                                                                                                                                                                                                                                                                                                                                           |
+| Memory          | 512KB SRAM                                                                                                                                                                                                                                                                                                                                                             |
+| Wi-Fi           | 2.4 GHz up to 150 Mbits/s                                                                                                                                                                                                                                                                                                                                              |
+| Bluetooth       | BLE (Bluetooth Low Energy) and legacy Bluetooth                                                                                                                                                                                                                                                                                                                        |
+| Pins            | 30 or 38 (depends on the model)                                                                                                                                                                                                                                                                                                                                        |
+| Peripherals     | Capacitive touch, ADC (analog to digital converter), DAC (digital to analog converter), I2C (Inter-Integrated Circuit), UART (universal asynchronous receiver/transmitter), CAN 2.0 (Controller Area Netwokr), SPI (Serial Peripheral Interface), I2S (Integrated Inter-IC Sound), RMII (Reduced Media-Independent Interface), PWM (pulse width modulation), and more. |
+|  |
+| Clock frequency | Up to 240 MHz                                                                                                                                                                                                                                                                                                                                                          |
 
 ---
 
