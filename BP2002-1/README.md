@@ -57,7 +57,7 @@ ESP32 is a series of low-cost, low-power system on a chip microcontrollers with 
 -   Arduino IDE [Latest version should be installed](https://www.arduino.cc/en/software)
 -   ESP32 Add-on in Arduino IDE (Please see [here](http://bit.ly/2UnFLxy))
 -   Add ESP32 board in Arduino IDE (Please see [here](http://bit.ly/3tmXwxF))
--   If you use Mac or Linux, Please see [here](http://bit.ly/3tmXwxF)
+-   If you use Mac or Linux, please see [here](http://bit.ly/3tmXwxF)
 
 ---
 
