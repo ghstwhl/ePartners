@@ -41,7 +41,7 @@ ESP32 is a series of low-cost, low-power system on a chip microcontrollers with 
 
 ### Hardware
 
-![alt text](https://bit.ly/3cG3Fi2 'ESP32-38p')
+![alt text](https://bit.ly/3tlr7aS 'ESP32-38p')
 
 ---
 
