@@ -4,7 +4,10 @@
 
 -   [Description](#description)
 -   [Features](#features)
+-   [Pinout](#pinout)
 -   [Test-environment](#test-environment)
+    -   [Hardware](#hardware)
+    -   [Software](#software)
 -   [Test](#test)
 -   [Troubleshooting](#troubleshooting)
 -   [References](#references)
