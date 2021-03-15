@@ -68,7 +68,7 @@ ESP32 is a series of low-cost, low-power system on a chip microcontrollers with 
 
 ## Troubleshooting
 
-    - If you encounter an error, please see the troubleshooting section [here](http://bit.ly/3tmXwxF)
+-   If you encounter an error while uploading, please see the troubleshooting section [here](http://bit.ly/3tmXwxF)
 
 ---
 
