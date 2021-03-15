@@ -17,22 +17,31 @@ ESP32 is a series of low-cost, low-power system on a chip microcontrollers with 
 
 ## Features
 
-| Features        | Details                                                                                                                                                                                                                                                                                                                                                                |
-| --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Architecture    | 32 bits                                                                                                                                                                                                                                                                                                                                                                |
-| Number of cores | 2(dual core)                                                                                                                                                                                                                                                                                                                                                           |
-| Memory          | 512KB SRAM                                                                                                                                                                                                                                                                                                                                                             |
-| Wi-Fi           | 2.4 GHz up to 150 Mbits/s                                                                                                                                                                                                                                                                                                                                              |
-| Bluetooth       | BLE (Bluetooth Low Energy) and legacy Bluetooth                                                                                                                                                                                                                                                                                                                        |
-| Pins            | 30 or 38 (depends on the model)                                                                                                                                                                                                                                                                                                                                        |
-| Peripherals     | Capacitive touch, ADC (analog to digital converter), DAC (digital to analog converter), I2C (Inter-Integrated Circuit), UART (universal asynchronous receiver/transmitter), CAN 2.0 (Controller Area Netwokr), SPI (Serial Peripheral Interface), I2S (Integrated Inter-IC Sound), RMII (Reduced Media-Independent Interface), PWM (pulse width modulation), and more. |
-| Clock frequency | Up to 240 MHz                                                                                                                                                                                                                                                                                                                                                          |
-
----
+| Features        | Details                                            |
+| --------------- | -------------------------------------------------- |
+| Architecture    | 32 bits                                            |
+| Number of cores | 2(dual core)                                       |
+| Memory          | 512KB SRAM                                         |
+| Wi-Fi           | 2.4 GHz up to 150 Mbits/s                          |
+| Bluetooth       | BLE (Bluetooth Low Energy) and legacy Bluetooth    |
+| Pins            | 30 or 38 (depends on the model)                    |
+| Peripherals     | ADC (analog to digital converter)                  |
+|                 | DAC (digital to analog converter)                  |
+|                 | I2C (Inter-Integrated Circuit)                     |
+|                 | UART (universal asynchronous receiver/transmitter) |
+|                 | SPI (Serial Peripheral Interface)                  |
+|                 | I2S (Integrated Inter-IC Sound)                    |
+|                 | CAN 2.0 (Controller Area Netwokr)                  |
+|                 | Motor PWM (pulse width modulation)                 |
+|                 | LED PWM (pulse width modulation)                   |
+| Clock frequency | Up to 240 MHz                                      |
+| Etc..           |                                                    |
 
 ## Test Environment
 
 ### Hardware
+
+![alt text](https://bit.ly/3cG3Fi2 'ESP32-38p')
 
 ---
 
