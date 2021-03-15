@@ -5,11 +5,7 @@
 -   [Description](#description)
 -   [Features](#features)
 -   [Test-environment](#test-environment)
-    -   [Hardware](#hardware)
-    -   [Software](#software)
 -   [Test](#test)
-    -   [Test Code](#test-code)
-    -   [Test Result](#test-result)
 -   [Troubleshooting](#troubleshooting)
 -   [References](#references)
 
@@ -17,7 +13,7 @@
 
 ## Description
 
----
+ESP32 is a series of low-cost, low-power system on a chip microcontrollers with integrated Wi-Fi and dual-mode Bluetooth. The ESP32 series employs a Tensilica Xtensa LX6 microprocessor in both dual-core and single-core variations and includes built-in antenna switches, RF balun, power amplifier, low-noise receive amplifier, filters, and power-management modules. ESP32 is created and developed by Espressif Systems, a Shanghai-based Chinese company, and is manufactured by TSMC using their 40 nm process. It is a successor to the ESP8266 microcontroller.
 
 ## Features
 
@@ -34,14 +30,14 @@
 |                       | 2 x 8-bit DACs                                                           |
 |                       | 10 x touch sensors (capacitive sensing GPIOs)                            |
 |                       | 4 x SPI                                                                  |
-|                       | 2 x I^2S interfaces                                                      |
+|                       | 2 x I<sup>2</sup>S interfaces                                            |
 |                       | 2 x I^2C interfaces                                                      |
 |                       | 3 x UART                                                                 |
 |                       | SD/SDIO/CE-ATA/MMC/eMMC host controller                                  |
 |                       | SDIO/SPI slave controller                                                |
 |                       | Ethernet MAC interface with dedicated DMA                                |
 |                       | IEEE 1588 Precision Time Protocol support                                |
-|                       | CAN bus 2.0                                                              |
+|                       | CAN(Controller Area Network) bus 2.0                                     |
 |                       | Infrared remote controller (TX/RX, up to 8 channels)                     |
 |                       | Motor PWM                                                                |
 |                       | LED PWM (up to 16 channels)                                              |
