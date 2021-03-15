@@ -37,6 +37,10 @@ ESP32 is a series of low-cost, low-power system on a chip microcontrollers with 
 | Clock frequency | Up to 240 MHz                                      |
 | Etc..           |                                                    |
 
+## Pinout
+
+![alt text](https://bit.ly/3eJg3QD 'pinout')
+
 ## Test Environment
 
 ### Hardware
