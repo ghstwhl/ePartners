@@ -6,7 +6,7 @@
 -   [Features](#features)
 -   [Pin Decription](#pin-description)
 -   [Test](#test)
--   <b>Built an ESP8266 Web Server</b>
+    -   <b>Built an ESP8266 Web Server</b>
 -   [Troubleshooting](#troubleshooting)
 -   [References](#references)
 
