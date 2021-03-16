@@ -77,13 +77,10 @@ Please see the link below. It's easy tutorial to start ESP8266
 
 ## Troubleshooting
 
-| 1. If you cannot upload the code, check your COM port in the <b>Device manager</b>. |
-| :---------------------------------------------------------------------------------- |
-| ![alt text](Pictures/check_port.png 'COM port')                                     |
-
-3. EN pin (or CHPD pin) must be connected to 3.3V
-4. Before the code is upload to ESP-01s, GPIO 0 pin must be connected to GND.
-5. After uploading the code, GPIO 0 pin must be disconnected from GND. -->
+1. If you cannot upload the code, check your COM port in the <b>Device manager</b>.
+2. EN pin (or CHPD pin) must be connected to 3.3V
+3. Before the code is upload to ESP-01s, GPIO 0 pin must be connected to GND.
+4. After uploading the code, GPIO 0 pin must be disconnected from GND. -->
 
 ## References
 
