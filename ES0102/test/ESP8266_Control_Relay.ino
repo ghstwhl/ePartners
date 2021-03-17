@@ -1,7 +1,7 @@
 #include <ESP8266WiFi.h>
 
-const char* ssid = "ePartners-2G"; // fill in here your router or wifi SSID
-const char* password = "login123"; // fill in here your router or wifi password
+const char* ssid = "REPLACE_WITH_YOUR_SSID"; 
+const char* password = "REPLACE_WITH_YOUR_PASSWORD"; // fill in here your router or wifi password
 #define STATIC_IP                       // uncomment for static IP, set IP below
 #ifdef STATIC_IP
 IPAddress ip(192, 168, 1, 68);
