@@ -3,17 +3,10 @@
 ## Table of Contents
 
 -   [Description](#description)
--   [Tips](#tips)
 -   [Features](#features)
--   [Schematic](#schematic)
--   [Tutorials](#tutorials)
-    -   [Test-environment](#test-environment)
-        -   [Hardware](#hardware)
-        -   [Software](#software) **..Coming soon..**
-    -   [Test](#test) **..Coming soon..**
-        -   [Test Code](#test-code) **..Coming soon..**
-        -   [Test Result](#test-result) **..Coming soon..**
--   [Troubleshooting](#troubleshooting) **..Coming soon..**
+-   [Pin Decription](#pin-description)
+-   [Test](#test)
+-   [Troubleshooting](#troubleshooting)
 -   [References](#references)
 
 ---
@@ -24,69 +17,29 @@ This WiFi relay based on AI-Thinker ESP-01/ 01S WiFi module, we use the GPIO0 of
 
 ---
 
-## Tips
-
--   Mobile phone equipped with WiFi module;
--   Mobile phone and WiFI module equipped with the same router, through the mobile phone APP to control the relay; this mode, the transmission distance depends on the signal router.
--   ESP8266 module has a timeout mechanism, when the phone for some time (the default 180S) did not give instructions to the module, the module will kick off the phone, the computer can send AT + CIPSTO = time to modify this time (Time range 0-7200), such as: AT + CIPSTO = 3600.
--   When the module on the WIFI module is unplugged, USB to TTL module RX, TX, GND pins were connected to the module RX, TX, GND pin, IN +, IN- 5V power supply, then the module can be used as a USB Relays to use, scalability.
-
----
-
 ## Features (Specification)
 
-| Features                        |                                                                                                     |
-| ------------------------------- | --------------------------------------------------------------------------------------------------- |
-| Working voltage                 | DC 5V-12V                                                                                           |
-| Working current                 | &#x2265; 250mA                                                                                      |
-| Communication                   | ESP01 or ESP01S Wifi Module                                                                         |
-| Serial communication parameters | 9600,8,1,0,                                                                                         |
-| Transmission distance           | the maximum transmission distance is 400m(open environment, mobile phone equipped with WiFi module) |
-| Load                            | 10A/ 250VAC, 10A/ 30VDC, 10A/ 30VDC, 10A/ 28VDC                                                     |
-| Size                            | 37 \* 25mm                                                                                          |
+| Features                          |                                           |
+| --------------------------------- | ----------------------------------------- |
+| Working voltage                   | DC 5V-12V                                 |
+| Working current                   | ≥250mA                                    |
+| Communication                     | ESP01 or ESP01s                           |
+| WiFi module Transmission distance | the maximum transmission distance is 400m |
+|                                   | Depending on the environment              |
+| Load                              | 10A/250VAC, 10A/30VDC, 10A/28VDC          |
+| Size                              | 37 x 25mm                                 |
 
 ---
 
-## Schematic
+## Test
 
-![alt text](https://bit.ly/3qLI11A 'ESP8266 Relay')
+It's an easy tutorial to start ESP8266 with a relay shield
 
----
-
-## Tutorials
-
-### Test-environment
-
--   **Hardware**
-
-| ![alt text](https://bit.ly/37z7aVF 'ESP8266-01s') | ![alt text](https://bit.ly/3kbv66F 'ESP8266 Relay') | ![alt text](https://bit.ly/2MgbaD5 'FTDI Converter') |
-| ------------------------------------------------- | --------------------------------------------------- | ---------------------------------------------------- |
-| ESP8266-01S WiFi Module                           | Relay Shield for ESP-01/ESP-01S                     | USB to TTL Converter                                 |
-
-**Hardware Installation**
-
-| No. | Connection    |
-| --- | ------------- |
-| 1.  | RX -> TX      |
-| 2.  | TX -> RX      |
-| 3.  | VCC -> VCC    |
-| 4.  | CH_EN -> VCC  |
-| 5.  | GPIO-0 -> GND |
-| 6.  | GND -> GND    |
-
-| ![alt text](https://bit.ly/3pQQxLy 'ESP8266 Relay')                    |
-| ---------------------------------------------------------------------- |
-| Source: https://www.instructables.com/ESP0101S-RELAY-MODULE-TUTORIAL/s |
-
----
-
--   **Software**
-
-**Coming Soon..** (You can see the instructions in the '[References](#references)' section)
+-   [ESP01s Relay Module Tutorial](https://www.instructables.com/ESP0101S-RELAY-MODULE-TUTORIAL)
 
 ---
 
 ## References
 
--   **[Instructions I](https://www.instructables.com/ESP0101S-RELAY-MODULE-TUTORIAL/)**
--   **[Instructions II](https://acoptex.com/project/304/basics-project-021e-esp8266-esp-01-wi-fi-module-5v-relay-modules-webserver-at-acoptexcom/)**
+-   **[Tutorial II](https://youtu.be/L6HiulJPzgE)**
+-   **[More infomation](https://bit.ly/3vBvW1S)**
