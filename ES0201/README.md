@@ -26,7 +26,14 @@
 | Size     | 4.8 X 3.5cm |
 | Weight   | 5.4g        |
 
+---
+
 ## Test
+
+-   [Tutorial I](https://youtu.be/PSczkB4wYec)
+-   [Tutorial II](https://www.youtube.com/watch?v=6uaIWZCRSz8)
+
+---
 
 ## Troubleshooting
 

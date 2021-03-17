@@ -3,17 +3,10 @@
 ## Table of Contents
 
 -   [Description](#description)
--   [Features](#features) **..Coming soon..**
--   [Schematic](#schematic)
--   [Tutorials](#tutorials) **..Coming soon..**
-    -   [Test-environment](#test-environment) **..Coming soon..**
-        -   [Hardware](#hardware) **..Coming soon..**
-        -   [Software](#software) **..Coming soon..**
-    -   [Test](#test) **..Coming soon..**
-        -   [Test Code](#test-code) **..Coming soon..**
-        -   [Test Result](#test-result) **..Coming soon..**
--   [Troubleshooting](#troubleshooting) **..Coming soon..**
--   [References](#references) **..Coming soon..**
+-   [Features](#features)
+-   [Test](#test)
+-   [Troubleshooting](#troubleshooting)
+-   [References](#references)
 
 ---
 
@@ -33,10 +26,6 @@ Also, the item can be used with UNO R3 or compatible board.
 | Interface logic voltage | 3.3V / 5V compatible(on-board level shift circuit) |
 
 ---
-
-## Schematic
-
-![alt text](https://bit.ly/3by1Cf1 'ESP01-adapter')
 
 ## References
 
