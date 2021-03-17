@@ -37,7 +37,7 @@
 
 ## Troubleshooting
 
--   If you encounter any errors when you upload the code, please refer [here](https://makeradvisor.com/esp8266-esp-01-usb-serial-programmer/) or refer the test videos in [test section](#test)
+-   If you encounter any errors when you upload the code, please refer [here](https://makeradvisor.com/esp8266-esp-01-usb-serial-programmer/) or refer the test videos in [test section](#test) above.
 
 ## References
 
