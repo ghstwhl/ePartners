@@ -36,6 +36,7 @@ This WiFi relay based on AI-Thinker ESP-01/ 01S WiFi module, we use the GPIO0 of
 It's an easy tutorial to start ESP8266 with a relay shield
 
 -   [ESP01s Relay Module Tutorial](https://www.instructables.com/ESP0101S-RELAY-MODULE-TUTORIAL)
+-   [test code](test/ESP8266_Control_Relay.ino)
 
 ---
 
@@ -43,3 +44,5 @@ It's an easy tutorial to start ESP8266 with a relay shield
 
 -   **[Tutorial II](https://youtu.be/L6HiulJPzgE)**
 -   **[More infomation](https://bit.ly/3vBvW1S)**
+
+to be updated..
