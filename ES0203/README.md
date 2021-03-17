@@ -36,16 +36,16 @@ USB to ESP-01 adapter module has CH340G USB to TTL driver IC onboard, so you can
 | --------------------------------------------------------------- |
 | PROG is for uploding code to ESP-01S, UART is for using ESP-01S |
 
-**to be updated**
+**to be updated..**
 
 ---
 
 ## Troubleshooting
 
-**to be updated**
+**to be updated..**
 
 ---
 
 ## References
 
-**to be updated**
+**to be updated..**
