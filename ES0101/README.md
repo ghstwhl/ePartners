@@ -86,7 +86,9 @@ It's an easy tutorial to start ESP8266
 ## References
 
 -   Datasheet
-    -   [ESP-01(s)](https://drive.google.com/file/d/1P2JFYlRoFeIERfMuQFkpXTKrc3vIfln8/view?usp=sharing)
+    -   [ESP-01(s)](https://bit.ly/3twNw57)
+-   Tutorial
+    -   [ESP-01S AT Commands Firmware Flashing](https://bit.ly/30U7Ukw)
 -   References
     -   [Arduino core for ESP8266 WiFi chip](https://github.com/esp8266/Arduino)
     -   [ESP8266 docs](https://arduino-esp8266.readthedocs.io/en/latest/esp8266wifi/readme.html)
