@@ -27,6 +27,21 @@ Also, the item can be used with UNO R3 or compatible board.
 
 ---
 
+## Test
+
+**Coming Soon..**
+
+---
+
+## Troubleshooting
+
+-   This adapter is for operating of ESP01/01s, of course, you can upload your code through this adapter.
+-   For uploading code, you'll need any programmer module or Serial converter.
+-   ex:
+    |![alt text](https://bit.ly/3twYkQJ 'Serial converter') | ![alt text](https://bit.ly/30VMSSm 'Serial converter') | ![alt text](https://bit.ly/3rYmHqd 'Serial converter') |
+
+---
+
 ## References
 
 **Coming Soon..**
