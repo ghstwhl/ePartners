@@ -29,7 +29,7 @@ Also, the item can be used with UNO R3 or compatible board.
 
 ## Test
 
-**Coming Soon..**
+**to be updated**
 
 ---
 
@@ -44,4 +44,4 @@ Also, the item can be used with UNO R3 or compatible board.
 
 ## References
 
-**Coming Soon..**
+**to be updated**

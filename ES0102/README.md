@@ -41,7 +41,7 @@ It's an easy tutorial to start ESP8266 with a relay shield
 
 ## Troubleshooting
 
--   **Coming soon**
+**to be updated**
 
 ---
 
