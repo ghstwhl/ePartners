@@ -4,7 +4,6 @@
 
 -   [Description](#description)
 -   [Features](#features)
--   [Pin Decription](#pin-description)
 -   [Test](#test)
 -   [Troubleshooting](#troubleshooting)
 -   [References](#references)
@@ -37,6 +36,12 @@ It's an easy tutorial to start ESP8266 with a relay shield
 
 -   [ESP01s Relay Module Tutorial](https://www.instructables.com/ESP0101S-RELAY-MODULE-TUTORIAL)
 -   [Test code](test/ESP8266_Control_Relay.ino)
+
+---
+
+## Troubleshooting
+
+-   **Coming soon**
 
 ---
 
