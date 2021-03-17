@@ -74,6 +74,7 @@ application, with the lowest cost, and minimal space requirement.
 It's an easy tutorial to start ESP8266
 
 -   [Built an ESP8266 Web Server Tutorial](https://randomnerdtutorials.com/esp8266-web-server/)
+-   [Test code](test/esp-01s.ino)
 
 ## Troubleshooting
 
