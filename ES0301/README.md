@@ -56,6 +56,15 @@ This module can be used as a temperature and humidity acquisition node for smart
 
 ## References
 
+-   Datasheet
+
+    -   [ESP-01(s)](https://bit.ly/3twNw57)
+
+-   References
+
+    -   [Arduino core for ESP8266 WiFi chip](https://github.com/esp8266/Arduino)
+    -   [ESP8266 docs](https://arduino-esp8266.readthedocs.io/en/latest/esp8266wifi/readme.html)
+
 -   [Good Article](https://randomnerdtutorials.com/dht11-vs-dht22-vs-lm35-vs-ds18b20-vs-bme280-vs-bmp180/)
 
 **to be updated..**
