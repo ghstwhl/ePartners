@@ -41,15 +41,21 @@ This module can be used as a temperature and humidity acquisition node for smart
 
 ## Troubleshooting
 
-| ![alt text](https://bit.ly/3vGkYI7 'USB to ESP')                                                                                                         |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| If you use a "USB to ESP-01 Adapter board" to upload code, you may encounter some errors                                                                 |
-| When you encounter the errors while uploading code, please refer to [this page](https://www.instructables.com/USB-to-ESP-01-Board-Adapter-Modification/) |
+-   Check your 'COM' port
+-   Check your power supply & input voltage
+-   Check your board type on IDE
+
+| ![alt text](https://bit.ly/3vGkYI7 'USB to ESP')                                                                                                       |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| If you use a "USB to ESP-01 Adapter board" to upload code, you may encounter some errors                                                               |
+| When you encounter an error while uploading code, please refer to [this page](https://www.instructables.com/USB-to-ESP-01-Board-Adapter-Modification/) |
 
 **to be updated..**
 
 ---
 
 ## References
+
+-   [Good Article](https://randomnerdtutorials.com/dht11-vs-dht22-vs-lm35-vs-ds18b20-vs-bme280-vs-bmp180/)
 
 **to be updated..**
