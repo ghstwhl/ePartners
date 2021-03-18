@@ -1,4 +1,4 @@
-# DS18B20 shield for ESP8266 ESP-01 ESP-01S
+# Esp8266 ESP-01 / ESP-01S Of The Serial Adapter To WiFi Transceiver UART Module
 
 ## Table of Contents
 
