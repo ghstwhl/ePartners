@@ -67,4 +67,13 @@ Please check the components for this tutorial.
 
 ## References
 
+-   Datasheet
+
+    -   [ESP-01(s)](https://bit.ly/3twNw57)
+
+-   References
+
+    -   [Arduino core for ESP8266 WiFi chip](https://github.com/esp8266/Arduino)
+    -   [ESP8266 docs](https://bit.ly/3eVpJYn)
+
 **to be updated..**
