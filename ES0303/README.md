@@ -21,8 +21,10 @@ Last but not least, we added a 0.1µF decoupling capacitor so the ESP-01 will al
 
 ## Connection
 
-| UART | Adapter | ![alt text](https://bit.ly/3eUHGGA 'adapter') |
-| ---- | ------- | --------------------------------------------- |
+![alt text](https://bit.ly/3eUHGGA 'adapter')
+
+| UART | Adapter |
+| ---- | ------- |
 | 3.3V | VCC     |
 | 3.3V | CH-PD   |
 | TX   | RX      |
