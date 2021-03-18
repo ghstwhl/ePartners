@@ -3,7 +3,7 @@
 ## Table of Contents
 
 -   [Description](#description)
--   [Features](#features)
+-   [Characteristic](#characteristic)
 -   [Test](#test)
 -   [Troubleshooting](#troubleshooting)
 -   [References](#references)
@@ -16,9 +16,9 @@ This module can be used as a temperature and humidity acquisition node for smart
 
 ---
 
-## Features
+## Characteristic
 
-| Features                      |                                                |
+| Characteristics               |                                                |
 | ----------------------------- | ---------------------------------------------- |
 | Main control                  | ESP-01/ESP-01s                                 |
 | Temperature & Humidity sensor | DHT11                                          |
@@ -34,6 +34,7 @@ This module can be used as a temperature and humidity acquisition node for smart
 
 -   [Temperature & Humidity Monitoring Using the ESP-01 & DHT](https://www.instructables.com/IoT-MCU-Monitoring-Using-the-AskSensors-IoT-Platfo/)
 -   [Test code](test/ESP-01s-DHT11.ino)
+-   Required libraries will be updated
 
 **to be updated..**
 

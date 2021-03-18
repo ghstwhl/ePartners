@@ -3,7 +3,7 @@
 ## Table of Contents
 
 -   [Description](#description)
--   [Features](#features)
+-   [Characteristic](#characteristic)
 -   [Test](#test)
 -   [Troubleshooting](#troubleshooting)
 -   [References](#references)
@@ -18,9 +18,9 @@ It can be used as temperature collection node for smart home or IOT project.
 
 ---
 
-## Features
+## Characteristic
 
-| Features                      |                                                |
+| Characteristics               |                                                |
 | ----------------------------- | ---------------------------------------------- |
 | Main control                  | ESP-01/ESP-01s                                 |
 | Temperature & Humidity sensor | DS18B20                                        |
@@ -34,6 +34,7 @@ It can be used as temperature collection node for smart home or IOT project.
 ## Test
 
 -   [DS18B20 Temperature sensor Using the ESP-01 & DHT](https://youtu.be/oYU0JMWwSuI)
+-   Required libraries & test code will be updated
 
 **to be updated..**
 
