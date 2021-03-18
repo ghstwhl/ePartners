@@ -1,4 +1,4 @@
-# DHT11 Shield for ESP8266 ESP-01 / ESP-01S
+# DS18B20 shield for ESP8266 ESP-01 ESP-01S
 
 ## Table of Contents
 
@@ -12,7 +12,9 @@
 
 ## Description
 
-This module can be used as a temperature and humidity acquisition node for smart home or IOT projects. This module to ESP8266-01 / ESP-01S as the master, DHT11 for the temperature and humidity sensor. ESP8266 collection environment temperature and humidity upload to the server. Can be used as a temperature and humidity collection node for intelligent home or IOT projects
+This module uses ESP8266-01/ESP-01S as the master control, and DS18B20 as temperature sensor.
+ESP8266 collects the temperature in the environment and uploads to the server.
+It can be used as temperature collection node for smart home or IOT project.
 
 ---
 
@@ -21,19 +23,17 @@ This module can be used as a temperature and humidity acquisition node for smart
 | Features                      |                                                |
 | ----------------------------- | ---------------------------------------------- |
 | Main control                  | ESP-01/ESP-01s                                 |
-| Temperature & Humidity sensor | DHT11                                          |
+| Temperature & Humidity sensor | DS18B20                                        |
 | Working voltage               | DC 3.7v-12v (Support for 3.7v lithium battery) |
-| Measurement range             | 20-90% RH 0 to 50°                             |
-| Accuracy of measurement       | Temperature: ±2°                               |
-|                               | Humidity: ±5%                                  |
-| Size                          | 16X30X25mm (L*W*H)                             |
+| Measurement range             | -55°C to + 125°C                               |
+| Accuracy of measurement       | ±0.5°C                                         |
+| Size                          | 16X20X25mm (L*W*H)                             |
 
 ---
 
 ## Test
 
--   [Temperature & Humidity Monitoring Using the ESP-01 & DHT](https://www.instructables.com/IoT-MCU-Monitoring-Using-the-AskSensors-IoT-Platfo/)
--   [Test code](test/ESP-01s-DHT11.ino)
+-   [DS18B20 Temperature sensor Using the ESP-01 & DHT](https://youtu.be/oYU0JMWwSuI)
 
 **to be updated..**
 
@@ -56,7 +56,7 @@ This module can be used as a temperature and humidity acquisition node for smart
 
 ## References
 
--   [Advanced tutorial](https://bit.ly/3tFQuVb)
+-   [Advanced Tutorial](https://bit.ly/3f71lDB)
 
 -   Datasheet
 
