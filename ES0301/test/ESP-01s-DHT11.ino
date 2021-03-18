@@ -13,8 +13,8 @@
 #include <DHT.h>
 
 // Replace with your network credentials
-const char* ssid = "ePartners-2G";
-const char* password = "login123";
+const char* ssid = "REPLACE_WITH_YOUR_SSID";
+const char* password = "REPLACE_WITH_YOUR_PASSWORD";
 
 #define STATIC_IP                       // uncomment for static IP, set IP below
 #ifdef STATIC_IP
