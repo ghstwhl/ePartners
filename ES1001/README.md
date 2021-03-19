@@ -47,7 +47,8 @@
 ## Test
 
 -   [ESP-12F Connection Test](https://www.instructables.com/ESP-12F-ESP8266-Module-Connection-Test/)
--   [Minimal breadboard for Flashing](https://www.instructables.com/ESP-12F-ESP8266-Module-Minimal-Breadboard-for-Flas/)
+-   [Minimal breadboard for Flashing](http://bit.ly/3cQN8rk)
+-   [Test code](test/ESP-12F_FiFi_server.ino)
 
 ---
 
