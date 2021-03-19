@@ -63,7 +63,7 @@
 ## Troubleshooting
 
 -   If you cannot connect your NodeMCU board to the computer, check your COM port in "Device manager"
-    **- If the FR232R Driver is not installed, please [download & install](driver/)**
+    **- If the FR232R Driver is not installed, please download & install [FT232R Driverw](driver/)**
 -   [FT232R Driver Installation](https://www.usb-drivers.org/ft232r-usb-uart-driver.html)
 
 **to be updated..**

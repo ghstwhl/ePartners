@@ -1,4 +1,4 @@
-# ESP8266 ESP-12E NodeMcu V3 with CH340
+# ESP8266 ESP-12E NodeMcu V3 with FT232R
 
 ## Table of Contents
 
