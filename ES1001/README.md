@@ -46,9 +46,17 @@
 
 ## Test
 
+-   [ESP-12F Connection Test](https://www.instructables.com/ESP-12F-ESP8266-Module-Connection-Test/)
+-   [Minimal breadboard for Flashing](https://www.instructables.com/ESP-12F-ESP8266-Module-Minimal-Breadboard-for-Flas/)
+
 ---
 
 ## Troubleshooting
+
+-   [Check the intallation ESP8266 Add-on your Arduino IDE](https://arduino.esp8266.com/Arduino/versions/2.3.0/doc/installing.html)
+-   Check the board type on your Arduino IDE
+
+**to be updated...**
 
 ---
 
@@ -59,7 +67,6 @@
     -   [ESP-12F Datasheet](http://bit.ly/3c0nJMF)
 
 -   Tutorial
-
--   References
+    -   [DIY WiFi ESP12F](https://youtu.be/IjOHjTZXUoo)
 
 **to be updated...**
