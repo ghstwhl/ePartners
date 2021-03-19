@@ -61,6 +61,9 @@ The ESP32-CAM is a full-featured microcontroller that also has an integrated vid
 ## Test
 
 -   [Tutorials](https://randomnerdtutorials.com/esp32-cam-video-streaming-web-server-camera-home-assistant/)
+-   [Test code](test/ESP32-CAM.ino)
+
+**to be updated..**
 
 ---
 
@@ -86,6 +89,8 @@ The ESP32-CAM is a full-featured microcontroller that also has an integrated vid
 
 | If you need more information for troubleshooting, please see the troubleshooting guide with the reference site. |
 
+**to be updated..**
+
 ---
 
 ## References
@@ -99,4 +104,9 @@ The ESP32-CAM is a full-featured microcontroller that also has an integrated vid
 -   [ESPTOOLS](https://github.com/espressif/esptool)
 
 -   Data sheet
+
     -   [ESP32 series data sheet](https://www.mouser.com/datasheet/2/891/esp-wroom-32_datasheet_en-1223836.pdf)
+
+-   [Uploding code using programmer board](https://randomnerdtutorials.com/upload-code-esp32-cam-mb-usb/)
+
+**to be updated..**
