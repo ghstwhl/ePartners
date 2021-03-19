@@ -44,6 +44,8 @@ The ESP-12S is a self contained 802.11 b/g/n WiFi enabled microcontroller featur
 
 -   [Getting Started With the ESP-12](https://www.instructables.com/Getting-Started-with-the-ESP8266-ESP-12/)
 
+**to be updated...**
+
 ---
 
 ## Troubleshooting
