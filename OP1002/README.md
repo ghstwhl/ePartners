@@ -85,6 +85,7 @@ Other features of the D1 Mini Pro include 11 digital input/output pins, 1 analog
 
 -   [WEMOS Docs](https://www.wemos.cc/en/latest/index.html)
 
--   [Tutorial Video](https://www.youtube.com/watch?v=hXRcJXMjlyg)
+-   [Tutorial Video I](https://www.youtube.com/watch?v=hXRcJXMjlyg)
+-   [Tutorial Video II](https://youtu.be/G73fiaOpUAc)
 
 **to be updated..**
