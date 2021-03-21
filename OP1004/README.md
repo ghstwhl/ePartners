@@ -42,7 +42,8 @@ This shield is designed for use with the WeMos D1 mini and mini Pro development 
 
 ## Test
 
--   [Tutorial Video I](https://www.youtube.com/watch?v=Hu7Znu5smoo)
+-   [Tutorials](https://github.com/wemos/D1_mini_Examples/tree/master/examples/04.Shields/Micro_SD_Shield)
+-   [Test Code for data logger](test/wemos-d1-datalogger.ino)
 -   For more tutorials, please refer to the references section in this page.
 
 **to be updated..**
@@ -61,7 +62,7 @@ This shield is designed for use with the WeMos D1 mini and mini Pro development 
 ## References
 
 -   [WEMOS Docs](http://www.wemos.cc/product/micro-sd-card-shield.html)
-
+-   [Tutorial Video I](https://www.youtube.com/watch?v=Hu7Znu5smoo)
 -   [Tutorial Video II](https://www.youtube.com/watch?v=hXRcJXMjlyg)
 
 **to be updated..**
