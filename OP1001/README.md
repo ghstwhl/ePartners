@@ -54,7 +54,7 @@ If you use the Arduino IDE, there are a lot of example sketches already provided
 | D0  | IO                           | GPIO16       |
 | D1  | IO, SCL                      | GPIO5        |
 | D2  | IO, SDA                      | GPIO4        |
-| D3  | IO, 10k Pull-up GPIO0        |              |
+| D3  | IO, 10k Pull-up              | GPIO0        |
 | D4  | IO, 10k Pull-up, BUILTIN_LED | GPIO2        |
 | D5  | IO, SCK                      | GPIO14       |
 | D6  | IO, MISO                     | GPIO12       |
