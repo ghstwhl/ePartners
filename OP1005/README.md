@@ -54,7 +54,7 @@ The WeMos lithium battery shield provides a means of powering your WeMos mini, o
 
 ## References
 
--   [WEMOS Docs](http://www.wemos.cc/product/micro-sd-card-shield.html)
+-   [WEMOS Docs](https://www.wemos.cc/en/latest/d1_mini_shield/battery.html)
 -   [Tutorial Video I](https://www.youtube.com/watch?v=nLs1JMPiKzc)
 -   [Tutorial Video II](https://www.youtube.com/watch?v=z6Vgy1cY0XU)
 -   [Tutorial Video III Advanced](https://youtu.be/aND0j2Y2IkM)
