@@ -31,7 +31,7 @@ If you use the Arduino IDE, there are a lot of example sketches already provided
 | WiFi modes: AP (Access Point), STA (Standalone), AP+ST |
 | Supports TKIP, WEP, CRC, CCMP, WPA/WPA2, WP            |
 | Supply voltage: 3.3V (or 5V via USB                    |
-| CPU: RISC 80MHz (supports up to 160MHz                 |
+| CPU: RISC 80MHz (supports up to 160MHz)                |
 | 9 GPIO - PWM / I2C / SPI / 1-Wir                       |
 | Max current on I/O pins: 12m                           |
 | Recommended current on I/O pins: 6m                    |
