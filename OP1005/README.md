@@ -18,7 +18,7 @@ The WeMos lithium battery shield provides a means of powering your WeMos mini, o
 
 ## Features (Specifications)
 
-| Specifications          |
+| Specifications          |                                                           |
 | ----------------------- | --------------------------------------------------------- |
 | Charging Voltage        | 10V MAX 5V Recommended                                    |
 | Charging Current        | 1A                                                        |
