@@ -4,7 +4,6 @@
 
 -   [Descriptions](#descriptions)
 -   [features](#features)
--   [Pins](#pins)
 -   [Test](#test-code)
 -   [Troubleshooting](#troubleshooting)
 -   [References](#references)
