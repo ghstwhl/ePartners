@@ -1,4 +1,4 @@
-# WeMos - Relay Shield for Wemon D1 Mini
+# WeMos D1 Mini - Data Logger , Micro SD and Mini Real Time Clock Shield
 
 ## Table of Contents
 
