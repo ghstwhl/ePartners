@@ -4,6 +4,7 @@
 
 -   [Descriptions](#descriptions)
 -   [Features](#features)
+-   [Pins](#pins)
 -   [Test](#test-code)
 -   [Troubleshooting](#troubleshooting)
 -   [References](#references)
@@ -30,13 +31,19 @@ ESP32 Mini Development Board Wifi Bluetooth IoT Development Board is ESP-WROOM-3
 | OTT TV box / set-top box device.    | Protocol: 802.11b/g/n/d/e/i.            |
 | Wireless speech recognition device. | RF Family/Standard: WiFi.               |
 | Wireless location-aware devices.    | Sensitivity: -98dBm.                    |
-|                                     | Serial Interfaces: I²C, I²S, SPI, UART. |
-|                                     | Integrated 520 KB SRAM.                 |
+| CH340 USB to Serial UART adapter    | Serial Interfaces: I²C, I²S, SPI, UART. |
+| Micro-USB connector (Plug and Play) | Integrated 520 KB SRAM.                 |
 |                                     | Hybrid Wi-FI & Bluetooth.               |
 |                                     | High level of integration.              |
 |                                     | Ultra-low-power management.             |
 |                                     | 4 MB Flash.                             |
 |                                     | On-board PCB antenna.                   |
+
+---
+
+## Pins
+
+![alt text](https://bit.ly/393KBJi 'Pin out')
 
 ---
 
