@@ -79,4 +79,10 @@ WeMos- D1 R2 WiFi ESP8266 Development Board is programmable via Arduino IDE. Thi
 -   [Tutorial Video I](https://www.youtube.com/watch?v=IQVKGAU8jcA)
 -   [Tutorial Video II](https://www.youtube.com/watch?v=VkBLvjNgH50)
 -   [Tutorial Video III](https://youtu.be/CZVOp4oVfBk)
+
+-   For more information about WEMOS, please see the following.
+
+    -   [WEMOS I](https://www.youtube.com/watch?v=G73fiaOpUAc)
+    -   [WEMOS II](https://www.youtube.com/watch?v=TKN9WmunCQU)
+
 -   **to be updated..**

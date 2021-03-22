@@ -59,4 +59,9 @@ The WeMos lithium battery shield provides a means of powering your WeMos mini, o
 -   [Tutorial Video II](https://www.youtube.com/watch?v=z6Vgy1cY0XU)
 -   [Tutorial Video III Advanced](https://youtu.be/aND0j2Y2IkM)
 
+-   For more information about WEMOS, please see the following.
+
+    -   [WEMOS I](https://www.youtube.com/watch?v=G73fiaOpUAc)
+    -   [WEMOS II](https://www.youtube.com/watch?v=TKN9WmunCQU)
+
 **to be updated..**

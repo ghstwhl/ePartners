@@ -66,4 +66,9 @@ This shield is designed for use with the WeMos D1 mini and mini Pro development 
 -   [Tutorial Video I](https://www.youtube.com/watch?v=Hu7Znu5smoo)
 -   [Tutorial Video II](https://www.youtube.com/watch?v=hXRcJXMjlyg)
 
+-   For more information about WEMOS, please see the following.
+
+    -   [WEMOS I](https://www.youtube.com/watch?v=G73fiaOpUAc)
+    -   [WEMOS II](https://www.youtube.com/watch?v=TKN9WmunCQU)
+
 **to be updated..**
