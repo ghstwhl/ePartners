@@ -13,7 +13,7 @@
 
 ## Descriptions
 
-This shield is designed for use with the WeMos D1 mini and mini Pro development boards (see item HCWEMO0002). The shield provides a means of allowing a WeMos D1 mini to directly communicate with most types of microSD card. The shield is also compatible with the standard Arduino SD card library. The shield is supplied with 3 sets of headers (requires soldering) which allow for multiple compatible shields to be stacked on top of each other.
+This shield is designed for use with the WeMos D1 mini and mini Pro development boards. The shield provides a means of allowing a WeMos D1 mini to directly communicate with most types of microSD card. The shield is also compatible with the standard Arduino SD card library. The shield is supplied with 3 sets of headers (requires soldering) which allow for multiple compatible shields to be stacked on top of each other.
 
 ---
 
