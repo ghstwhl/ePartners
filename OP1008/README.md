@@ -1,4 +1,4 @@
-# WeMos - Micro Micro SD Card Shield for Wemos D1 Mini ESP8266 WiFi
+# WeMos - Relay Shield for Wemon D1 Mini
 
 ## Table of Contents
 
