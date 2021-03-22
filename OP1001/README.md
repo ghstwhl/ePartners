@@ -50,7 +50,7 @@ If you use the Arduino IDE, there are a lot of example sketches already provided
 | --- | ---------------------------- | ------------ |
 | TX  | TXD                          | TXD          |
 | RX  | RXD                          | RXD          |
-| A0  | Analog input, max 3.2V       | A0           |
+| A0  | Analog input, max 3.3V       | A0           |
 | D0  | IO                           | GPIO16       |
 | D1  | IO, SCL                      | GPIO5        |
 | D2  | IO, SDA                      | GPIO4        |

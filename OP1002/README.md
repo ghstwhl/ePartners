@@ -45,7 +45,7 @@ Other features of the D1 Mini Pro include 11 digital input/output pins, 1 analog
 | --- | ---------------------------- | ------------ |
 | TX  | TXD                          | TXD          |
 | RX  | RXD                          | RXD          |
-| A0  | Analog input, max 3.2V       | A0           |
+| A0  | Analog input, max 3.3V       | A0           |
 | D0  | IO                           | GPIO16       |
 | D1  | IO, SCL                      | GPIO5        |
 | D2  | IO, SDA                      | GPIO4        |
