@@ -33,7 +33,7 @@ ESP32 Mini Development Board Wifi Bluetooth IoT Development Board is ESP-WROOM-3
 | Wireless location-aware devices.    | Sensitivity: -98dBm.                    |
 | CH340 USB to Serial UART adapter    | Serial Interfaces: I²C, I²S, SPI, UART. |
 | Micro-USB connector (Plug and Play) | Integrated 520 KB SRAM.                 |
-|                                     | Hybrid Wi-FI & Bluetooth.               |
+| Two diode-protected power inputs    | Hybrid Wi-FI & Bluetooth.               |
 |                                     | High level of integration.              |
 |                                     | Ultra-low-power management.             |
 |                                     | 4 MB Flash.                             |
