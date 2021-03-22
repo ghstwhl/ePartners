@@ -1,4 +1,4 @@
-# WeMos D1 R2 WiFi ESP8266 Board Compatible with Arduino IDE
+# WeMos - Micro Micro SD Card Shield for Wemos D1 Mini ESP8266 WiFi
 
 ## Table of Contents
 

@@ -1,4 +1,4 @@
-# WeMos - Micro Micro SD Card Shield for Wemos D1 Mini ESP8266 WiFi
+# WeMos Battery Shield ESP8266
 
 ## Table of Contents
 
