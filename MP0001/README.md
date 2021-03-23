@@ -59,6 +59,7 @@ Users can directly use IDE comes with an SD card to complete the library card in
 -   [Tutorial II](https://lastminuteengineers.com/arduino-micro-sd-card-module-tutorial/)
 -   [Tutorial Video I](https://www.youtube.com/watch?v=PQhQfww-qGQ)
 -   [Tutorial Video II](https://youtu.be/sS_oW81NweI)
+-   [Tutorial Video III](https://www.youtube.com/watch?v=5Dp-XatLySM)
 
 **to be updated..**
 
