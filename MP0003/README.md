@@ -64,6 +64,6 @@ The digital ouput OUT on the small plates can directly drive relay module, which
 
 ## References
 
--   [LM393 Datasheet](https://www.ti.com/lit/ds/symlink/lm393.pdf?ts=1616456002949)
+-   [LM393 Datasheet](https://bit.ly/2PngwO8)
 
 -   **to be updated..**
