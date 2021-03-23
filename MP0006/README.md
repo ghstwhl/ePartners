@@ -49,6 +49,8 @@ Users can directly use IDE comes with an SD card to complete the library card in
 
 -   [Tutorial I](http://bit.ly/Guide-to-SD-Card-Module)
 -   [Tutorial II](https://bit.ly/3tO48pk)
+-   [Tutorial III](https://dronebotworkshop.com/sd-card-arduino/)
+
 -   [Tutorial Video I](https://www.youtube.com/watch?v=finwzEU1CB0)
 -   [Tutorial Video II](https://www.youtube.com/watch?v=oTXi6kYg0D4)
 
