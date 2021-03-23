@@ -17,19 +17,21 @@ This module is five direction button(switch) for navigation. It's for MCU like A
 
 ## Features (Specifications)
 
-| Features (Specifications)                                          |                          |
-| ------------------------------------------------------------------ | ------------------------ |
-| Operating Voltage (VDC)                                            | 2 ~ 9                    |
-| Operating Temperature Range (°C)                                   | -40 to -85               |
-| The number of I/O                                                  | 7                        |
-| Size                                                               | 4 × 2.5cm / 1.57 × 0.98″ |
-| supports up/down/left/right/middle with extra set and reset button |                          |
-| 2V-9V wide working voltage                                         |                          |
+| Features (Specifications)                                          |                            |
+| ------------------------------------------------------------------ | -------------------------- |
+| Operating Voltage (VDC)                                            | 2 ~ 9                      |
+| Operating Temperature Range (°C)                                   | -40 to -85                 |
+| The number of I/O                                                  | 7                          |
+| Size                                                               | 4.1 × 2.5cm / 1.57 × 0.98″ |
+| supports up/down/left/right/middle with extra set and reset button |                            |
+| 2V-9V wide working voltage                                         |                            |
 | 7 IO port pinout compatible for most MCU development board         |
 
 ---
 
 ## Pins
+
+![alt text](https://bit.ly/31p5drv 'pin connection')
 
 | Pin Description               |                                                   |
 | ----------------------------- | ------------------------------------------------- |
