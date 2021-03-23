@@ -73,6 +73,4 @@ Users can directly use IDE comes with an SD card to complete the library card in
 
 ## References
 
--   [Another type SD card](https://randomnerdtutorials.com/guide-to-sd-card-module-with-arduino/)
-
--   **to be updated..**
+**to be updated..**
