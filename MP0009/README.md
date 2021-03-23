@@ -1,4 +1,4 @@
-# Sound Detection Module For Arduino
+# MP3 Format decoder board module amplifier decoding audio Player
 
 ## Table of Contents
 

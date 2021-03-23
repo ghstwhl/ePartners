@@ -1,4 +1,4 @@
-# Sound Detection Module For Arduino
+# HC-SR505 Mini PIR Motion Sensor module mini-body sensor switch
 
 ## Table of Contents
 
@@ -13,22 +13,24 @@
 
 ## Descriptions
 
+HC-SR505 Mini PIR Motion Sensor is based on infrared technology, with automatic control, high sensitivity, high reliability, ultra-small and ultra-low-voltage operation mode. Because of the minimum size and low-power operation mode, it is widely used in various auto-sensing of electrical equipment, especially battery-powered automatic control products. Small size makes it easy to apply to real applications commonly found in appliances and gadgets used in homes or businesses .
+
 ---
 
 ## Features (Specifications)
 
-| Specifications          |                            | Feature                         | Application                          |
+| Specifications          |                            | Features                        | Application                          |
 | ----------------------- | -------------------------- | ------------------------------- | ------------------------------------ |
 | Operating voltage range | DC4.5-20V                  | Automatic Control               | Body induction lamps                 |
 | Quiescent Current       | <60uA                      | Minimum size                    | Body induction toys                  |
-| Level output            | Gao 3.3V / Low 0V          | Repeatable Trigger              | Security Products                    |
+| Level output            | 3.3V / Low 0V              | Repeatable Trigger              | Security Products                    |
 | Trigger                 | reusable trigger (default) | Wide range of operating voltage | Industrial automation and control    |
 | Delay Time              | The default 8S + -30%      | Low-power                       | Auto-sensing of electrical equipment |
 | Board Dimensions        | 10 \* 23mm                 | Output high signal              | Battery-powered automatic control    |
-| Induction angle         | <100 degrees cone angle    |                                 |
-| Sensing distance        | 3 meters                   |                                 |
-| Working temperature     | -20 to +80 degrees         |                                 |
-| Sensor Lens Dimensions  | Diameter: 10mm             |                                 |
+| Induction angle         | <100 degrees cone angle    |                                 |                                      |
+| Sensing distance        | 3 meters                   |                                 |                                      |
+| Working temperature     | -20 to +80 degrees         |                                 |                                      |
+| Sensor Lens Dimensions  | Diameter: 10mm             |                                 |                                      |
 
 ---
 

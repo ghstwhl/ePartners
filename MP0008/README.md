@@ -1,4 +1,4 @@
-# Sound Detection Module For Arduino
+# Laser Module 3pin 650nm Red Laser Transmitter Module for arduino DIY
 
 ## Table of Contents
 
