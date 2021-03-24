@@ -45,7 +45,9 @@
 | VCC    | The positive 3.3-5 v power supply |
 | GND    | Connect power negative            |
 | DO     | TTL switch signal output          |
-| AO     | This is analog output             |
+| AO     | This module does not work         |
+
+**Note: The module does not have Analog output**
 
 ---
 
