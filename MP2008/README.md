@@ -13,6 +13,12 @@
 
 ## Descriptions
 
+Widely used in motor speed detection, pulse count, the position limit, etc. The DO
+output interface can be directly connected to a micro-controller IO port, if there is a block
+detection sensor, such as the speed of the motor encoder can detect.
+DO modules can be connected to the relay, limit switch, and other functions, it can
+also with the active buzzer module, compose alarm.
+
 ---
 
 ## Features (Specifications)
