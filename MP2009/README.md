@@ -60,8 +60,6 @@ to UART module. It is compatible with Arduino / AVR / ARM / PIC
 | RX     | D1 (TX)                           |
 | TX     | D0 (RX)                           |
 
-**Note: The module does not have Analog output**
-
 ---
 
 ## Test
