@@ -1,4 +1,4 @@
-#
+# Optical Sensitive Resistance Light Detection Sensor
 
 ## Table of Contents
 
