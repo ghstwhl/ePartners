@@ -1,4 +1,4 @@
-# IR Infrared Slotted Optical Speed Measuring Sensor Module
+# DHT22 Digital Temperature and Humidity Sensor AM2302 Module
 
 ## Table of Contents
 

@@ -1,4 +1,4 @@
-# IR Infrared Slotted Optical Speed Measuring Sensor Module
+# MP3 Music Player Module - UART Control Serial, AVR/ARM/PIC
 
 ## Table of Contents
 
