@@ -1,4 +1,4 @@
-# Capacitive Touch Sensor
+# TTP223B Capacitive Touch Sensor
 
 ## Table of Contents
 
