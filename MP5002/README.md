@@ -72,6 +72,6 @@ The maximum AC / DC can be detected using ACS712 will reach 30 amp and present c
 ## References
 
 -   [For more information](https://bit.ly/2QA7DRD)
--   [ACS712 Datasheet](https://bit.ly/31kVAKo)
+-   [ACS712 Datasheet](https://bit.ly/3ff57KZ)
 
 **to be updated..**
