@@ -19,14 +19,16 @@ This water level sensor module has a series of parallel exposed traces to measur
 
 ## Features (Specifications)
 
-| Features (Specifications)         |
-| --------------------------------- |
-| Working Voltage : DC 3-5V         |
-| Working Current : <20mA           |
-| Sensor Type : Analog              |
-| Detection Area : 40 mm x 16 mm    |
-| Size : 65 mm x 20 mm x 8 mm       |
-| Humidity: 10% -90% non-condensing |
+| Features (Specifications)                 |
+| ----------------------------------------- |
+| Working Voltage : DC 3-5V                 |
+| Working Current : <20mA                   |
+| Sensor Type : Analog                      |
+| Detection Area : 40 mm x 16 mm            |
+| Size : 65 mm x 20 mm x 8 mm               |
+| Humidity: 10% -90% non-condensing         |
+| Production process: FR4 double-sided HASL |
+| Operating temperature: 10-30              |
 
 ---
 
