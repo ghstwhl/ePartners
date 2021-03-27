@@ -126,15 +126,16 @@ touch pads or up to 16 touch pads.
 |             |              |               |              | Output type function option(CMOS/OD/OC for 8-keys)           |
 |             |              |               |              | Default is CMOS                                              |
 
-**Note：Pin Type**
-I ＝＞ CMOS input only
-I-PH ＝＞ CMOS input and pull-high resister
-I-PL ＝＞ CMOS input and pull-low resister
-O ＝＞ CMOS push-pull output
-I/O ＝＞ CMOS I/O
-P ＝＞ Power / Ground
-OD ＝＞ CMOS open drain output
-(For OD TPQ0~TPQ7 pins have Diode protective circuit, SDA pin has no Diode protective circuit)
+| **Note：Pin Type**                                                                             |
+| ---------------------------------------------------------------------------------------------- |
+| I ＝＞ CMOS input only                                                                         |
+| I-PH ＝＞ CMOS input and pull-high resister                                                    |
+| I-PL ＝＞ CMOS input and pull-low resister                                                     |
+| O ＝＞ CMOS push-pull output                                                                   |
+| I/O ＝＞ CMOS I/O                                                                              |
+| P ＝＞ Power / Ground                                                                          |
+| OD ＝＞ CMOS open drain output                                                                 |
+| (For OD TPQ0~TPQ7 pins have Diode protective circuit, SDA pin has no Diode protective circuit) |
 
 ---
 
