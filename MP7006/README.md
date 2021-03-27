@@ -32,7 +32,7 @@ This water level sensor module has a series of parallel exposed traces to measur
 
 ## Pins
 
-![alt text](https://bit.ly/3w3vj1b)
+![alt text](https://bit.ly/3srFzy3)
 
 | Pin Number | Description   |
 | ---------- | ------------- |
@@ -46,6 +46,7 @@ This water level sensor module has a series of parallel exposed traces to measur
 
 -   [Tutorial I](https://lastminuteengineers.com/water-level-sensor-arduino-tutorial/)
 -   [Tutorial II](https://www.instructables.com/How-to-use-a-Water-Level-Sensor-Arduino-Tutorial/)
+-   [Tutorial III](https://bit.ly/3stZsnZ)
 
 -   [Tutorial Video I](https://youtu.be/n7WRi5U5lQk)
 -   [Tutorial Video II](https://youtu.be/J_QNCmBe20o)
