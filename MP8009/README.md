@@ -13,6 +13,9 @@
 
 ## Descriptions
 
+The AOD4184A combines advanced trench MOSFET technology with a low resistance package to provide extremely low RDS(ON). This device is well suited for high current load applications.
+This MOSFET module uses two parallel N-Channel logic compatible MOSFETS with low Rds(on) for high current low-side switching applications.
+
 ---
 
 ## Features (Specifications)
@@ -39,14 +42,25 @@
 
 ## Pins
 
-![alt text](https://bit.ly/3w2UOQe)
+![alt text](https://bit.ly/3lUGLr8 'pinout')
 
-| Pin Number | Description |
-| ---------- | ----------- |
+|                                   | Pin Number | Description                                                  |
+| --------------------------------- | ---------- | ------------------------------------------------------------ |
+| Logic Signal Input                | TRIG/PWM   | Signal input(active HIGH)                                    |
+|                                   | GND        | Signal Ground                                                |
+| Screw Terminal(Load Power Supply) | VIN+       | Connect to power supply (5-36V) being used to power the load |
+|                                   | GND        | Connect to power supply ground                               |
+| Screw Terminal(Load)              | DC+        | Connect to positive lead of load(motor, LEDs, fan, etc)      |
+|                                   | DC-        | Connect to negative lead of load                             |
 
 ---
 
 ## Test
+
+-   [Tutorial](https://robojax.com/learn/arduino/?vid=robojax-e-Switch-AOD4184A)
+
+-   [Tutorial Video I](https://youtu.be/tCJ2Q-CT6Q8)
+-   [Tutorial Video II](https://youtu.be/ieaUl1jhDb0)
 
 **to be updated..**
 
@@ -59,5 +73,7 @@
 ---
 
 ## References
+
+-   [AOD4184A Datasheet](https://bit.ly/3fkkJg7)
 
 **to be updated..**
