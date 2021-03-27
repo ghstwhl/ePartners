@@ -13,6 +13,9 @@
 
 ## Descriptions
 
+Voice Record Module is base on ISD1820, which a multiple‐message record/playback device.It can offers true single‐chip voice recording, no‐volatile storage, and playback capability around 10 seconds. This module is easy to use which you could direct control by push button on board or by Microcontroller such as Arduino, STM32, ChipKit etc. From these, you can easy control record , playback and repeat and so on.
+It doesn't support to save multi recording. Next recording should be overwriting to the before recording.
+
 ---
 
 ## Features (Specifications)
