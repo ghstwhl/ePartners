@@ -73,4 +73,4 @@ This particular slider has what is known as a logarithmic taper from the center 
 
 ## References
 
--   **to be updated..**
+**to be updated..**
