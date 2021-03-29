@@ -62,7 +62,7 @@ Dimension 33.2mm×33.2mm×25mm
 
 ## Test
 
--   [Tutorial I](https://bit.ly/3u2kD14)
+-   [Tutorial I](http://bit.ly/Colour-Sensor-GY-31)
 -   [Tutorial II](https://randomnerdtutorials.com/arduino-color-sensor-tcs230-tcs3200/)
 -   [Tutorial III](https://bit.ly/31rD96z)
 
