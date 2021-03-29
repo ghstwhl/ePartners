@@ -40,9 +40,9 @@ DS18B20 is 1-Wire digital temperature sensor from Maxim IC. Reports degrees in C
 
 ## Pins
 
-| ![alt text](https://bit.ly/3u5VaDI'pinout')          | ![alt text](https://bit.ly/39o7wiG'pinout') |
-| ---------------------------------------------------- | ------------------------------------------- |
-| Please see the [Tutorial II](https://bit.ly/2PJMhkE) |
+| ![alt text](https://bit.ly/3u5VaDI 'pinout')         | ![alt text](https://bit.ly/319o7wiG 'pinout') |
+| ---------------------------------------------------- | --------------------------------------------- |
+| Please see the [Tutorial II](https://bit.ly/2PJMhkE) |                                               |
 
 | Pin    | Desscription     |
 | ------ | ---------------- |
