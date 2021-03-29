@@ -23,22 +23,26 @@ will fit in small places. It comes with a 3 horns (arms) and hardware.
 
 ## Features (Specifications)
 
-| Features (Specifications) |                         |
-| ------------------------- | ----------------------- |
-| Operating Voltage         | +5V typically           |
-| Torque                    | : 2.5kg/cm              |
-| Operating speed           | 0.1s/60°                |
-| Gear Type                 | Plastic                 |
-| Rotation                  | 0°-180°                 |
-| Weight of motor           | 9gm                     |
-| Package includes          | gear horns and screws   |
-| Size                      | 21.5 mmX11.8 mmX22.7 mm |
+| Features (Specifications) |                                                           |
+| ------------------------- | --------------------------------------------------------- |
+| Product Model             | MG90S                                                     |
+| Working torque            | 2KG/cm                                                    |
+| Reaction speed            | 0.11 seconds / 60 degrees (4.8V)                          |
+| The dead band setting     | 5 microseconds                                            |
+| Plug Type                 | JR, FUTABA General                                        |
+| Rotation angle            | 180 degrees                                               |
+| Servo                     | analog Servo                                              |
+| Operating voltage         | 4.8V                                                      |
+| Structural Material       | copper metal teeth, coreless motor, double ball bearing   |
+| Scope                     | small and medium-sized electric model aircraft and model. |
+| Colour                    | As the picture                                            |
+| Product size              | approx. 22.8mm x 12.2mm x 28.5mm (L*W*H)(each)            |
 
 ---
 
 ## Pins
 
-| ![alt text](https://bit.ly/3dci7yo 'Servo') |
+| ![alt text](https://bit.ly/3sByE5g 'Servo') |
 | ------------------------------------------- |
 
 | Wire Number | Wire Colour | Description                                                 |
@@ -54,8 +58,8 @@ will fit in small places. It comes with a 3 horns (arms) and hardware.
 -   [Tutorial I](http://bit.ly/Servo-Motor-Control-with-an-Arduino)
 -   [Tutorial II](http://bit.ly/How-Servo-Motors-Work)
 
--   [Tutorial Video I](https://youtu.be/SfmHNb5QAzc)
--   [Tutorial Video II](https://youtu.be/dJAlkrXbfbQ)
+-   [Tutorial Video I](https://youtu.be/oOA_Ap49dlA)
+-   [Tutorial Video II](https://youtu.be/n3xtyCH2tiw)
 
 **to be updated..**
 
