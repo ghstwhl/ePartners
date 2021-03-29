@@ -1,4 +1,4 @@
-#
+# Colour Recognition Sensor Module TCS3200
 
 ## Table of Contents
 
@@ -19,25 +19,22 @@ This module is based on the TCS3200 chip, an upgraded version of the TCS230, whi
 
 ## Features (Specifications)
 
-| Features (Specifications) |
-| ------------------------- |
-
-High-Resolution Conversion of Light
-Intensity to Frequency
-Programmable Color and Full-Scale Output
-Frequency
-Communicates Directly With a Microcontroller
-Single-Supply Operation (2.7 V to 5.5 V)
-Power Down Feature
-Nonlinearity Error Typically 0.2% at 50 kHz
-Stable 200 ppm/°C Temperature Coefficient
-Low-Profile Lead (Pb) Free and RoHS
-Compliant Surface-Mount Package
-Operating Voltage Range 2.7~5 V
-Supply Current 5V LED ON 25mA
-interfaces Output frequency
-Operating Temperatu -40°~ 85°
-Dimension 33.2mm×33.2mm×25mm
+| Features (Specifications)                    |
+| -------------------------------------------- |
+| High-Resolution Conversion of Light          |
+| Intensity to Frequency                       |
+| Programmable Color and Full-Scale Output     |
+| Communicates Directly With a Microcontroller |
+| Single-Supply Operation (2.7 V to 5.5 V)     |
+| Power Down Feature                           |
+| Nonlinearity Error Typically 0.2% at 50 kHz  |
+| Stable 200 ppm/°C Temperature Coefficient    |
+| Low-Profile Lead (Pb) Free and RoHS          |
+| Compliant Surface-Mount Package              |
+| Supply Current 5V LED ON 25mA                |
+| interfaces Output frequency                  |
+| Operating Temperatu -40°~ 85°                |
+| Dimension 33.2mm×33.2mm×25mm                 |
 
 ---
 
