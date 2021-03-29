@@ -60,13 +60,13 @@ The ULN2003 is one of the most common motor driver ICs, consisting of an array o
 | ![alt text](https://bit.ly/3dfYyVP '28BYJ-48') | ![alt text](https://bit.ly/3rzcvU2 '28BYJ-48') |
 | ---------------------------------------------- | ---------------------------------------------- |
 
-| No. | Pin Name | Wire Color | Description                                                                                                                                                                                         |
-| --- | -------- | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | Coil 1   | Orange     | This Motor has a total of four coils. One end of all the coils are connect to +5V (red) wire and the other end of each coil is pulled out as wire colors Orange, Pink, Yellow and Blue respectively |
-| 2   | Coil 2   | Pink       |                                                                                                                                                                                                     |
-| 3   | Coil 3   | Yellow     |                                                                                                                                                                                                     |
-| 4   | Coil 4   | Blue       |                                                                                                                                                                                                     |
-| 5   | +5V      | Red        | We should supply +5V to this wire, this voltage will appear across the coil that is grounded                                                                                                        |
+| No. | Pin Name | Wire Color | Description                                                                                                                                                                                                              |
+| --- | -------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1   | Coil 1   | Orange     | <td rowspan="4">This Motor has a total of four coils. One end of all the coils are connect to +5V (red) wire and the other end of each coil is pulled out as wire colors Orange, Pink, Yellow and Blue respectively</td> |
+| 2   | Coil 2   | Pink       |                                                                                                                                                                                                                          |
+| 3   | Coil 3   | Yellow     |                                                                                                                                                                                                                          |
+| 4   | Coil 4   | Blue       |                                                                                                                                                                                                                          |
+| 5   | +5V      | Red        | We should supply +5V to this wire, this voltage will appear across the coil that is grounded                                                                                                                             |
 
 ---
 
