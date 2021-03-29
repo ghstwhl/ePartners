@@ -37,10 +37,21 @@ Each can provide continuous current of 1.5A, peak current up to 2.5A, thermal pr
 
 ## Pins
 
-| ![alt text](https://bit.ly/3dfYyVP '28BYJ-48') | ![alt text](https://bit.ly/3rzcvU2 '28BYJ-48') |
-| ---------------------------------------------- | ---------------------------------------------- |
+| ![alt text](https://bit.ly/3cDj97H 'Mini') |
+| ------------------------------------------ |
 
-| No. | Pin Name | Wire Color | Description |
+| Pin   | Description                                          |
+| ----- | ---------------------------------------------------- |
+| Out 1 | Motor A lead out                                     |
+| Out 2 | Motor A lead out                                     |
+| Out 3 | Motor B lead out                                     |
+| Out 4 | Mo (Can actually be from 5v-35v, just marked as 12v) |
+| -     | Ground                                               |
+| +     | Supply voltage 2~10V                                 |
+| In1   | Enable Motor A                                       |
+| In2   | Enable Motor A                                       |
+| In3   | Enable Motor B                                       |
+| In4   | Enable Motor B                                       |
 
 ---
 
@@ -61,5 +72,7 @@ Each can provide continuous current of 1.5A, peak current up to 2.5A, thermal pr
 ---
 
 ## References
+
+-   [L298 Datasheet](https://bit.ly/3u1pxLJ)
 
 **to be updated..**
