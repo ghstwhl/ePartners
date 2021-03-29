@@ -45,22 +45,20 @@ The L298N driver module, using ST's L298N chip can directly drive two 3-30V DC m
 
 ![alt text](https://bit.ly/3rB6dDn 'L298N')
 
-| Pin   | Description                                               |
-| ----- | --------------------------------------------------------- |
-| Out 1 | Motor A lead out                                          |
-| Out 2 | Motor A lead out                                          |
-| Out 3 | Motor B lead out                                          |
-| Out 4 | Mo (Can actually be from 5v-35v, just marked as 12v)      |
-| GND   | Ground                                                    |
-| 5v    | 5v input                                                  |
-|       | unnecessary if your power source is 7v-35v                |
-|       | if the power source is 7v-35v then it can act as a 5v out |
-| EnA   | Enables PWM signal for Motor A                            |
-| In1   | Enable Motor A                                            |
-| In2   | Enable Motor A                                            |
-| In3   | Enable Motor B                                            |
-| In4   | Enable Motor B                                            |
-| EnB   | Enables PWM signal for Motor B                            |
+| Pin   | Description                                                                                                   |
+| ----- | ------------------------------------------------------------------------------------------------------------- |
+| Out 1 | Motor A lead out                                                                                              |
+| Out 2 | Motor A lead out                                                                                              |
+| Out 3 | Motor B lead out                                                                                              |
+| Out 4 | Mo (Can actually be from 5v-35v, just marked as 12v)                                                          |
+| GND   | Ground                                                                                                        |
+| 5v    | 5v input unnecessary if your power source is 7v-35v if the power source is 7v-35v then it can act as a 5v out |
+| EnA   | Enables PWM signal for Motor A                                                                                |
+| In1   | Enable Motor A                                                                                                |
+| In2   | Enable Motor A                                                                                                |
+| In3   | Enable Motor B                                                                                                |
+| In4   | Enable Motor B                                                                                                |
+| EnB   | Enables PWM signal for Motor B                                                                                |
 
 ---
 
