@@ -68,7 +68,7 @@ The measuring distance range from 1mm to 8mm, and the central point is about 2.5
 
 ## References
 
--   [TCRT500 Data sheet](https://bit.ly/397eetu)
+-   [TCRT5000 Data sheet](https://bit.ly/397eetu)
 -   [LM393 Datasheet](https://bit.ly/2PngwO8)
 
 **to be updated..**
