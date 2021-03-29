@@ -19,22 +19,23 @@ The L298N driver module, using ST's L298N chip can directly drive two 3-30V DC m
 
 ## Features (Specifications)
 
-| Features (Specifications)                        |                                                                                                 |
-| ------------------------------------------------ | ----------------------------------------------------------------------------------------------- |
-| Driver                                           | L298N Dual H Bridge DC Motor Driver IC                                                          |
-| Driven part of the terminal supply area Vs       | +5 V ~ +35 V (such as the need to take power within the board the supply area Vs: +7 V ~ +35 V) |
-| Driven part of the peak current Io               | 2A                                                                                              |
-| The logical part of the terminal supply area Vss | +5 V ~ +7 V (can take power within the board +5 V)                                              |
-| The logical part of the operating current range  | 0 ~ 36mA                                                                                        |
-| Control signal input voltage range               | Low:-0.3V                                                                                       |
-|                                                  | High: 2.3V                                                                                      |
-| Enable signal input voltage range                | Low: -0.3                                                                                       |
-|                                                  | High: 2.3V                                                                                      |
-| Maximum power consumption                        | 20W (when the temperature T = 75 Deg C)                                                         |
-| Storage temperature                              | -25 Deg C ~ +130 Deg C                                                                          |
-| Other Extensions                                 | Control of direction indicators the logic part of the plate to take power interface             |
-| Driver Board Size                                | 55mm _ 60mm _ 30mm                                                                              |
-| Drive plate Weight                               | 33g                                                                                             |
+| Features (Specifications)                        |                                                                                     |
+| ------------------------------------------------ | ----------------------------------------------------------------------------------- |
+| Driver                                           | L298N Dual H Bridge DC Motor Driver IC                                              |
+| Driven part of the terminal supply area Vs       | +5 V ~ +35 V (such as the need to take power within the board the supply area Vs: ) |
+|                                                  | +7 V ~ +35 V                                                                        |
+| Driven part of the peak current Io               | 2A                                                                                  |
+| The logical part of the terminal supply area Vss | +5 V ~ +7 V (can take power within the board +5 V)                                  |
+| The logical part of the operating current range  | 0 ~ 36mA                                                                            |
+| Control signal input voltage range               | Low:-0.3V                                                                           |
+|                                                  | High: 2.3V                                                                          |
+| Enable signal input voltage range                | Low: -0.3                                                                           |
+|                                                  | High: 2.3V                                                                          |
+| Maximum power consumption                        | 20W (when the temperature T = 75 Deg C)                                             |
+| Storage temperature                              | -25 Deg C ~ +130 Deg C                                                              |
+| Other Extensions                                 | Control of direction indicators the logic part of the plate to take power interface |
+| Driver Board Size                                | 55mm _ 60mm _ 30mm                                                                  |
+| Drive plate Weight                               | 33g                                                                                 |
 
 ---
 
