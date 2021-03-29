@@ -23,7 +23,7 @@ will fit in small places. It comes with a 3 horns (arms) and hardware.
 
 ## Features (Specifications)
 
-| Features (Specifications) |
+| Features (Specifications) |                         |
 | ------------------------- | ----------------------- |
 | Operating Voltage         | +5V typically           |
 | Torque                    | : 2.5kg/cm              |
