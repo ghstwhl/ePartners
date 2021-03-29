@@ -1,4 +1,4 @@
-#
+# High Power 15A 400W MOSFET Trigger Switch Drive Module
 
 ## Table of Contents
 
