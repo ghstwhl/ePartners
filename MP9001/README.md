@@ -1,4 +1,4 @@
-#
+# LAN8720 module Ethernet transceiver RMII interface development board
 
 ## Table of Contents
 
