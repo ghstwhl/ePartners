@@ -1,4 +1,4 @@
-#
+# 10K linear Sliding potentiometer
 
 ## Table of Contents
 

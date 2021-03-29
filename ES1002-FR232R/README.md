@@ -63,7 +63,7 @@
 ## Troubleshooting
 
 -   If you cannot connect your NodeMCU board to the computer, check your COM port in "Device manager"
--   If the CH340 Driver is not installed, please [download & install](driver/)
+-   If the FT232R Driver is not installed, please [download & install](driver/)
 
 **to be updated..**
 
