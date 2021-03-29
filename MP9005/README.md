@@ -19,20 +19,27 @@ The nRF24L01+ transceiver module is designed to operate in 2.4 GHz worldwide ISM
 
 ## Features (Specifications)
 
-| Features (Specifications)        |                                                                     |
-| -------------------------------- | ------------------------------------------------------------------- |
-| Voltage                          | 3-3.6V                                                              |
-| Max output power                 | +20 dBm                                                             |
-| Working current in transmit mode | 115mA                                                               |
-| Working current in receiver mode | 45mA                                                                |
-| Current in mode                  | 4.2uA                                                               |
-| Operating temperature            | -20-70 degree                                                       |
-| Receiver sensitivity             | -92dBm in 2Mbps mode, -95dBm in 1Mbps mode, -104dBm in 250kbps mode |
-| PA growth                        | 20dB                                                                |
-| LAN growth                       | 10dB                                                                |
-| LAN noise figure                 | 2.6dB                                                               |
-| Antenna growth                   | 2dBI                                                                |
-| 2M rate                          | 520m                                                                |
+| Features (Specifications)    |                                                            |
+| ---------------------------- | ---------------------------------------------------------- |
+| Maximum operating speeds     | up to 2Mbps,                                               |
+|                              | GFSK modulation efficiency                                 |
+|                              | Anti-interference ability                                  |
+|                              | Particularly suitable for industrial control applications  |
+| Channels                     | 125 Channels                                               |
+|                              | Multi-point communication and frequency                    |
+|                              | hopping to meet the communication needs                    |
+| Control                      | Built-in hardware CRC error detection                      |
+|                              | Multipoint communication address control                   |
+| Low-power                    | 1.9 ~ 3.6V, only 1uA on Power-down mode                    |
+| Built-in 2.4Ghz antenna      |                                                            |
+| Software                     | Available software to set the address                      |
+|                              | only received local Address                                |
+|                              | when output data(Provide interrupt instruction)            |
+|                              | can be directly connected to a variety of microcontrollers |
+|                              | Software programming is very convenient                    |
+| Voltage regulator            | Built-in                                                   |
+| Standard DIP Pitch Interface | for embedded applications                                  |
+| size                         | 34mm X 17mm X 1mm                                          |
 
 ---
 
