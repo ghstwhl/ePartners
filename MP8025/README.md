@@ -1,4 +1,4 @@
-# DS18b20 Waterproof temperature probe - 2M
+# DS18b20 Waterproof temperature probe
 
 ## Table of Contents
 
