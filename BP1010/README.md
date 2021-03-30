@@ -13,6 +13,8 @@
 
 ## Descriptions
 
+PIR sensors often referred to as, "Passive Infrared" or "IR motion" sensors, enable you to sense motion. Everything emits a small amount of infrared radiation (IR), and the hotter something is, the more radiation it emits. PIR sensors are able to detect a change in average IR levels of their detection zone (e.g. when a human enters a room, that room will increase in temperature slightly) and hence sense motion.
+
 ---
 
 ## Features (Specifications)
