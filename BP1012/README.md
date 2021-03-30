@@ -37,7 +37,7 @@ The CNC Shield V3.0 allows you to build a engraving machine, 3D printer, mini CN
 
 ## Pins
 
-| ![alt text](https://bit.ly/3m6TcAm 'CNC shield') |
+| ![alt text](https://bit.ly/3w7CQfv 'CNC shield') |
 | ------------------------------------------------ |
 
 ---
