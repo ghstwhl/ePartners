@@ -1,4 +1,4 @@
-#
+# CNC Shield V3.0
 
 ## Table of Contents
 
@@ -63,5 +63,8 @@ The CNC Shield V3.0 allows you to build a engraving machine, 3D printer, mini CN
 ---
 
 ## References
+
+-   [CNC shield Guide](https://bit.ly/3u6LPvn)
+-   [DRV8825 Datasheet](https://bit.ly/3m4GAJU)
 
 **to be updated..**
