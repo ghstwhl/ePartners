@@ -19,8 +19,8 @@ IR or infrared communication is one of the most common methods of wireless commu
 
 ## Features (Specifications)
 
-| Features (Specifications)                                                                               |     |
-| ------------------------------------------------------------------------------------------------------- | --- |
+| Features (Specifications)                                                                               |
+| ------------------------------------------------------------------------------------------------------- |
 | Latest infrared wireless remote control kit                                                             |
 | Mini Slim 38KHz IR remote control                                                                       |
 | Infrared receiver modules                                                                               |
