@@ -19,8 +19,8 @@ IR or infrared communication is one of the most common methods of wireless commu
 
 ## Features (Specifications)
 
-| Features (Specifications)                                                                               |                             |
-| ------------------------------------------------------------------------------------------------------- | --------------------------- |
+| Features (Specifications)                                                                               |     |
+| ------------------------------------------------------------------------------------------------------- | --- |
 | Latest infrared wireless remote control kit                                                             |
 | Mini Slim 38KHz IR remote control                                                                       |
 | Infrared receiver modules                                                                               |
@@ -28,7 +28,8 @@ IR or infrared communication is one of the most common methods of wireless commu
 | Ideal for a variety of devices in the control room                                                      |
 | Standard 38KHz modulation remote control signal through programming                                     |
 | Signal decoding operation                                                                               |
-| Transmission Distance: 8m above (specific and surroundings, the receiver sensitivity and other factors) | Effective angle: 60 degrees |
+| Transmission Distance: 8m above (specific and surroundings, the receiver sensitivity and other factors) |
+| Effective angle: 60 degrees                                                                             |
 | Sticking Material: 0.125mmPET, the effective life of 20,000 times                                       |
 | Stable quality, cost-effective                                                                          |
 | quiescent current 3-5uA, dynamic current 3-5mA                                                          |
