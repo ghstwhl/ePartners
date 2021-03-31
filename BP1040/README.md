@@ -38,6 +38,7 @@ The L9110S Dual Channel Motor Driver Module is a compact board that can be used 
 
 | ![alt text](https://bit.ly/3djnbRI 'L9110S') | ![alt text](https://bit.ly/2QI2win 'L9110S') |
 | -------------------------------------------- | -------------------------------------------- |
+|                                              | [Hobbycomponents](www.hobbycomponents.com)   |
 
 | Pin Name | Description     |
 | -------- | --------------- |
