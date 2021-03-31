@@ -61,8 +61,6 @@ The Arduino Joystick Shield v2.4 provides seven momentary pushbutton switches (s
 -   [Tutorial Video II](https://youtu.be/idHijdh6f_Q)
 -   [Tutorial Video III](https://youtu.be/TbYrIY70Lec)
 
-**Tutorial Video II~IV are seris of the L9110 Driver**
-
 **to be updated..**
 
 ---
