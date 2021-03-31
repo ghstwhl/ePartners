@@ -35,9 +35,6 @@ The Arduino Joystick Shield v2.4 provides seven momentary pushbutton switches (s
 
 ## Pins
 
-| ![alt text](https://bit.ly/3djnbRI 'L9110S') | ![alt text](https://bit.ly/2QI2win 'L9110S') |
-| -------------------------------------------- | -------------------------------------------- |
-
 | Pin    | #   | KEY      |
 | ------ | --- | -------- |
 | D0(RX) | 0   | NULL     |
