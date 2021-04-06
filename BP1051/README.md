@@ -19,15 +19,15 @@ This little module is a breakout board for the IFR520 MOSFET transistor. The mod
 
 ## Features (Specifications)
 
-| Features (Specifications)                                                     |
-| ----------------------------------------------------------------------------- | ------------------------------ |
-| Max load (drain) current                                                      | <5A,Output load voltage :0-24V |
-| Voltage                                                                       | 3.3V, 5V                       |
-| Platform                                                                      | MCU, ARM, Raspberry Pi         |
-| Using original IRF520 Power MOS                                               |                                |
-| you can adjust the output PWM                                                 |                                |
-| For Arduino Drive up to 24V allows the load                                   |                                |
-| PWM dimming LED can be used to achieve stepless dimming, variable speed motor |                                |
+| Features (Specifications)                                                      |
+| ------------------------------------------------------------------------------ | ------------------------------ |
+| Max load (drain) current                                                       | <5A,Output load voltage :0-24V |
+| Voltage                                                                        | 3.3V, 5V                       |
+| Platform                                                                       | MCU, ARM, Raspberry Pi         |
+| Using original IRF520 Power MOS                                                |                                |
+| you can adjust the output PWM                                                  |                                |
+| For Arduino Drive up to 24V allows the load                                    |                                |
+| PWM dimming LED can be used to achieve step-less dimming, variable-speed motor |                                |
 
 ---
 
