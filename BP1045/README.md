@@ -21,7 +21,7 @@ This rotary encoder has 12 steps but others may have more or less.
 
 ## Features (Specifications)
 
-| Features (Specifications) |
+| Features (Specifications) |                     |
 | ------------------------- | ------------------- |
 | Pulses Per Revolution     | 18                  |
 | Shaft Style               | Flat                |
