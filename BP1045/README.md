@@ -22,7 +22,15 @@ This rotary encoder has 12 steps but others may have more or less.
 ## Features (Specifications)
 
 | Features (Specifications) |
-| ------------------------- |
+| ------------------------- | ------------------- |
+| Pulses Per Revolution     | 18                  |
+| Shaft Style               | Flat                |
+| Shaft Diameter            | 6 mm                |
+| Encoder Reading           | Incremental         |
+| Encoder Signal            | Digital Square Wave |
+| Shaft Length              | 20mm                |
+| Mounting Type             | Through Hole        |
+| Index Output              | Not Indexed         |
 
 ---
 
@@ -61,6 +69,7 @@ This rotary encoder has 12 steps but others may have more or less.
 
 ## References
 
+-   [EC11](https://bit.ly/3fO8Orq)
 -   [For more information](https://bit.ly/3fTrpT3)
 
 **to be updated..**
