@@ -21,15 +21,8 @@ This rotary encoder has 12 steps but others may have more or less.
 
 ## Features (Specifications)
 
-| Features (Specifications)                              |
-| ------------------------------------------------------ |
-| Operating voltage: 5V.                                 |
-| Pulses/360° Rotation: 20.                              |
-| Output: 2-bit gray code                                |
-| Mechanical Angle: 360° continuous.                     |
-| With built in push button switch (push to operate)     |
-| Dimensions: (30 x 18 x 30) mm.                         |
-| Compatible with Arduino/Raspberry Pi controller board. |
+| Features (Specifications) |
+| ------------------------- |
 
 ---
 
