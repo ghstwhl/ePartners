@@ -13,6 +13,13 @@
 
 ## Descriptions
 
+TM1638 is an IC dedicated to LED (light emitting diode display) drive control and equipped
+with a keypad scan interface. It integrates MCU digital interface, data latch, LED drive, and
+keypad scanning circuit. This product is reliable in quality, stable in performance and strong in
+interference resistance. It is mainly used for household electrical appliances (smart water
+heaters, microwave ovens, washing machines, air conditioners, electric stove), set-top boxes,
+electronic scale, smart meters and other digital tube or LED display devices.
+
 ---
 
 ## Features (Specifications)
