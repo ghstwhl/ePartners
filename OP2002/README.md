@@ -45,11 +45,11 @@ To get over this obstacle you need a device that can shift 3.3V up to 5V or 5V d
 
 -   [Tutorial I](https://bit.ly/3wHqOd9)
 -   [Tutorial II](https://bit.ly/3urpsRE)
--   [Tutorial II]()
+-   [Tutorial II](https://bit.ly/31T8tLS)
 
--   [Tutorial Video I]()
--   [Tutorial Video II]()
--   [Tutorial Video III]()
+-   [Tutorial Video I](https://youtu.be/ze-dD9D94F8)
+-   [Tutorial Video II](https://youtu.be/RBDVBafNF44)
+-   [Tutorial Video III](https://youtu.be/ouquHr5W40g)
 
 **to be updated..**
 
