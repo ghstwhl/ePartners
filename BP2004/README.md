@@ -46,8 +46,8 @@ It has 3 Outputs so you can test 3 servos and or ESC’s at the same time.
 
 ## Pins
 
-| ![alt text](https://bit.ly/3cXkuGc'servo') | ![alt text](https://bit.ly/2PWW8DD 'servo') | ![alt text](https://bit.ly/2PWW9aF 'servo') |
-| ------------------------------------------ | ------------------------------------------- | ------------------------------------------- |
+| ![alt text](https://bit.ly/3cXkuGc 'servo') | ![alt text](https://bit.ly/2PWW8DD 'servo') | ![alt text](https://bit.ly/2PWW9aF 'servo') |
+| ------------------------------------------- | ------------------------------------------- | ------------------------------------------- |
 
 | Pin Name | Description                                                                       |
 | -------- | --------------------------------------------------------------------------------- |
