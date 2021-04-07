@@ -27,8 +27,7 @@ TPA3118 Mono Amplifier is a Class-D stereo efficient, digital amplifier that can
 | Feedback Power-Stage Architecture                          |                                              |
 | Differential and Single-Ended Inputs                       |                                              |
 | Stereo and Mono Mode With Single-Filter Mono Configuration |                                              |
-| Integrated Self-Protection Circuits                        |                                              |
-|                                                            | Overvoltage                                  |
+| Integrated Self-Protection Circuits                        | Overvoltage                                  |
 |                                                            | Undervoltage                                 |
 |                                                            | Overtemperature                              |
 |                                                            | DC-Detect                                    |
