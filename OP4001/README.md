@@ -37,8 +37,8 @@ The entire device includes a 150µA low-power shutdown mode, analog and digital 
 
 ## Pins
 
-| ![alt text]('MAX7219') |
-| ---------------------- |
+| ![alt text](https://bit.ly/3s47eEj 'MAX7219') |
+| --------------------------------------------- |
 
 | Pin Name | Description        |
 | -------- | ------------------ |
