@@ -1,4 +1,4 @@
-#
+# Color Sensor Recognition Module - TCS34725
 
 ## Table of Contents
 
