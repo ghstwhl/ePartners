@@ -37,8 +37,6 @@ The Sound Recorder Module uses the ISD1760 Chip to record and store voice signal
 
 ## Pins
 
-![alt text]('')
-
 | Pin name    | Description                                                                                                                  |
 | ----------- | ---------------------------------------------------------------------------------------------------------------------------- |
 | LED         | LED turns on during recording and blinks LED during playback, forward, and erase operations                                  |
