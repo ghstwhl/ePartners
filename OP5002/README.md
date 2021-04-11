@@ -32,7 +32,7 @@
 
 ## Pins
 
-![alt text](https://bit.ly/2PN45M8 'High Sensitive')
+![alt text](https://bit.ly/3d8XzI6 'High Sensitive')
 
 | Pin name | Description              |
 | -------- | ------------------------ |
