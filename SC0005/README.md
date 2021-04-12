@@ -31,8 +31,6 @@ This is a PC817 2-Channel Optocoupler Isolation Board. Onboard with 2-Channel 81
 
 ## Pins
 
-![alt text]('')
-
 | Pin name | Description                   |
 | -------- | ----------------------------- |
 | IN       | Input(5V to 24V)              |
