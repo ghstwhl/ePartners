@@ -21,8 +21,8 @@ RFID tags are used in many industries, for example, an RFID tag attached to an a
 
 ## Features (Specifications)
 
-| Features (Specifications)                                                                   |     |
-| ------------------------------------------------------------------------------------------- | --- |
+| Features (Specifications)                                                                   |
+| ------------------------------------------------------------------------------------------- |
 | MFRC522 chip based board                                                                    |
 | Operating frequency: 13.56MHz                                                               |
 | Supply Voltage: 3.3V                                                                        |
