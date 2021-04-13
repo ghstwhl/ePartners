@@ -41,7 +41,7 @@ The PCF8563 RTC Board features I2C pinheader on one side, and I2C connector on t
 
 ## Pins
 
-![alt text]('')
+![alt text](https://bit.ly/2QeNxMK 'RTC')
 
 | Pin name | Description     |
 | -------- | --------------- |
