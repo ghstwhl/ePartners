@@ -4,6 +4,7 @@
 
 -   [Descriptions](#descriptions)
 -   [Features](#features)
+-   [Pins](#pins)
 -   [Test](#test)
 -   [Troubleshooting](#troubleshooting)
 -   [References](#references)
@@ -39,6 +40,18 @@ Integrated crystal resonator improves the long-term accuracy of the device and r
 | Size : Size: 13mm(W) x 13mm(D) x 12mm (H)                                                                                                                  |
 
 ---
+
+## Pins
+
+![alt text]('')
+
+| Pin name | Description   |
+| -------- | ------------- |
+| 3.3V     | power +3.3V   |
+| SDA      | Data          |
+| SCK      | Serial Clock  |
+| NC       | No Connection |
+| GND      | Ground(-)     |
 
 ## Test
 
