@@ -29,7 +29,8 @@
 
 ## Pins
 
-|![alt text](https://bit.ly/3uIu7Pi 'Laser')|![alt text](https://bit.ly/3thOB18 'Laser')
+| ![alt text](https://bit.ly/3uIu7Pi 'Laser') | ![alt text](https://bit.ly/3thOB18 'Laser') |
+| ------------------------------------------- | ------------------------------------------- |
 
 | Pin name | Description               |
 | -------- | ------------------------- |
