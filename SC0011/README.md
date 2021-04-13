@@ -43,7 +43,7 @@ Integrated crystal resonator improves the long-term accuracy of the device and r
 
 ## Pins
 
-![alt text]('')
+![alt text](https://bit.ly/32mMyNv 'RTC Pi')
 
 | Pin name | Description   |
 | -------- | ------------- |
