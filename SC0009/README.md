@@ -13,13 +13,8 @@
 
 ## Descriptions
 
-At the heart of the module is a low-cost, extremely accurate RTC chip from Maxim – DS3231. It manages all timekeeping functions and features a simple two-wire I2C interface which can be easily interfaced with any microcontroller of your choice.
-
-The chip maintains seconds, minutes, hours, day, date, month, and year information. The date at the end of the month is automatically adjusted for months with fewer than 31 days, including corrections for leap year (valid up to 2100).
-
-The clock operates in either the 24-hour or 12-hour format with an AM/PM indicator. It also provides two programmable time-of-day alarms.
-
-The other cool feature of this board comes with SQW pin, which outputs a nice square wave at either 1Hz, 4kHz, 8kHz or 32kHz and can be handled programmatically. This can further be used as an interrupt due to alarm condition in many time-based applications.
+The DS3231 is a low-cost, extremely accurate I<sup>2</sup>C real-time clock (RTC) with an integrated temperaturecompensated crystal oscillator (TCXO) and crystal.
+The device incorporates a battery input, and maintains accurate timekeeping when main power to the device is interrupted. The integration of the crystal resonator enhances the long-term accuracy of the device as well as reduces the piece-part count in a manufacturing line.
 
 ---
 
