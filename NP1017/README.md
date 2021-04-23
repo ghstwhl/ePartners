@@ -23,8 +23,13 @@ The MAX7219 communicates with an MCU via a 3-wire SPI bus. Once the display is u
 
 ## Features (Specifications)
 
-| Features (Specifications) |     |
-| ------------------------- | --- |
+| Features (Specifications) |                  |
+| ------------------------- | ---------------- |
+| Operating voltage         | 5 V              |
+| Display driver            | MAX7219 x 4      |
+| Brightness levels         | 16               |
+| Display dimensions        | 32 x 128 x 15 mm |
+| Pixels                    | 8×32, ⌀ 3 mm     |
 
 ---
 
