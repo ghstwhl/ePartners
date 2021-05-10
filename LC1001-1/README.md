@@ -26,7 +26,10 @@ This is the test note of 1602 LCD 5V with I2C adater and Arduino Uno. You may ne
 ## With I2C LCD Adapter
 
 ## Connections
+- The Adapter should be soldered to the LCD module.
+- If you don't have experience to use this adapter, please see the link in the "References" section.
 - Connect SDA, SCL, VCC(5V on Arduino board), GND pins of I2C Adapter to the same each pin of Arduino board
+- 
 
 ## Test Code
 * This example is included in the [library](Library/) folder.
