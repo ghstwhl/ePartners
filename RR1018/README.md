@@ -216,6 +216,7 @@ void printFloat(double number, int digits)
 - Site:
   - [Tutorial 1](https://lastminuteengineers.com/neo6m-gps-arduino-tutorial/)
   - [Tutorial 2](https://www.instructables.com/id/How-to-Communicate-Neo-6M-GPS-to-Arduino/)
+  - [Tutorial 3](https://randomnerdtutorials.com/guide-to-neo-6m-gps-module-with-arduino/)
 
 - Data Sheet
   - [https://www.u-blox.com/sites/default/files/products/documents/NEO-6_DataSheet_(GPS.G6-HW-09005).pdf](https://www.u-blox.com/sites/default/files/products/documents/NEO-6_DataSheet_(GPS.G6-HW-09005).pdf)
