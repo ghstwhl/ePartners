@@ -76,6 +76,7 @@ The DFPlayer Mini MP3 Player For Arduino is a small and low price MP3 module wit
 
 ## Troubleshooting
 - If you fail to play the file & adjust the volume, please try the below code.
+- It's tested with a file (Not multiple files)
 
 ```c++
 #include "Arduino.h"
