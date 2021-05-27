@@ -75,8 +75,67 @@ The DFPlayer Mini MP3 Player For Arduino is a small and low price MP3 module wit
 ---
 
 ## Troubleshooting
+- If you fail to play the file & adjust the volume, please try the below code.
 
--   [Adjust the volume](debug/fixed_volume.ino)
+```c++
+#include "Arduino.h"
+#include "SoftwareSerial.h"
+#include "DFRobotDFPlayerMini.h"
+
+#define VOLUME             15   // Set volume value. From 0 to 30
+#define MAX_VOLUME_LEVEL   30
+
+//#define SERIAL_DEBUG
+
+SoftwareSerial mySoftwareSerial(10, 11); // RX, TX
+DFRobotDFPlayerMini myDFPlayer;
+void printDetail(uint8_t type, int value);
+int setVolume(int vol);
+
+void setup()
+{
+  mySoftwareSerial.begin(9600);
+#ifdef SERIAL_DEBUG
+  Serial.begin(115200);
+
+
+  Serial.println();
+  Serial.println(F("DFRobot DFPlayer Mini Demo"));
+  Serial.println(F("Initializing DFPlayer ... (May take 3~5 seconds)"));
+#endif
+
+  if (!myDFPlayer.begin(mySoftwareSerial)) {  //Use softwareSerial to communicate with mp3.
+#ifdef SERIAL_DEBUG
+    Serial.println(F("Unable to begin:"));
+    Serial.println(F("1.Please recheck the connection!"));
+    Serial.println(F("2.Please insert the SD card!"));
+#endif
+    while (true) {
+      delay(0); // Code to compatible with ESP8266 watch dog.
+    }
+  }
+
+#ifdef SERIAL_DEBUG
+  Serial.println(F("DFPlayer Mini online."));
+#endif
+
+  setVolume(VOLUME);
+
+//  myDFPlayer.play(1); 
+  myDFPlayer.next(); 
+}
+
+void loop() {}
+
+int setVolume(int vol) {
+  myDFPlayer.volume(0);
+
+  for (int i = 0; i < vol; i++) {
+    myDFPlayer.volumeUp();
+  }
+}
+```
+
 
 **to be updated..**
 
