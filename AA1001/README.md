@@ -38,14 +38,17 @@
 
 ## Tutorials
 
-- [First Step Tutorial course](https://randomnerdtutorials.com/arduino-mini-course-access/)
+- [Beginner Tutorial](https://www.arduino.cc/en/Guide/ArduinoUno)
+- [Free Mini course](https://randomnerdtutorials.com/arduino-mini-course-access/)
 - [Arduino Project Examples](https://randomnerdtutorials.com/projects-arduino/)
 
 ---
 
-## Troubleshooting for Windows
+## **[CH340 Driver download](https://sparks.gogo.co.nz/ch340.html)**
 
-**[CH340 Driver download](https://sparks.gogo.co.nz/ch340.html)**
+---
+
+## Troubleshooting for Windows
 
 ### How to install the CH340 Driver
 
@@ -84,4 +87,4 @@
 -   [Datasheet CH340](http://bit.ly/ch340-datasheet)
 -   [Arduino on Visual Studio code](https://maker.pro/arduino/tutorial/how-to-use-visual-studio-code-for-arduino)
 
-**..to be updated**
+**To be updated..**
