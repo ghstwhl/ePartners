@@ -3,15 +3,7 @@
 ## Table of Contents
 
 -   [Features](#features)
--   [Description](#description)
--   [Schematic](#schematic)
 -   [Turorials](#tutorials)
-    -   [Test Environment](#test-environment)
-        -   [Hardware](#hardware)
-        -   [Software](#software)
-    -   [Test](#test)
-        -   [Test Code](#test-code)
-        -   [Test Result](#test-result)
 -   [Troubleshooting for Windows](#troubleshooting-for-windows)
 -   [References](#references)
 
@@ -43,114 +35,22 @@
 
 ---
 
-## Description
-
-It's 100% compatible with the same functionality
-CH340G replace the Atmega16U2(USB Driver), faster and cheaper.
-The Mega 2560 board is compatible with most shields designed for the Uno and the former boards Duemilanove or Diecimila.
-
----
-
-## Schematic
-
-| ![alt text](http://bit.ly/aa1002-schematic 'Mega Schematic') |
-| ------------------------------------------------------------ |
-
----
-
 ## Tutorials
 
-### Test Environment
-
-#### Hardware
-
-| ![alt text](http://bit.ly/aa1002-mega 'Mega2560 R3') |
-| ---------------------------------------------------- |
-
-#### Software
-
-| ![alt text](http://bit.ly/ep_software_1 'Mega2560') |
-| --------------------------------------------------- |
-| Go to Arduino [Home](https://www.arduino.cc/)       |
-
-| ![alt text](http://bit.ly/ep_software_2 'Mega2560') |
-| --------------------------------------------------- |
-| Choose a appropriate file for your OS               |
-
-| ![alt text](http://bit.ly/ep_software_3 'Mega2560')                       |
-| ------------------------------------------------------------------------- |
-| You can just download the file or contribute & download if you would like |
-
-| ![alt text](http://bit.ly/ep_software_4 'Mega2560') |
-| --------------------------------------------------- |
-| Run the downloaded file                             |
-
-| ![alt text](http://bit.ly/ep_software_5 'Mega2560') | ![alt text](http://bit.ly/ep_software_6 'Mega2560') |
-| --------------------------------------------------- | --------------------------------------------------- |
-
-| ![alt text](http://bit.ly/ep_software_7 'Mega2560') | ![alt text](http://bit.ly/ep_software_8 'Mega2560') |
-| --------------------------------------------------- | --------------------------------------------------- |
-
-| ![alt text](http://bit.ly/ep_software_9 'Mega2560') |
-| --------------------------------------------------- |
-| Click the 'close' button to complete                |
+- [Beginner Tutorial](https://www.arduino.cc/en/Guide/ArduinoMega2560)
+- [Free Mini course](https://randomnerdtutorials.com/arduino-mini-course-access/)
+- [Arduino Project Examples](https://randomnerdtutorials.com/projects-arduino/)
+- [For more tutorials](https://images-na.ssl-images-amazon.com/images/I/D1oC-c3G5TS.pdf)
 
 ---
 
-### Test
-
-| ![alt text](https://bit.ly/ep_software_10 'Mega2560') |
-| ----------------------------------------------------- |
-| Run the Arduino IDE                                   |
-
-| ![alt text](http://bit.ly/ep_software_11 'Mega2560') |
-| ---------------------------------------------------- |
-| Default page                                         |
-
-| ![alt text](http://bit.ly/ep_software_12 'Mega2560') |
-| ---------------------------------------------------- |
-| Choose a blink example                               |
-
-| ![alt text](http://bit.ly/aa1002-board 'Mega2560')                                        |
-| ----------------------------------------------------------------------------------------- |
-| Choose the "Arduino Mega or Mega2560" Board type & Port, if not selected                  |
-| If the 'Port' button is unactivated, See the [Troubleshooting](#troubleshooting) section. |
-
-| ![alt text](http://bit.ly/uno-upload 'Mega2560')                    |
-| ------------------------------------------------------------------- |
-| Click the 'upload' button. Compile will be processed automatically. |
-
-| ![alt text](http://bit.ly/upload-done 'Mega2560') |
-| ------------------------------------------------- |
-| Check the 'Done uploading' message.               |
-
-#### Test Code
-
-```c++
-// the setup function runs once when you press reset or power the board
-void setup() {
-  // initialize digital pin LED_BUILTIN as an output.
-  pinMode(LED_BUILTIN, OUTPUT);
-}
-
-// the loop function runs over and over again forever
-void loop() {
-  digitalWrite(LED_BUILTIN, HIGH);   // turn the LED on (HIGH is the voltage level)
-  delay(1000);                       // wait for a second
-  digitalWrite(LED_BUILTIN, LOW);    // turn the LED off by making the voltage LOW
-  delay(1000);                       // wait for a second
-}
-```
-
-#### Test Result
-
-| ![alt text](test/AA1002_blink.gif 'Mega2560 R3') |
-| ------------------------------------------------ |
-| Plese see the LED with 'L' sign on the board     |
+## **#[CH340 Driver download](https://sparks.gogo.co.nz/ch340.html)#**
 
 ---
 
 ## Troubleshooting for Windows
+
+
 
 | ![alt text](http://bit.ly/trouble-1 'Port blocked')                                         |
 | ------------------------------------------------------------------------------------------- |
@@ -183,5 +83,8 @@ void loop() {
 ## References
 
 -   [Getting Started](https://www.arduino.cc/en/Guide/ArduinoMega2560)
--   [Datasheet](http://bit.ly/Arduino-Mega2560-datasheet)
+-   [Datasheet Mega2560](http://bit.ly/Arduino-Mega2560-datasheet)
+-   [Datasheet CH340](http://bit.ly/ch340-datasheet)
 -   [Arduino on Visual Studio code](https://maker.pro/arduino/tutorial/how-to-use-visual-studio-code-for-arduino)
+
+**To be updated..**
