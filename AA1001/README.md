@@ -38,13 +38,20 @@
 
 ## Tutorials
 
+- [First Step Tutorial course](https://randomnerdtutorials.com/arduino-mini-course-access/)
+- [Arduino Project Examples](https://randomnerdtutorials.com/projects-arduino/)
 
+---
 
 ## Troubleshooting for Windows
 
+**[CH340 Driver download](https://sparks.gogo.co.nz/ch340.html)**
+
+### How to install the CH340 Driver
+
 | ![alt text](http://bit.ly/trouble-1 'Port blocked')                                         |
 | ------------------------------------------------------------------------------------------- |
-| If the 'port' button is unactivated, you need to install the CH340 Driver [here.](Drivers/) |
+| If the 'port' button is unactivated, you need to install the CH340 Driver above link  |
 | For more information, please visit [here.](https://sparks.gogo.co.nz/ch340.html)            |
 
 | ![alt text](http://bit.ly/trouble-2 'Port blocked') |
@@ -76,3 +83,5 @@
 -   [Datasheet ATMEGA328P](http://bit.ly/ATmega328-Datasheet)
 -   [Datasheet CH340](http://bit.ly/ch340-datasheet)
 -   [Arduino on Visual Studio code](https://maker.pro/arduino/tutorial/how-to-use-visual-studio-code-for-arduino)
+
+**..to be updated**
