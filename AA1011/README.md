@@ -45,6 +45,9 @@
 
 ### [How to install the USB driver for Arduino Nano](https://www.instructables.com/Arduino-Nano-USB-Not-Recognizing-Fix/)
 
+#### If you can't upload the code or encounter error messages while uploading, please check your "proccessor" type on your IDE.
+#### You may need to burn bootloader.
+
 ---
 
 ## References
