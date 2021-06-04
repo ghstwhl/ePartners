@@ -34,12 +34,14 @@
 ## Tutorials
 - [Getting Started with the Arduino Nano](https://www.arduino.cc/en/Guide/ArduinoNano)
 - [Arduino Nano Blink Test](https://www.instructables.com/Arduino-Nano/)
-- [Advanced tutorial and project examples](https://randomnerdtutorials.com/projects-arduino/)
+- [More Arduino Tutorial & project examples](https://randomnerdtutorials.com/projects-arduino/)
 
 
 ---
 
 ## Troubleshooting
+### **#[CH340 Driver download_Link 1](https://sparks.gogo.co.nz/ch340.html)#**
+### **#[CH340 Driver download_Link 2](https://github.com/Maker-World/ePartners/tree/main/AA1001/drivers_)#**
 
 ---
 
