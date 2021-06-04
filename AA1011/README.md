@@ -48,6 +48,10 @@
 #### If you can't upload the code or encounter error messages while uploading, please check your "proccessor" type on your IDE.
 #### You may need to burn bootloader.
 
+#### [How to burn the boot loader 1](https://support.arduino.cc/hc/en-us/articles/360012048100-How-to-burn-the-bootloader-in-an-Arduino-Nano-using-an-Arduino-UNO)
+#### [How to burn the boot loader 2](https://youtu.be/ToKerwRR-70)
+
+
 ---
 
 ## References
