@@ -44,12 +44,10 @@
 
 ---
 
+## Troubleshooting for Windows
+
 ## **#[CH340 Driver download_Link 1](https://sparks.gogo.co.nz/ch340.html)#**
 ## **#[CH340 Driver download_Link 2](https://github.com/Maker-World/ePartners/tree/main/AA1001/drivers_)#**
-
----
-
-## Troubleshooting for Windows
 
 ### How to install the CH340 Driver
 
@@ -86,6 +84,7 @@
 -   [Arduino Home](https://www.arduino.cc/en/Guide/ArduinoUno)
 -   [Datasheet ATMEGA328P](http://bit.ly/ATmega328-Datasheet)
 -   [Datasheet CH340](http://bit.ly/ch340-datasheet)
+-   [Free eBooks Download](https://randomnerdtutorials.com/download)
 -   [Arduino on Visual Studio code](https://maker.pro/arduino/tutorial/how-to-use-visual-studio-code-for-arduino)
 
 **To be updated..**
