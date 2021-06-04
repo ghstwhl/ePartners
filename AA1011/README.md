@@ -32,6 +32,9 @@
 ---
 
 ## Tutorials
+- [Getting Started with the Arduino Nano](https://www.arduino.cc/en/Guide/ArduinoNano)
+- [Arduino Nano Blink Test](https://www.instructables.com/Arduino-Nano/)
+- [Advanced tutorial and project examples](https://randomnerdtutorials.com/projects-arduino/)
 
 
 ---
@@ -42,6 +45,6 @@
 
 ## References
 
--   [Getting Started](https://www.arduino.cc/en/Guide/ArduinoLeonardoMicro)
--   [Datasheet ATMEGA328P](http://bit.ly/atmega-328p)
+-   [For more details](https://projectiot123.com/2019/04/08/arduino-nano-for-beginners/)
+-   [Datasheet ATMEGA328](http://bit.ly/atmega-328p)
 -   [Arduino on Visual Studio code](https://maker.pro/arduino/tutorial/how-to-use-visual-studio-code-for-arduino)
