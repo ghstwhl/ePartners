@@ -44,14 +44,11 @@
 
 ---
 
-## **#[CH340 Driver download_Link 1](https://sparks.gogo.co.nz/ch340.html)#**
-## **#[CH340 Driver download_Link 2](https://github.com/Maker-World/ePartners/tree/main/AA1001/drivers_)#**
-
----
 
 ## Troubleshooting for Windows
 
-
+## **#[CH340 Driver download_Link 1](https://sparks.gogo.co.nz/ch340.html)#**
+## **#[CH340 Driver download_Link 2](https://github.com/Maker-World/ePartners/tree/main/AA1001/drivers_)#**
 
 | ![alt text](http://bit.ly/trouble-1 'Port blocked')                                         |
 | ------------------------------------------------------------------------------------------- |
@@ -86,6 +83,7 @@
 -   [Getting Started](https://www.arduino.cc/en/Guide/ArduinoMega2560)
 -   [Datasheet Mega2560](http://bit.ly/Arduino-Mega2560-datasheet)
 -   [Datasheet CH340](http://bit.ly/ch340-datasheet)
+-   [Free eBooks Download](https://randomnerdtutorials.com/download)
 -   [Arduino on Visual Studio code](https://maker.pro/arduino/tutorial/how-to-use-visual-studio-code-for-arduino)
 
 **To be updated..**
