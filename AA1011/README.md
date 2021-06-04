@@ -1,4 +1,4 @@
-# Arduino NANO V3 ATMEGA 328PBoard (MAC, Windows, Linux)
+# Arduino NANO V3 ATMEGA 328 Board (MAC, Windows, Linux)
 
 ## Table of Contents
 
@@ -13,7 +13,21 @@
 
 | Features                   |                                                       |
 | -------------------------- | ----------------------------------------------------- |
-
+|Microcontroller	|ATmega328|
+|Architecture	|AVR|
+|Operating Voltage	|5 V|
+|Flash Memory	|32 KB of which 2 KB used by bootloader|
+|SRAM	|2 KB|
+|Clock Speed	|16 MHz|
+|Analog IN Pins	|8|
+|EEPROM	|1 KB|
+|DC Current per I/O Pins|	40 mA (I/O Pins)|
+|Input Voltage	|7-12 V|
+|Digital I/O Pins|	22 (6 of which are PWM)|
+|PWM Output	|6|
+|Power Consumption|	19 mA|
+|PCB Size|	18 x 45 mm|
+|Weight|	7 g|
 
 ---
 
