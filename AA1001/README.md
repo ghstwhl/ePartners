@@ -53,6 +53,7 @@
 
 ### How to install the CH340 Driver
 
+#### 1. Check the status
 | ![alt text](http://bit.ly/trouble-1 'Port blocked')                                         |
 | ------------------------------------------------------------------------------------------- |
 | If the 'port' button is unactivated, you need to install the CH340 Driver with above link  |
