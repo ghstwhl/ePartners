@@ -46,10 +46,10 @@
 
 ## Troubleshooting for Windows
 
-1. Driver Install
+### 1. Driver Install
 
-### **#[CH340 Driver download_Link 1](https://sparks.gogo.co.nz/ch340.html)#**
-### **#[CH340 Driver download_Link 2](https://github.com/Maker-World/ePartners/tree/main/AA1001/drivers_)#**
+#### **#[CH340 Driver download_Link 1](https://sparks.gogo.co.nz/ch340.html)#**
+#### **#[CH340 Driver download_Link 2](https://github.com/Maker-World/ePartners/tree/main/AA1001/drivers_)#**
 
 ### How to install the CH340 Driver
 
