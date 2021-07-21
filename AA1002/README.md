@@ -47,14 +47,20 @@
 
 ## Troubleshooting for Windows
 
-## **#[CH340 Driver download_Link 1](https://sparks.gogo.co.nz/ch340.html)#**
-## **#[CH340 Driver download_Link 2](https://github.com/Maker-World/ePartners/tree/main/AA1001/drivers_)#**
+### - Driver Install
 
+#### **#[CH340 Driver download_Link 1](https://sparks.gogo.co.nz/ch340.html)#**
+#### **#[CH340 Driver download_Link 2](https://github.com/Maker-World/ePartners/tree/main/AA1001/drivers_)#**
+
+### How to install the CH340 Driver
+
+#### a. Check the status
 | ![alt text](http://bit.ly/trouble-1 'Port blocked')                                         |
 | ------------------------------------------------------------------------------------------- |
-| If the 'port' button is unactivated, you need to install the CH340 Driver [here.](Drivers/) |
+| If the 'port' button is unactivated, you need to install the CH340 Driver with above link  |
 | For more information, please visit [here.](https://sparks.gogo.co.nz/ch340.html)            |
 
+#### b. Unzip the downloaded file
 | ![alt text](http://bit.ly/trouble-2 'Port blocked') |
 | --------------------------------------------------- |
 | After downloading, Extract the Zip file             |
@@ -63,6 +69,7 @@
 | --------------------------------------------------- |
 | Click the 'Extract'                                 |
 
+#### c. Install the driver
 | ![alt text](http://bit.ly/trouble-4 'Port blocked')    |
 | ------------------------------------------------------ |
 | You will see an app, just run it to install the driver |
@@ -73,8 +80,8 @@
 
 | ![alt text](http://bit.ly/trouble-6 'Port blocked')                             |
 | ------------------------------------------------------------------------------- |
-| Then you will see this message! Restart the Arduino IDE                         |
-| If you fail to install, connect the Arduino to the PC and then retry to install |
+| **Then you will see this message! Restart the Arduino IDE**                         |
+| **If you fail to install, connect the Arduino to the PC and then retry to install** |
 
 ---
 
