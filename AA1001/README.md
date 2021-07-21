@@ -46,20 +46,20 @@
 
 ## Troubleshooting for Windows
 
-### 1. Driver Install
+### - Driver Install
 
 #### **#[CH340 Driver download_Link 1](https://sparks.gogo.co.nz/ch340.html)#**
 #### **#[CH340 Driver download_Link 2](https://github.com/Maker-World/ePartners/tree/main/AA1001/drivers_)#**
 
 ### How to install the CH340 Driver
 
-#### 1. Check the status
+#### a. Check the status
 | ![alt text](http://bit.ly/trouble-1 'Port blocked')                                         |
 | ------------------------------------------------------------------------------------------- |
 | If the 'port' button is unactivated, you need to install the CH340 Driver with above link  |
 | For more information, please visit [here.](https://sparks.gogo.co.nz/ch340.html)            |
 
-#### 2. Unzip the downloaded file
+#### b. Unzip the downloaded file
 | ![alt text](http://bit.ly/trouble-2 'Port blocked') |
 | --------------------------------------------------- |
 | After downloading, Extract the Zip file             |
@@ -68,7 +68,7 @@
 | --------------------------------------------------- |
 | Click the 'Extract'                                 |
 
-#### 3. Install the driver
+#### c. Install the driver
 | ![alt text](http://bit.ly/trouble-4 'Port blocked')    |
 | ------------------------------------------------------ |
 | You will see an app, just run it to install the driver |
