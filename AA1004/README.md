@@ -6,7 +6,7 @@
 -   [Description](#description)
 -   [Schematic](#schematic)
 -   [Tutorials](#tutorials)
--   [Troubleshooting)(#troubleshooting)
+-   [Troubleshooting](#troubleshooting)
 -   [References](#references)
 
 ---
@@ -55,7 +55,8 @@ It also has other implications for the behavior of the board.
 - [Leonardo Keyboard Tutorial](https://www.youtube.com/watch?v=0fjuJOkk8y4)
 - [Advanced Project](https://www.youtube.com/watch?v=A5s_9UNFDck)
 
-For more tutorials and projects, please see [here](https://randomnerdtutorials.com/projects-arduino/)
+- [Free Mini course](https://randomnerdtutorials.com/arduino-mini-course-access/)
+- [Arduino Project Examples](https://randomnerdtutorials.com/projects-arduino/)
 
 ---
 
