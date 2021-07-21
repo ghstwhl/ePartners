@@ -6,12 +6,7 @@
 -   [Description](#description)
 -   [Schematic](#schematic)
 -   [Tutorials](#tutorials)
-    -   [Test Environment](#test-environment)
-        -   [Hardware](#hardware)
-        -   [Software](#software)
-    -   [Test](#test)
-        -   [Test Code](#test-code)
-        -   [Test Result](#test-result)
+-   [Troubleshooting)(#troubleshooting)
 -   [References](#references)
 
 ---
