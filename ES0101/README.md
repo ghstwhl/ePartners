@@ -56,7 +56,7 @@ application, with the lowest cost, and minimal space requirement.
 
 ## Pin Description
 
-|![alt text](https://bit.ly/3x5mfYM 'ESP-01 pinout')
+|![alt text](https://bit.ly/36YC1dB 'ESP-01 pinout')
 
 | NO. | Pin Name | Alternate Name | Normally used for                                      |
 | --- | -------- | -------------- | ------------------------------------------------------ |
