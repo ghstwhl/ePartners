@@ -9,9 +9,9 @@
 
 ---
 
-## Features
+## Specification
 
-| Features                   |                                                       |
+| Specification                   |                                                       |
 | -------------------------- | ----------------------------------------------------- |
 | Microcontroller            | ATmega328P                                            |
 | USB Driver                 | CH340                                                 |
