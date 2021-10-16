@@ -2,16 +2,16 @@
 
 ## Table of Contents
 
--   [Features](#features)
--   [Tutorials](#tutorials)
--   [Troubleshooting for Windows](#troubleshooting-for-windows)
--   [References](#references)
+- [Features](#features)
+- [Tutorials](#tutorials)
+- [Troubleshooting for Windows](#troubleshooting-for-windows)
+- [References](#references)
 
 ---
 
 ## Specifications
 
-| Compatible                 |                                                       |Genuine||
+| Compatible                 |                                                       |
 | -------------------------- | ----------------------------------------------------- |
 | Microcontroller            | ATmega328P                                            |
 | USB Driver                 | CH340                                                 |
@@ -49,36 +49,40 @@
 ### - Driver Install
 
 #### **#[CH340 Driver download_Link 1](https://sparks.gogo.co.nz/ch340.html)#**
+
 #### **#[CH340 Driver download_Link 2](https://github.com/Maker-World/ePartners/tree/main/AA1001/drivers_)#**
 
 ### How to install the CH340 Driver
 
 #### a. Check the status
-| ![alt text](http://bit.ly/trouble-1 'Port blocked')                                         |
-| ------------------------------------------------------------------------------------------- |
-| If the 'port' button is unactivated, you need to install the CH340 Driver with above link  |
-| For more information, please visit [here.](https://sparks.gogo.co.nz/ch340.html)            |
+
+| ![alt text](http://bit.ly/trouble-1 "Port blocked")                                       |
+| ----------------------------------------------------------------------------------------- |
+| If the 'port' button is unactivated, you need to install the CH340 Driver with above link |
+| For more information, please visit [here.](https://sparks.gogo.co.nz/ch340.html)          |
 
 #### b. Unzip the downloaded file
-| ![alt text](http://bit.ly/trouble-2 'Port blocked') |
+
+| ![alt text](http://bit.ly/trouble-2 "Port blocked") |
 | --------------------------------------------------- |
 | After downloading, Extract the Zip file             |
 
-| ![alt text](http://bit.ly/trouble-3 'Port blocked') |
+| ![alt text](http://bit.ly/trouble-3 "Port blocked") |
 | --------------------------------------------------- |
 | Click the 'Extract'                                 |
 
 #### c. Install the driver
-| ![alt text](http://bit.ly/trouble-4 'Port blocked')    |
+
+| ![alt text](http://bit.ly/trouble-4 "Port blocked")    |
 | ------------------------------------------------------ |
 | You will see an app, just run it to install the driver |
 
-| ![alt text](http://bit.ly/trouble-5 'Port blocked') |
+| ![alt text](http://bit.ly/trouble-5 "Port blocked") |
 | --------------------------------------------------- |
 | Click the 'Install'                                 |
 
-| ![alt text](http://bit.ly/trouble-6 'Port blocked')                             |
-| ------------------------------------------------------------------------------- |
+| ![alt text](http://bit.ly/trouble-6 "Port blocked")                                 |
+| ----------------------------------------------------------------------------------- |
 | **Then you will see this message! Restart the Arduino IDE**                         |
 | **If you fail to install, connect the Arduino to the PC and then retry to install** |
 
@@ -86,10 +90,10 @@
 
 ## References
 
--   [Arduino Home](https://www.arduino.cc/en/Guide/ArduinoUno)
--   [Datasheet ATMEGA328P](http://bit.ly/ATmega328-Datasheet)
--   [Datasheet CH340](http://bit.ly/ch340-datasheet)
--   [Free eBooks Download](https://randomnerdtutorials.com/download)
--   [Arduino on Visual Studio code](https://maker.pro/arduino/tutorial/how-to-use-visual-studio-code-for-arduino)
+- [Arduino Home](https://www.arduino.cc/en/Guide/ArduinoUno)
+- [Datasheet ATMEGA328P](http://bit.ly/ATmega328-Datasheet)
+- [Datasheet CH340](http://bit.ly/ch340-datasheet)
+- [Free eBooks Download](https://randomnerdtutorials.com/download)
+- [Arduino on Visual Studio code](https://maker.pro/arduino/tutorial/how-to-use-visual-studio-code-for-arduino)
 
 **To be updated..**
