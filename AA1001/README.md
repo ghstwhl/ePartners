@@ -9,9 +9,9 @@
 
 ---
 
-## Specification
+## Specifications
 
-| Specification                   |                                                       |
+| Compatible                 |                                                       |Genuine||
 | -------------------------- | ----------------------------------------------------- |
 | Microcontroller            | ATmega328P                                            |
 | USB Driver                 | CH340                                                 |
