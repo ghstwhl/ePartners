@@ -33,7 +33,7 @@
 | Power Jack                 | AC-to-DC adaptor                                      |
 | ICSP Header                | 6 pins                                                |
 | Reset Button               | tact button (Red)                                     |
-|                            |                                                       |
+| zzz                        |                                                       |
 
 ---
 
